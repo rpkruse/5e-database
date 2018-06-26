@@ -1,7 +1,7 @@
 # 5e-database
 
-Holds the database for the D&D 5th Edition API at http://dnd5eapi.co/
-
+Holds the database for the D&D 5th Edition API
+* Source from: https://github.com/adrpadua/5e-database
 There are two helper files at the moment
 * helper.js
 * urlprinter.js
