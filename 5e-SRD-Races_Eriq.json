@@ -1,0 +1,190 @@
+[
+	{
+		"index": 1,
+		"name": "Humans and Half-Breeds",
+		"subraces": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/1",
+				"name": "Seraph"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/2",
+				"name": "Goliath"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/3",
+				"name": "Half-Elf"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/4",
+				"name": "Half-Orc"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/5",
+				"name": "Human"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/6",
+				"name": "Tiefling"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/races/1"
+	},
+	{
+		"index": 2,
+		"name": "Beastfolk",
+		"subraces": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/7",
+				"name": "Centaur"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/8",
+				"name": "Keshan"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/9",
+				"name": "Minotaur"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/10",
+				"name": "Tabaxi"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/races/2"
+	},
+	{
+		"index": 3,
+		"name": "Birdfolk",
+		"subraces": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/11",
+				"name": "Arakkoa"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/12",
+				"name": "Kenku"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/races/3"
+	},
+	{
+		"index": 4,
+		"name": "Deepfolk",
+		"subraces": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/13",
+				"name": "Goblin"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/14",
+				"name": "Hobgoblin"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/15",
+				"name": "Orc"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/16",
+				"name": "Ulkier"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/races/4"
+	},
+	{
+		"index": 5,
+		"name": "Dragonkin",
+		"subraces": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/17",
+				"name": "Kobold"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/18",
+				"name": "Viashino"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/races/5"
+	},
+	{
+		"index": 6,
+		"name": "Dwarves",
+		"subraces": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/19",
+				"name": "Deep Dwarf (Duergar)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/20",
+				"name": "Hill Dwarf"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/21",
+				"name": "Mountain Dwarf"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/races/6"
+	},
+	{
+		"index": 7,
+		"name": "Feyfolk",
+		"subraces": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/22",
+				"name": "Dark Elf (Drow)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/23",
+				"name": "Deep Gnome (Svirfneblin)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/24",
+				"name": "Firbolg"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/25",
+				"name": "Deep Gnome (Svirfneblin)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/26",
+				"name": "Firbolg"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/27",
+				"name": "Halfling"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/28",
+				"name": "High Elf (Eladrin)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/29",
+				"name": "Hill Gnome"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/30",
+				"name": "Tree Gnome"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/31",
+				"name": "Triton"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/32",
+				"name": "Wood Elf"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/races/7"
+	},
+	{
+		"index": 8,
+		"name": "Planetouched",
+		"subraces": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/33",
+				"name": "Ethereal"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/races/8"
+	}
+]

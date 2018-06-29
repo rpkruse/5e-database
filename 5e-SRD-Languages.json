@@ -110,4 +110,26 @@
 	"typical_speakers": ["Underdark Traders"],
 	"script": "Elvish",
 	"url": "https://dnd-5e-api.herokuapp.com/api/languages/16"
-}]
+}, {
+	"index": 17,
+	"name": "Keshan",
+	"type": "Exotic",
+	"typical_speakers": ["Keshan"],
+	"script": "Keshan",
+	"url": "https://dnd-5e-api.herokuapp.com/api/languages/17"
+}, {
+	"index": 18,
+	"name": "Tabaxi",
+	"type": "Exotic",
+	"typical_speakers": ["Tabaxi"],
+	"script": "Tabaxi",
+	"url": "https://dnd-5e-api.herokuapp.com/api/languages/18"
+}, {
+	"index": 19,
+	"name": "Avian",
+	"type": "Exotic",
+	"typical_speakers": ["Arakkoa", "Kenku"],
+	"script": "Avian",
+	"url": "https://dnd-5e-api.herokuapp.com/api/languages/19"
+}
+]
