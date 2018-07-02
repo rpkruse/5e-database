@@ -1,366 +1,1493 @@
 [
 	{
 		"index": 1,
-		"name": "Hill Dwarf",
-		"race": {
-			"url": "https://dnd-5e-api.herokuapp.com/api/races/1",
-			"name": "Dwarf"
-		},
-		"desc": "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.",
+		"name": "Seraph",
+		"desc": "Sometimes humans are chosen at birth by the Divine Pantheon to become guiding beacons of their light. They serve as guardians of order and good, and often become powerful clerics. Seraphim appear as fair skinned humans with blonde hair and golden eyes which glow with a faint holy aura.",
 		"ability_bonuses": [
 			0,
 			0,
-			0,
-			0,
 			1,
-			0
+			0,
+			0,
+			1
 		],
+		"age": "~150 years",
+		"alignment": "Good",
+		"preferred_class": "Cleric, Paladin",
+		"size": "Medium",
+		"speed": "30ft",
 		"starting_proficiencies:": [],
-		"starting_proficiency_options": {
-			
-		},
-		"languages": [],
-		"language_options": {
-			
-		},
-		"racial_traits": [
+		"starting_proficiency_options": {},
+		"languages": [
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/traits/4",
-				"name": "Dwarven Toughness"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/10",
+				"name": "Celestial"
 			}
 		],
-		"racial_trait_options": {},
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/2",
+				"name": "Celestial Resistance"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/3",
+				"name": "Healing Touch"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/4",
+				"name": "Light Bearer"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/5",
+				"name": "Radiant Soul (3rd LVL)"
+			}
+		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/1"
 	},
 	{
 		"index": 2,
-		"name": "High Elf",
-		"race": {
-			"url": "https://dnd-5e-api.herokuapp.com/api/races/2",
-			"name": "Elf"
-		},
-		"desc": "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races.",
+		"name": "Goliath",
+		"desc": "Far in the north mountains live the giants known as Goliaths. Fearsome warriors, they possess immense strength and skin that is as gray and tough as the mountains they live in. Their tribes are reclusive and wary of outsiders. Few can say they have ever seen a Goliath.",
+		"ability_bonuses": [
+			1,
+			0,
+			2,
+			0,
+			0,
+			0
+		],
+		"age": "~100 years",
+		"alignment": "Neutral",
+		"preferred_class": "Barbarian, Shaman",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/4",
+				"name": "Giant"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/6",
+				"name": "Powerful Build"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/7",
+				"name": "Mountain Born"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/8",
+				"name": "Natural Athlete"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/9",
+				"name": "Stone’s Endurance"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/2"
+	},
+	{
+		"index": 3,
+		"name": "Half-Elf",
+		"desc": "Some say Half-Elves combine the best qualities of their parentage: Human curiosity and ingenuity along with the respect for nature and artistic tastes of the Elves. Unfortunately, many Half-Elves find themselves unable to fit into either society, and choose lives of solitary wandering or become adventurers.",
 		"ability_bonuses": [
 			0,
 			0,
 			0,
 			1,
 			0,
-			0
+			2
 		],
-		"starting_proficiencies:": [
+		"age": "~175 years",
+		"alignment": "Any",
+		"preferred_class": "Bard, Rogue",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/42",
-				"name": "Longswords"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/48",
-				"name": "Shortswords"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/33",
-				"name": "Shortbows"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/56",
-				"name": "Longbows"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/3",
+				"name": "Elvish"
 			}
 		],
-		"starting_proficiency_options": {
-			
-		},
-		"languages": [],
-		"language_options": {
-			"choose": 1,
-			"from": [
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/2",
-					"name": "Dwarvish"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/4",
-					"name": "Giant"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/5",
-					"name": "Gnomish"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/6",
-					"name": "Goblin"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/7",
-					"name": "Halfling"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/8",
-					"name": "Orc"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/9",
-					"name": "Abyssal"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/10",
-					"name": "Celestial"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/11",
-					"name": "Draconic"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/12",
-					"name": "Deep Speech"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/13",
-					"name": "Infernal"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/14",
-					"name": "Primordial"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/15",
-					"name": "Sylvan"
-				},
-				{
-					"url": "https://dnd-5e-api.herokuapp.com/api/languages/16",
-					"name": "Undercommon"
-				}
-			],
-			"type": "language"
-		},
-		"racial_traits": [],
-		"racial_trait_options": 
+		"racial_traits": [
 			{
-				"choose": 1,
-				"from": [
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/9",
-						"name": "High Elf Cantrip: Light"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/10",
-						"name": "High Elf Cantrip: Mage Hand"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/11",
-						"name": "High Elf Cantrip: Mending"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/12",
-						"name": "High Elf Cantrip: Message"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/13",
-						"name": "High Elf Cantrip: Minor Illusion"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/14",
-						"name": "High Elf Cantrip: Acid Splash"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/15",
-						"name": "High Elf Cantrip: Prestidigitation"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/16",
-						"name": "High Elf Cantrip: Ray of Frost"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/17",
-						"name": "High Elf Cantrip: Shocking Grasp"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/18",
-						"name": "High Elf Cantrip: True Strike"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/19",
-						"name": "High Elf Cantrip: Chill Touch"
-					},
-					{
-						"url": "https://dnd-5e-api.herokuapp.com/api/traits/20",
-						"name": "High Elf Cantrip: Dancing Lights"
-					}
-				],
-				"type": "trait"
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/10",
+				"name": "Fey Ancestry"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/11",
+				"name": "Versatile"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/12",
+				"name": "Elvish Knowledge"
 			}
-		,
-		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/2"
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/3"
 	},
 	{
-		"index": 3,
-		"name": "Lightfoot Halfling",
-		"race": {
-			"url": "https://dnd-5e-api.herokuapp.com/api/races/3",
-			"name": "Halfling"
-		},
-		"desc": "As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.",
+		"index": 4,
+		"name": "Half-Orc",
+		"desc": "A Half-Orc’s grey skin, jutting jaws, prominent teeth and towering build make their Orcish heritage plain for all to see. Despite their barbaric customs and savage fury, many Half-Orcs achieve notoriety for their heroic deeds as adventurers.",
+		"ability_bonuses": [
+			2,
+			0,
+			0,
+			1,
+			0,
+			0
+		],
+		"age": "~75 years",
+		"alignment": "Chaotic",
+		"preferred_class": "Barbarian, Fighter",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/16",
+				"name": "Undercommon"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/13",
+				"name": "Menacing"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/14",
+				"name": "Relentless Endurance"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/15",
+				"name": "Savage Attack"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/4"
+	},
+	{
+		"index": 5,
+		"name": "Human",
+		"desc": "Perhaps the most widespread people of Mediterra, Humans are as adaptable as they are ambitious. Whatever may drive them, humans are the innovators, the achievers, and the pioneers of the world.",
+		"ability_bonuses": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"age": "~75 years",
+		"alignment": "Any",
+		"preferred_class": "Any",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/11",
+				"name": "Versatile"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/16",
+				"name": "Well Spoken"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/5"
+	},
+	{
+		"index": 6,
+		"name": "Tiefling",
+		"desc": "Tieflings are derived from Human bloodlines, and still retain a Human-like appearance, but their infernal heritage has marked them as outcasts. Tieflings have curved horns, muscular tails, and dark reddish skin. Though infernal blood runs through their veins, Tieflings tend to be unaggressive wanderers of the eastern desert, working as bards and adventurers.",
 		"ability_bonuses": [
 			0,
 			0,
+			0,
+			2,
+			0,
+			1
+		],
+		"age": "~75 years",
+		"alignment": "Chaotic",
+		"preferred_class": "Bard, Warlock",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/13",
+				"name": "Infernal"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/17",
+				"name": "Infernal Resistance"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/18",
+				"name": "Infernal Legacy"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/19",
+				"name": "Silver Tongue (3rd LVL)"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/6"
+	},
+	{
+		"index": 7,
+		"name": "Centaur",
+		"desc": "Nomadic people of the plains, Centaurs appear as a half-horse, half-man. Centaurs are widely seen as barbaric and primal, and are often aggressive towards other races.",
+		"ability_bonuses": [
+			0,
+			1,
+			2,
+			0,
+			0,
+			0
+		],
+		"age": "~75 years",
+		"alignment": "Neutral",
+		"preferred_class": "Ranger, Shaman",
+		"size": "Medium",
+		"speed": "40ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/15",
+				"name": "Sylvan"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/20",
+				"name": "Charge"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/21",
+				"name": "Hooves"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/22",
+				"name": "Equine Build"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/23",
+				"name": "Survivor"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/24",
+				"name": "Hybrid Nature"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/7"
+	},
+	{
+		"index": 8,
+		"name": "Keshan",
+		"desc": "Lean, strong, and smart, the Keshan are a race of canine humanoids from the eastern lands. Perhaps sharing a common ancestor with the Gnolls, Keshan are a far more civilized people. They uphold a strong set of ideals and take great care in their physical appearance. To be dishevelled in public is highly dishonorable to a Keshan.",
+		"ability_bonuses": [
+			0,
+			0,
+			2,
+			0,
+			0,
+			1
+		],
+		"age": "~75 years",
+		"alignment": "Lawful",
+		"preferred_class": "Fighter, Monk",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/17",
+				"name": "Keshan"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/25",
+				"name": "Claws"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/26",
+				"name": "Vulpine Grace"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/24",
+				"name": "Hybrid Nature"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/8"
+	},
+	{
+		"index": 9,
+		"name": "Minotaur",
+		"desc": "ERIQ ADD DESC",
+		"ability_bonuses": [
+			2,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"age": "~100 years",
+		"alignment": "Chaotic",
+		"preferred_class": "Barbarian, Shaman",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/4",
+				"name": "Giant"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/27",
+				"name": "Horns"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/28",
+				"name": "Hammering Horns"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/13",
+				"name": "Menacing"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/24",
+				"name": "Hybrid Nature"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/9"
+	},
+	{
+		"index": 10,
+		"name": "Tabaxi",
+		"desc": "Hailing from the eastern deserts, Tabaxi are a race of nomadic catfolk driven by their curiosity. They often seek to collect interesting artifacts, gather tales and stories, and lay their eyes on all the world’s wonders. The fur and markings of Tabaxi vary greatly depending on their heritage.",
+		"ability_bonuses": [
+			0,
+			2,
 			0,
 			0,
 			0,
 			1
 		],
+		"age": "~50 years",
+		"alignment": "Neutral",
+		"preferred_class": "Bard, Rogue",
+		"size": "Medium",
+		"speed": "30ft",
 		"starting_proficiencies:": [],
-		"starting_proficiency_options": {
-			
-		},
-		"languages": [],
-		"language_options": {
-			
-		},
-		"racial_traits": [
+		"starting_proficiency_options": {},
+		"languages": [
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/traits/23",
-				"name": "Naturally Stealthy"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/18",
+				"name": "Tabaxi"
 			}
 		],
-		"racial_trait_options": {},
-		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/3"
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/29",
+				"name": "Feline Agility"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/30",
+				"name": "Feline Claws"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/31",
+				"name": "Feline Senses"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/10"
 	},
 	{
-		"index": 4,
+		"index": 11,
+		"name": "Arakkoa",
+		"desc": "Sequestered atop high mountains and tall trees, the Arakkoa evoke fear and wonder. Many are immigrants, scouts and explorers, living in small outposts dotted across Mediterra. Though their numbers have dwindled since the Great War, the Arakkoa are still a proud and powerful people.",
+		"ability_bonuses": [
+			0,
+			2,
+			0,
+			0,
+			1,
+			0
+		],
+		"age": "~30 years",
+		"alignment": "Good",
+		"preferred_class": "Fighter, Sorcerer",
+		"size": "Medium",
+		"speed": "20ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/19",
+				"name": "Avian"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/32",
+				"name": "Flight"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/33",
+				"name": "Talons"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/11"
+	},
+	{
+		"index": 12,
+		"name": "Kenku",
+		"desc": "Sometimes referred to as Crowfolk, the Kenku are a mysterious people. Often vagabonds or burglars, Kenku enjoy exploiting others for their own ends, though they will do anything for a shiny trinket. Unlike their close relatives, the Arakkoa, Kenku do not have wings and are incapable of flight.",
+		"ability_bonuses": [
+			0,
+			2,
+			0,
+			1,
+			0,
+			0
+		],
+		"age": "~60 years",
+		"alignment": "Chaotic",
+		"preferred_class": "Rogue, Sorcerer",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/19",
+				"name": "Avian"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/34",
+				"name": "Expert Forgery"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/35",
+				"name": "Master of Trickery"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/36",
+				"name": "Mimicry"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/12"
+	},
+	{
+		"index": 13,
+		"name": "Goblin",
+		"desc": "Goblins are squat humanoids that are almost as widespread as Humans, occupying the forests, swamps and mountains of Mediterra. While not inherently evil, Goblins often find themselves subjugated by those more powerful than them and serving other malevolent creatures. As a result, Goblins tend to be cautious of other races and keep to themselves.",
+		"ability_bonuses": [
+			0,
+			2,
+			1,
+			0,
+			0,
+			0
+		],
+		"age": "~60 years",
+		"alignment": "Neutral",
+		"preferred_class": "Rogue, Shaman",
+		"size": "Small",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/16",
+				"name": "Undercommon"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/37",
+				"name": "Who You Callin’ Small?"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/38",
+				"name": "Nimble Escape"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/13"
+	},
+	{
+		"index": 14,
+		"name": "Hobgoblin",
+		"desc": "War is the lifeblood of Hobgoblins. Larger and far more aggressive than their cousins, Hobgoblins are natural born fighters. Young Hobgoblins begin soldiering as soon as they can walk and heed the mustering call as soon as they can wield a weapon. In a land of relative peace, the Hobgoblins are often looked down upon by the rest of Mediterra.",
+		"ability_bonuses": [
+			0,
+			0,
+			2,
+			1,
+			0,
+			0
+		],
+		"age": "~75 years",
+		"alignment": "Chaotic",
+		"preferred_class": "Cleric, Fighter",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/16",
+				"name": "Undercommon"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/39",
+				"name": "Martial Training"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/40",
+				"name": "Saving Face"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/14"
+	},
+	{
+		"index": 15,
+		"name": "Orc",
+		"desc": "Orcs believe there is no place for weakness in the world, and everyone must be strong enough to take what is needed by force or die trying. Though many see the Orcs as nothing more than savage warmongers, they often live in peaceful tribes in the north. Only when their god Stratuul calls them to battle do they take up arms. With Stratuul gone, the Orcs of Mediterra have returned to their peaceful, tribal ways.",
+		"ability_bonuses": [
+			2,
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		"age": "~50 years",
+		"alignment": "Chaotic",
+		"preferred_class": "Cleric, Fighter",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/16",
+				"name": "Undercommon"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/41",
+				"name": "Mountain Born"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/42",
+				"name": "Display of Strength"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/15",
+				"name": "Savage Attack"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/15"
+	},
+	{
+		"index": 16,
+		"name": "Ulkier",
+		"desc": "A peaceful and noble race, Ulkier are nonetheless ferocious in defense of the weak. Like Goliaths, they are descended from giants. Their imposing presence conceals the true strength of their minds; Ulkier are giants in intellect as well as physicality.",
+		"ability_bonuses": [
+			0,
+			0,
+			0,
+			0,
+			2,
+			1
+		],
+		"age": "~300 years",
+		"alignment": "Good",
+		"preferred_class": "Shaman, Sorcerer",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/4",
+				"name": "Giant"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/6",
+				"name": "Powerful Build"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/7",
+				"name": "Mountain Born"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/43",
+				"name": "Scholarly"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/44",
+				"name": "Ancient Wellspring"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/16"
+	},
+	{
+		"index": 17,
+		"name": "Kobold",
+		"desc": "Kobolds are often dismissed as cowardly, foolish and weak, but these dragonkin possess a strong social structure that stresses devotion to their kin. Kobolds are clever with their hands and will viciously work together to overcome their physical limitations. In a Kobold’s perfect world, they would be left alone to dig their tunnels and gather precious gems and rare metals.",
+		"ability_bonuses": [
+			1,
+			2,
+			0,
+			0,
+			0,
+			0
+		],
+		"age": "~120 years",
+		"alignment": "Lawful",
+		"preferred_class": "Fighter, Rogue",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/11",
+				"name": "Draconic"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/45",
+				"name": "Grovel"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/46",
+				"name": "Pack Tactics"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/47",
+				"name": "Sunlight Sensitivity"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/17"
+	},
+	{
+		"index": 18,
+		"name": "Viashino",
+		"desc": "The Viashino tribe of dragonkin, sometimes referred to as Dragonborn, look very much like their larger brethren, though they stand upright upon two legs and lack wings or a tail. True to their name they were born of dragons, and still possess their magical breath. Some Viashino are faithful servants of true dragons, others seek to fight in great battles, and still others find themselves searching for their purpose in life.",
+		"ability_bonuses": [
+			2,
+			1,
+			0,
+			0,
+			0,
+			0
+		],
+		"age": "~80 years",
+		"alignment": "Lawful",
+		"preferred_class": "Cleric, Paladin",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/11",
+				"name": "Draconic"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/48",
+				"name": "Draconic Ancestry"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/49",
+				"name": "Dragonbreath"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/50",
+				"name": "Tough Scales"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/18"
+	},
+	{
+		"index": 19,
+		"name": "Deep Dwarf (Duergar)",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			0,
+			0,
+			1,
+			0,
+			2,
+			0
+		],
+		"age": "~350 years",
+		"alignment": "Chaotic",
+		"preferred_class": "Paladin, Shaman",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/2",
+				"name": "Dwarvish"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/16",
+				"name": "Undercommon"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/51",
+				"name": "Deep Resilience"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/52",
+				"name": "Deep Magic (3rd LVL)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/47",
+				"name": "Sunlight Sensitivity"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/19"
+	},
+	{
+		"index": 20,
+		"name": "Hill Dwarf",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			0,
+			0,
+			2,
+			0,
+			1,
+			0
+		],
+		"age": "~350 years",
+		"alignment": "Neutral",
+		"preferred_class": "Cleric, Druid",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/2",
+				"name": "Dwarvish"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/53",
+				"name": "Dwarven Resilience"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/54",
+				"name": "Stoneskin"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/55",
+				"name": "Survivalist"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/20"
+	},
+	{
+		"index": 21,
 		"name": "Mountain Dwarf",
-		"race": {
-			"url": "https://dnd-5e-api.herokuapp.com/api/races/1",
-			"name": "Dwarf"
-		},
-		"desc": "As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf), and tend toward lighter coloration.",
+		"desc": "The Mountain Dwarves are a bold and hardy race who live in the mountain ranges of Mediterra. They are renowned as skilled warriors, miners, and workers of stone and metal.",
 		"ability_bonuses": [
 			2,
 			0,
 			0,
 			0,
-			0,
+			1,
 			0
 		],
-		"starting_proficiencies:": [
+		"age": "~350 years",
+		"alignment": "Lawful",
+		"preferred_class": "Artificer, Paladin",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/2",
-				"name": "Medium armor"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/3",
-				"name": "Heavy armor"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/2",
+				"name": "Dwarvish"
 			}
 		],
-		"starting_proficiency_options": {},
-		"languages": [],
-		"language_options": {
-			
-		},
-		"racial_traits": [],
-		"racial_trait_options": {},
-		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/4"
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/73",
+				"name": "Master Artisan"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/74",
+				"name": "Craftsman’s Knowledge"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/75",
+				"name": "AND MY AXE!"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/21"
 	},
 	{
-		"index": 5,
-		"name": "Wood Elf",
-		"race": {
-			"url": "https://dnd-5e-api.herokuapp.com/api/races/2",
-			"name": "Elf"
-		},
-		"desc": "As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly through your native forrests.",
+		"index": 22,
+		"name": "Dark Elf (Drow)",
+		"desc": "ERIQ ADD ONE",
 		"ability_bonuses": [
 			0,
 			0,
 			0,
 			0,
 			1,
-			0
+			2
 		],
-		"starting_proficiencies:": [
+		"age": "~1000 years",
+		"alignment": "Evil",
+		"preferred_class": "Sorcerer, Warlock",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/42",
-				"name": "Longswords"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/48",
-				"name": "Shortswords"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/3",
+				"name": "Elvish"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/33",
-				"name": "Shortbows"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/56",
-				"name": "Longbows"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/16",
+				"name": "Undercommon"
 			}
 		],
-		"starting_proficiency_options": {},
-		"languages": [],
-		"language_options": {
-			
-		},
 		"racial_traits": [
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/traits/37",
-				"name": "Fleet of Foot"
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/traits/38",
-				"name": "Mask of the Wild"
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/56",
+				"name": "Trance"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/51",
+				"name": "Deep Resilience"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/57",
+				"name": "Dark Magic"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/47",
+				"name": "Sunlight Sensitivity"
 			}
 		],
-		"racial_trait_options": {},
-		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/5"
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/22"
 	},
 	{
-		"index": 6,
-		"name": "Dark Elf (Drow)",
-		"race": {
-			"url": "https://dnd-5e-api.herokuapp.com/api/races/2",
-			"name": "Elf"
-		},
-		"desc": "As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly through your native forrests.",
+		"index": 23,
+		"name": "Deep Gnome (Svirfneblin)",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			1,
+			0,
+			0,
+			2,
+			0,
+			0
+		],
+		"age": "~500 years",
+		"alignment": "Neutral",
+		"preferred_class": "Rogue, Sorcerer",
+		"size": "Small",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/16",
+				"name": "Undercommon"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/5",
+				"name": "Gnomish"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/1",
+				"name": "Darkvision"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/58",
+				"name": "Stone Camouflage"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/59",
+				"name": "Gnome Cunning"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/47",
+				"name": "Sunlight Sensitivity"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/23"
+	},
+	{
+		"index": 24,
+		"name": "Firbolg",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			1,
+			0,
+			0,
+			0,
+			2,
+			0
+		],
+		"age": "~500 years",
+		"alignment": "Neutral",
+		"preferred_class": "Druid, Shaman",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/16",
+				"name": "Sylvan"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/4",
+				"name": "Giant"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/60",
+				"name": "Firbolg Magic"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/61",
+				"name": "Hidden Step"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/24"
+	},
+	{
+		"index": 25,
+		"name": "Halfling",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			0,
+			1,
+			0,
+			0,
+			0,
+			2
+		],
+		"age": "~200 years",
+		"alignment": "Good",
+		"preferred_class": "Bard, Rogue",
+		"size": "Small",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/62",
+				"name": "Lucky"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/63",
+				"name": "Brave"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/64",
+				"name": "Naturally Stealthy"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/25"
+	},
+	{
+		"index": 26,
+		"name": "High Elf (Eladrin)",
+		"desc": "ERIQ ADD ONE",
 		"ability_bonuses": [
 			0,
 			0,
 			0,
-			0,
-			0,
-			1
+			2,
+			1,
+			0
 		],
-		"starting_proficiencies:": [
+		"age": "1000+ years",
+		"alignment": "Lawful",
+		"preferred_class": "Wizard, Sorcerer",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/46",
-				"name": "Rapiers"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/48",
-				"name": "Shortswords"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/54",
-				"name": "Crossbows, hand"
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/3",
+				"name": "Elven"
 			}
 		],
-		"starting_proficiency_options": {},
-		"languages": [],
-		"language_options": {
-			
-		},
 		"racial_traits": [
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/traits/39",
-				"name": "Superior Darkvision"
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/56",
+				"name": "Trance"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/traits/40",
-				"name": "Sunlight Sensitivity"
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/10",
+				"name": "Fey Ancestry"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/traits/41",
-				"name": "Drow Magic"
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/65",
+				"name": "Keen Senses"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/12",
+				"name": "Elvish Knowledge"
 			}
 		],
-		"racial_trait_options": {},
-		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/6"
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/26"
+	},
+	{
+		"index": 27,
+		"name": "Hill Gnome",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			0,
+			0,
+			1,
+			2,
+			0,
+			0
+		],
+		"age": "~500 years",
+		"alignment": "Neutral",
+		"preferred_class": "Artificer, Wizard",
+		"size": "Small",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/5",
+				"name": "Gnomish"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/66",
+				"name": "Craftsman’s Knowledge"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/67",
+				"name": "Master Tinker"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/68",
+				"name": "Master of Magics"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/59",
+				"name": "Gnome Cunning"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/27"
+	},
+	{
+		"index": 28,
+		"name": "Tree Gnome",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			0,
+			1,
+			0,
+			2,
+			0,
+			0
+		],
+		"age": "~500 years",
+		"alignment": "Neutral",
+		"preferred_class": "Druid, Wizard",
+		"size": "Small",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/5",
+				"name": "Gnomish"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/69",
+				"name": "Natural Illusionist"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/70",
+				"name": "Speak with Small Beasts"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/68",
+				"name": "Gnome Cunning"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/28"
+	},
+	{
+		"index": 29,
+		"name": "Triton",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			1,
+			0,
+			0,
+			0,
+			0,
+			2
+		],
+		"age": "~200 years",
+		"alignment": "Neutral",
+		"preferred_class": "Cleric, Fighter",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/20",
+				"name": "Triton"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/71",
+				"name": "Gift of the Sea"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/72",
+				"name": "Aquatic Affinity"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/29"
+	},
+	{
+		"index": 30,
+		"name": "Wood Elf",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			1,
+			0,
+			0,
+			0,
+			2,
+			0
+		],
+		"age": "1000+ years",
+		"alignment": "Neutral",
+		"preferred_class": "Druid, Ranger",
+		"size": "Medium",
+		"speed": "40ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/3",
+				"name": "Elven"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/15",
+				"name": "Sylvan"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/56",
+				"name": "Trance"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/10",
+				"name": "Fey Ancestry"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/65",
+				"name": "Keen Senses"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/76",
+				"name": "Mask of the Wild"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/30"
+	},
+	{
+		"index": 31,
+		"name": "Ethereal",
+		"desc": "ERIQ ADD ONE",
+		"ability_bonuses": [
+			0,
+			0,
+			0,
+			1,
+			2,
+			0
+		],
+		"age": "1000+ years",
+		"alignment": "Chaotic",
+		"preferred_class": "Sorcerer, Warlock",
+		"size": "Medium",
+		"speed": "30ft",
+		"starting_proficiencies:": [],
+		"starting_proficiency_options": {},
+		"languages": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/1",
+				"name": "Common"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/languages/9",
+				"name": "Abyssal"
+			}
+		],
+		"racial_traits": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/77",
+				"name": "Ethereal Glow"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/78",
+				"name": "Ethereal Body (3rd LVL)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/79",
+				"name": "Contemplative"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/80",
+				"name": "Psionic Grip"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/traits/81",
+				"name": "Ethereal Jaunt"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subraces/31"
 	}
 ]

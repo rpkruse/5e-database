@@ -1,361 +1,488 @@
 [
     {
         "index": 1,
-        "races": [
-            {
-                "name": "Dwarf"
-            },
-            {
-                "name":"Hill Dwarf"
-            },
-            {
-                "name":"Elf"
-            },
-            {
-                "name":"High Elf"
-            },
-            {
-                "name":"Gnome"
-            },
-            {
-                "name":"Rock Gnome"
-            },
-            {
-                "name":"Half-Elf"
-            },
-            {
-                "name":"Half-Orc"
-            }
-        ],
         "name": "Darkvision",
-        "desc": [
-            "You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness, only shades of gray."
-        ]
+        "desc": "You are able to see clearly up to 60ft in dim light, and in darkness up to 60ft as if it were dim light.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/1"
     },
     {
         "index": 2,
-        "races": [
-            {
-                "name": "Dwarf"
-            },
-            {"name":"Hill Dwarf"}
-        ],
-        "name": "Dwarven Resilience",
-        "desc": [
-            "You have advantage on saving throws against poison, and you have resistance against poison damage."
-        ]
+        "name": "Celestial Resistance",
+        "desc": "You have resistance to necrotic and radiant damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/2"
     },
     {
         "index": 3,
-        "races":[
-            {
-                "name":"Dwarf"
-            },
-            {"name":"Hill Dwarf"}
-        ],
-        "name":"Dwarven Combat Training",
-        "desc":[
-            "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer."
-        ]
+        "name": "Healing Touch",
+        "desc": "As an action, you can touch a creature and cause it to regain a number of HP equal to your level. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/3"
     },
     {
         "index": 4,
-        "races":[
-            {
-                "name":"Dwarf"
-            },
-            {"name":"Hill Dwarf"}
-        ],
-        "name":"Stonecunning",
-        "desc":[
-            "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
-        ]
+        "name": "Light Bearer",
+        "desc": "You know the cantrip Light. CHA is your spellcasting ability for it.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/2"
     },
     {
         "index": 5,
-        "races":[
-            {
-                "name":"Hill Dwarf"
-            }
-        ],
-        "name":"Dwarven Toughness",
-        "desc":[
-            "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
-        ]
+        "name": "Radiant Soul (3rd LVL)",
+        "desc": "As an action, you can unleash your divine power causing your eyes to glimmer and celestial wings to sprout from your back. Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30ft per round and once per turn you may deal extra radiant damage equal to your level when you damage a target with an attack or spell. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/5"
     },
     {
         "index": 6,
-        "races":[
-            {
-                "name":"Elf"
-            },
-            {"name":"High Elf"}
-        ],
-        "name":"Keen Senses",
-        "desc":[
-            "You have proficiency in the Perception skill."
-        ]
+        "name": "Powerful Build",
+        "desc": "You count as one size larger when determining the weight you can push, drag, or lift.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/6"
     },
     {
         "index": 7,
-        "races":[
-            {
-                "name":"Elf"
-            },
-            {"name":"High Elf"},
-            {
-                "name":"Hlf-Elf"
-            }
-        ],
-        "name":"Fey Ancestry",
-        "desc":[
-            "You have advantage on saving throws against being charmed, and magic cannot put you to sleep."
-        ]
+        "name": "Mountain Born",
+        "desc": "You have resistance to cold damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/7"
     },
     {
         "index": 8,
-        "races":[
-            {
-                "name":"Elf"
-            },{"name":"High Elf"}
-        ],
-        "name":"Trance",
-        "desc":[
-            "Elves do not need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fasion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting this way, you gain the same benefit that a human does from 8 hours of sleep."
-        ]
-    },
-    {
-        "index": 8,
-        "races":[
-            {
-                "name":"Elf"
-            },{"name":"High Elf"}
-        ],
-        "name":"Elf Weapon Training",
-        "desc":[
-            "You have proficiency with the longsword, shortsword, shortbow, and longbow."
-        ]
+        "name": "Natural Athlete",
+        "desc": "You have proficiency in the Athletics skill.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/8"
     },
     {
         "index": 9,
-        "races":[
-            {
-                "name":"High Elf"
-            }
-        ],
-        "name":"High Elf Cantrip",
-        "desc":[
-            "You know one cantrip of your choice form the wizard spell list. Intelligence is your spellcasting ability for it."
-        ]
+        "name": "Stone’s Endurance",
+        "desc": "You can focus yourself to shrug off an injury. When you take damage, you may roll a d12 and add your CON modifier to the number rolled, then reduce the damage by that number. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/9"
     },
     {
         "index": 10,
-        "races":[
-            {
-                "name":"High Elf"
-            }
-        ],
-        "name":"Extra Language",
-        "desc":[
-            "You can speak, read, and write one extra language of your choice."
-        ]
+        "name": "Fey Ancestry",
+        "desc": "You have advantage on saving throws against being charmed. In addition, magic can’t put you to sleep.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/10"
     },
     {
         "index": 11,
-        "races":[
-            {
-                "name":"Halfling"
-            },{"name":"Lightfoot Halfling"}
-        ],
-        "name":"Lucky",
-        "desc":[
-            "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
-        ]
+        "name": "Versatile",
+        "desc": "You gain proficiency in two skills of your choice.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/11"
     },
     {
         "index": 12,
-        "races":[
-            {
-                "name":"Halfling"
-            },{"name":"Lightfoot Halfling"}
-        ],
-        "name":"Brave",
-        "desc":[
-            "You have advantage on saving throw against being frghtened"
-        ]
+        "name": "Elvish Knowledge",
+        "desc": "ou know one cantrip of your choice from the Wizard list. INT is your spellcasting ability for it.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/12"
     },
     {
         "index": 13,
-        "races":[
-            {
-                "name":"Halfling"
-            },{"name":"Lightfoot Halfling"}
-        ],
-        "name":"Halfling Nimbleness",
-        "desc":[
-            "You can move through the space of any creature that is of a size larger than yours."
-        ]
+        "name": "Menacing",
+        "desc": "You have proficiency in the Intimidation skill.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/13"
     },
     {
         "index": 14,
-        "races":[
-            {
-                "name":"Lightfoot Halfling"
-            }
-        ],
-        "name":"Naturally Stealthy",
-        "desc":[
-            "You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
-        ]
+        "name": "Relentless Endurance",
+        "desc": " If your HP would be reduced to 0 but you are not killed outright, you may instead have it be reduced to 1. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/14"
     },
     {
         "index": 15,
-        "races":[
-            {
-                "name":"Dragonborn"
-            }
-        ],
-        "name":"Draconic Ancestry",
-        "desc":[
-            "You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
-        ]
+        "name": "Savage Attack",
+        "desc": "When you score a critical hit with a melee weapon attack, you may roll one of the weapon’s damage dice one additional time and add that number to the damage of the critical hit.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/15"
     },
     {
         "index": 16,
-        "races":[
-            {
-                "name":"Dragonborn"
-            }
-        ],
-        "name":"Breath Weapon",
-        "desc":[
-            "You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.",
-            "When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancesry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 2d6 at 6th level, 3d6 at 11th level, and 5d6 at 16th level.",
-            "After you use your breath weapon, you cannot use it again until you complete a short or long rest."
-        ]
+        "name": "Well Spoken",
+        "desc": "You can speak, read and write one language of your choice.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/16"
     },
     {
         "index": 17,
-        "races":[
-            {
-                "name":"Dragonborn"
-            }
-        ],
-        "name":"Damage Resistance",
-        "desc":[
-            "You have resistance to the damage type associated with your draconic ancestry."
-        ]
+        "name": "Infernal Resistance",
+        "desc": "You have resistance to fire damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/17"
     },
     {
         "index": 18,
-        "races":[
-            {
-                "name":"Gnome"
-            },{"name":"Rock Gnome"}
-        ],
-        "name":"Gnome Cunning",
-        "desc":[
-            "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
-        ]
+        "name": "Infernal Legacy",
+        "desc": "You know the Thaumaturgy cantrip. At 3rd LVL, you know the Infernal Rebuke spell. At 5th LVL, you know the Darkness spell. CHA is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/18"
     },
     {
         "index": 19,
-        "races":[
-            {
-                "name":"Rock Gnome"
-            }
-        ],
-        "name":"Artificer's Lore",
-        "desc":[
-            "Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technologoical devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
-        ]
+        "name": "Silver Tongue (3rd LVL)",
+        "desc": "You know the Charm Person spell. CHA is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/19"
     },
     {
         "index": 20,
-        "races":[
-            {
-                "name":"Rock Gnome"
-            }
-        ],
-        "name":"Tinker",
-        "desc":[
-            "You have proficiency with artisan's tools (tinker's tools). Using those tools ,you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The devices ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; t that time, you can reclaim the materils used to create it. You can have up to three such devices active at a time.",
-            "When you create a device, choose one of the following options:",
-            "Clockwork Toy: This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.",
-            "Fire Starter: The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.",
-            "Music Box: When opened, this music box plays a single song t a moderate volume. The box stops playing when it reaches the song's end or when it is closed."
-        ]
+        "name": "Charge",
+        "desc": "You may charge straight at a target within 20ft and hit it with a melee weapon attack. If you do, you may roll your weapon’s damage twice and add those numbers together. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/20"
     },
     {
         "index": 21,
-        "races":[
-            {
-                "name":"Half-Elf"
-            }
-        ],
-        "name":"Skill Versatility",
-        "desc":[
-            "You gain proficiency in two skills of your choice."
-        ]
+        "name": "Hooves",
+        "desc": "Your hooves are natural melee weapons with which you are proficient. If you hit with a hoof, your target takes 1d6 bludgeoning damage + your STR modifier.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/21"
     },
     {
         "index": 22,
-        "races":[
-            {
-                "name":"Half-Orc"
-            }
-        ],
-        "name":"Menacing",
-        "desc":[
-            "You gain proficiency in the Intimidation skill."
-        ]
+        "name": "Equine Build",
+        "desc": "You count as one size larger when determining the weight you can push, drag, or lift. In addition, a Medium or smaller sized creature may ride on your equine back if you allow it.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/22"
     },
     {
         "index": 23,
-        "races":[
-            {
-                "name":"Half-Orc"
-            }
-        ],
-        "name":"Relentless Endurance",
-        "desc":[
-            "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. you cannot use this feature again until you finish a long rest."
-        ]
+        "name": "Survivor",
+        "desc": "You have proficiency in the Survival skill.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/23"
     },
     {
         "index": 24,
-        "races":[
-            {
-                "name":"Half-Orc"
-            }
-        ],
-        "name":"Savage Attacks",
-        "desc":[
-            "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damge of the critical hit."
-        ]
+        "name": "Hybrid Nature",
+        "desc": "You count as both a Humanoid and a Monstrosity, and can be affected by any effect if it works on either of your creature types.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/24"
     },
     {
         "index": 25,
-        "races":[
-            {
-                "name":"Tiefling"
-            }
-        ],
-        "name":"Hellish Resistance",
-        "desc":[
-            "You have resistance to fire damage."
-        ]
+        "name": "Claws",
+        "desc": "Your claws are natural melee weapons with which you are proficient. If you hit with your claws, your target takes 1d6 slashing damage + your STR modifier.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/25"
     },
     {
         "index": 26,
-        "races":[
-            {
-                "name":"Tiefling"
-            }
-        ],
-        "name":"Internal Legacy",
-        "desc":[
-            "You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5h level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-        ]
+        "name": "Vulpine Grace",
+        "desc": "You have proficiency in Acrobatics. In addition, you have advantage on saving throws to avoid falling prone.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/26"
+    },
+    {
+        "index": 27,
+        "name": "Horns",
+        "desc": "Your horns are natural melee weapons with which you are proficient. If you hit with your horns, your target takes 1d6 piercing damage + your STR modifier.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/27"
+    },
+    {
+        "index": 28,
+        "name": "Hammering Horns",
+        "desc": "After making a successful melee attack, you may attempt to push the target back 1d6 ft with your horns. Your target must be no more than one size larger than you and must be within 5ft. Your target must make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your STR modifier. Once you use this trait, you can’t use it again until after combat.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/28"
+    },
+    {
+        "index": 29,
+        "name": "Feline Agility",
+        "desc": "When you move on your turn in combat, you can double your movement speed until the end of your turn. Once you use this trait, you can’t use it again until after combat.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/29"
+    },
+    {
+        "index": 30,
+        "name": "Feline Claws",
+        "desc": "Your claws are natural melee weapons with which you are proficient. If you hit with your claws, your target takes 1d6 slashing damage + your STR modifier. In addition, you have a climbing speed of 20ft per round.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/30"
+    },
+    {
+        "index": 31,
+        "name": "Feline Senses",
+        "desc": "You have proficiency in the Perception and Stealth skills.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/31"
+    },
+    {
+        "index": 32,
+        "name": "Flight",
+        "desc": "You have a flying speed of 50ft per round.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/32"
+    },
+    {
+        "index": 33,
+        "name": "Talons",
+        "desc": "Your talons are natural melee weapons with which you are proficient. If you hit with your talons, your target takes 1d6 slashing damage + your STR modifier.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/33"
+    },
+    {
+        "index": 34,
+        "name": "Expert Forgery",
+        "desc": "You have advantage on all checks made to produce forgeries or duplicates of existing objects.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/34"
+    },
+    {
+        "index": 35,
+        "name": "Master of Trickery",
+        "desc": "You have proficiency in the Deception and Sleight of Hand skills.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/35"
+    },
+    {
+        "index": 36,
+        "name": "Mimicry",
+        "desc": "You are able to mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Insight check opposed by your Deception check.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/36"
+    },
+    {
+        "index": 37,
+        "name": "Who You Callin’ Small?",
+        "desc": "When you damage a creature with an attack or spell who is at least one size larger than yours, you may have that attack deal extra damage to that creature equal to your LVL. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/37"
+    },
+    {
+        "index": 38,
+        "name": "Nimble Escape",
+        "desc": " You can take the Disengage or Hide action as a bonus action on each of your turns.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/38"
+    },
+    {
+        "index": 39,
+        "name": "Martial Training",
+        "desc": "You have proficiency with light armor and with two martial weapons of your choice.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/39"
+    },
+    {
+        "index": 40,
+        "name": "Saving Face",
+        "desc": "If you miss with an attack roll or fail an ability check or saving throw, you may gain a bonus to the roll equal to the number of allies who can see you within 30ft with a maximum of +5. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/40"
+    },
+    {
+        "index": 41,
+        "name": "Mountain Born",
+        "desc": "You have resistance to cold damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/41"
+    },
+    {
+        "index": 42,
+        "name": "Display of Strength",
+        "desc": "You have proficiency in the Intimidation skill. In addition, you may use your STR modifier instead of your CHA modifier for Intimidation checks.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/42"
+    },
+    {
+        "index": 43,
+        "name": "Scholarly",
+        "desc": "You have proficiency in the Arcana and History skills.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/43"
+    },
+    {
+        "index": 44,
+        "name": "Ancient Wellspring",
+        "desc": "As an action, you are able to heal yourself to full health. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/44"
+    },
+    {
+        "index": 45,
+        "name": "Grovel",
+        "desc": "As an action, you may cower to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10ft that can see you. Once you use this trait, you can’t use it again until after combat.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/45"
+    },
+    {
+        "index": 46,
+        "name": "Pack Tactics",
+        "desc": "You have advantage on attack rolls as long as an ally is within 10ft of you.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/46"
+    },
+    {
+        "index": 47,
+        "name": "Sunlight Sensitivity",
+        "desc": "You have disadvantage on attack rolls and Perception checks in direct sunlight or bright light.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/47"
+    },
+    {
+        "index": 48,
+        "name": "Draconic Ancestry",
+        "desc": " You are distantly related to a particular kind of dragon. The type of dragon determines the damage and area of your breath weapon, and the type of resistance you gain.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/48"
+    },
+    {
+        "index": 49,
+        "name": "Dragonbreath",
+        "desc": "As an action, you may use your breath weapon to exhale destructive energy. All creatures in the area of effect must make a saving throw. The DC of this saving throw is 8 + your CON modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save. At 6th LVL, this damage increases to 3d6. At 11th LVL, this damage increases to 4d6. At 16th LVL, this damage increases to 5d6. Once you use this trait, you can’t use it again until after combat.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/49"
+    },
+    {
+        "index": 50,
+        "name": "Tough Scales",
+        "desc": "You have resistance to the damage type associated with your ancestry.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/50"
+    },
+    {
+        "index": 51,
+        "name": "Deep Resilience",
+        "desc": "You have advantage on saving throws against being charmed or paralyzed.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/51"
+    },
+    {
+        "index": 52,
+        "name": "Deep Magic (3rd LVL)",
+        "desc": "You know the Enlarge Self spell. At 5th LVL, you know the Invisibility spell. INT is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/52"
+    },
+    {
+        "index": 53,
+        "name": "Dwarven Resilience",
+        "desc": "You have proficiency with smith’s tools.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/53"
+    },
+    {
+        "index": 54,
+        "name": "Stoneskin",
+        "desc": "You have proficiency in the History skill.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/54"
+    },
+    {
+        "index": 55,
+        "name": "Survivalist",
+        "desc": "You have proficiency with battleaxes and handaxes.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/55"
+    },
+    {
+        "index": 56,
+        "name": "Trance",
+        "desc": "Instead of sleeping, you meditate for up to 4 hours. This gives you the same benefit as a full rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/56"
+    },
+    {
+        "index": 57,
+        "name": "Dark Magic",
+        "desc": "You know the Dancing Lights cantrip. At 3rd LVL, you know the Fey Fire spell. At 5th LVL, you know the Darkness spell. CHA is your spellcasting ability for this",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/57"
+    },
+    {
+        "index": 58,
+        "name": "Stone Camouflage",
+        "desc": "You have advantage on Stealth checks when in caves or rocky terrain.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/58"
+    },
+    {
+        "index": 59,
+        "name": "Gnome Cunning",
+        "desc": "You have advantage on INT, WIS and CHA saving throws against magic",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/59"
+    },
+    {
+        "index": 60,
+        "name": "Firbolg Magic",
+        "desc": "You know the Detect Magic and Disguise Self spells. WIS is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/60"
+    },
+    {
+        "index": 61,
+        "name": "Hidden Step",
+        "desc": "As a bonus action, you can magically turn invisible until your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/61"
+    },
+    {
+        "index": 62,
+        "name": "Lucky",
+        "desc": "If you roll a 1 on an attack roll, ability check or saving throw, you may reroll the die. If you do, you must use the new result, even if it is a 1.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/62"
+    },
+    {
+        "index": 63,
+        "name": "Brave",
+        "desc": "You have advantage on Intimidation saving throws against you.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/63"
+    },
+    {
+        "index": 64,
+        "name": "Naturally Stealthy",
+        "desc": "You have advantage on Stealth checks even when not obscured.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/64"
+    },
+    {
+        "index": 65,
+        "name": "Keen Senses",
+        "desc": "ou know one cantrip of your choice from the Wizard list. INT is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/65"
+    },
+    {
+        "index": 66,
+        "name": "Master Tinker",
+        "desc": "You have proficiency with tinker’s tools.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/66"
+    },
+    {
+        "index": 67,
+        "name": "Master of Magics",
+        "desc": "You know two cantrips of your choice from the Wizard list. INT is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/67"
+    },
+    {
+        "index": 68,
+        "name": "Gnome Cunning",
+        "desc": "You have advantage on INT, WIS and CHA saving throws against magic.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/68"
+    },
+    {
+        "index": 69,
+        "name": "Natural Illusionist",
+        "desc": "You know the Minor Illusion cantrip. INT is your spellcasting modifier for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/69"
+    },
+    {
+        "index": 70,
+        "name": "Speak with Small Beasts",
+        "desc": "You are able to understand and communicate with Small or smaller beasts.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/70"
+    },
+    {
+        "index": 71,
+        "name": "Gift of the Sea",
+        "desc": "You know the Fog Cloud spell. At 3rd LVL, you know the Gust of Wind spell. At 5th LVL, you know the Wall of Water spell. CHA is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/71"
+    },
+    {
+        "index": 72,
+        "name": "Aquatic Affinity",
+        "desc": "You are able to understand and communicate with aquatic beasts. In addition, you have a swimming speed of 30ft per round.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/72"
+    },
+    {
+        "index": 73,
+        "name": "Master Artisan",
+        "desc": "You have proficiency with smith’s tools.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/73"
+    },
+    {
+        "index": 74,
+        "name": "Craftsman’s Knowledge",
+        "desc": "You have proficiency in the History skill.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/74"
+    },
+    {
+        "index": 75,
+        "name": "AND MY AXE!",
+        "desc": "You have proficiency with battleaxes and handaxes.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/75"
+    },
+    {
+        "index": 76,
+        "name": "Mask of the Wild",
+        "desc": "You gain advantage on Stealth checks when hiding in foliage, rain, snow, mist and other natural phenomena.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/76"
+    },
+    {
+        "index": 77,
+        "name": "Ethereal Glow",
+        "desc": "You generate dim light in a 10ft radius.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/77"
+    },
+    {
+        "index": 78,
+        "name": "Ethereal Body (3rd LVL)",
+        "desc": "You know the Invisibility spell. At 5th LVL, you know the Mist Step spell. At 7th LVL, you know the Nondetection spell. INT is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/78"
+    },
+    {
+        "index": 79,
+        "name": "Contemplative",
+        "desc": " You have proficiency in the History and Persuasion skills.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/79"
+    },
+    {
+        "index": 80,
+        "name": "Psionic Grip",
+        "desc": "You have advantage when attempting to charm a creature.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/80"
+    },
+    {
+        "index": 81,
+        "name": "Ethereal Jaunt",
+        "desc": "As a bonus action, you may teleport up to 30ft away. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/81"
     }
 ]
