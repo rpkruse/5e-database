@@ -131,5 +131,12 @@
 	"typical_speakers": ["Arakkoa", "Kenku"],
 	"script": "Avian",
 	"url": "https://dnd-5e-api.herokuapp.com/api/languages/19"
+}, {
+	"index": 20,
+	"name": "Triton",
+	"type": "Exotic",
+	"typical_speakers": ["Triton"],
+	"script": "Triton",
+	"url": "https://dnd-5e-api.herokuapp.com/api/languages/20"
 }
 ]

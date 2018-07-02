@@ -143,34 +143,26 @@
 			},
 			{
 				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/25",
-				"name": "Deep Gnome (Svirfneblin)"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/26",
-				"name": "Firbolg"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/27",
 				"name": "Halfling"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/28",
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/26",
 				"name": "High Elf (Eladrin)"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/29",
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/27",
 				"name": "Hill Gnome"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/30",
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/28",
 				"name": "Tree Gnome"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/31",
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/29",
 				"name": "Triton"
 			},
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/32",
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/30",
 				"name": "Wood Elf"
 			}
 		],
@@ -181,7 +173,7 @@
 		"name": "Planetouched",
 		"subraces": [
 			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/33",
+				"url": "https://dnd-5e-api.herokuapp.com/api/subraces/31",
 				"name": "Ethereal"
 			}
 		],

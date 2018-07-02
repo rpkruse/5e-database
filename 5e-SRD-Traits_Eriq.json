@@ -340,14 +340,149 @@
         "name": "Dark Magic",
         "desc": "You know the Dancing Lights cantrip. At 3rd LVL, you know the Fey Fire spell. At 5th LVL, you know the Darkness spell. CHA is your spellcasting ability for this",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/57"
+    },
+    {
+        "index": 58,
+        "name": "Stone Camouflage",
+        "desc": "You have advantage on Stealth checks when in caves or rocky terrain.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/58"
+    },
+    {
+        "index": 59,
+        "name": "Gnome Cunning",
+        "desc": "You have advantage on INT, WIS and CHA saving throws against magic",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/59"
+    },
+    {
+        "index": 60,
+        "name": "Firbolg Magic",
+        "desc": "You know the Detect Magic and Disguise Self spells. WIS is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/60"
+    },
+    {
+        "index": 61,
+        "name": "Hidden Step",
+        "desc": "As a bonus action, you can magically turn invisible until your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/61"
+    },
+    {
+        "index": 62,
+        "name": "Lucky",
+        "desc": "If you roll a 1 on an attack roll, ability check or saving throw, you may reroll the die. If you do, you must use the new result, even if it is a 1.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/62"
+    },
+    {
+        "index": 63,
+        "name": "Brave",
+        "desc": "You have advantage on Intimidation saving throws against you.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/63"
+    },
+    {
+        "index": 64,
+        "name": "Naturally Stealthy",
+        "desc": "You have advantage on Stealth checks even when not obscured.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/64"
+    },
+    {
+        "index": 65,
+        "name": "Keen Senses",
+        "desc": "ou know one cantrip of your choice from the Wizard list. INT is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/65"
+    },
+    {
+        "index": 66,
+        "name": "Master Tinker",
+        "desc": "You have proficiency with tinker’s tools.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/66"
+    },
+    {
+        "index": 67,
+        "name": "Master of Magics",
+        "desc": "You know two cantrips of your choice from the Wizard list. INT is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/67"
+    },
+    {
+        "index": 68,
+        "name": "Gnome Cunning",
+        "desc": "You have advantage on INT, WIS and CHA saving throws against magic.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/68"
+    },
+    {
+        "index": 69,
+        "name": "Natural Illusionist",
+        "desc": "You know the Minor Illusion cantrip. INT is your spellcasting modifier for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/69"
+    },
+    {
+        "index": 70,
+        "name": "Speak with Small Beasts",
+        "desc": "You are able to understand and communicate with Small or smaller beasts.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/70"
+    },
+    {
+        "index": 71,
+        "name": "Gift of the Sea",
+        "desc": "You know the Fog Cloud spell. At 3rd LVL, you know the Gust of Wind spell. At 5th LVL, you know the Wall of Water spell. CHA is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/71"
+    },
+    {
+        "index": 72,
+        "name": "Aquatic Affinity",
+        "desc": "You are able to understand and communicate with aquatic beasts. In addition, you have a swimming speed of 30ft per round.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/72"
+    },
+    {
+        "index": 73,
+        "name": "Master Artisan",
+        "desc": "You have proficiency with smith’s tools.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/73"
+    },
+    {
+        "index": 74,
+        "name": "Craftsman’s Knowledge",
+        "desc": "You have proficiency in the History skill.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/74"
+    },
+    {
+        "index": 75,
+        "name": "AND MY AXE!",
+        "desc": "You have proficiency with battleaxes and handaxes.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/75"
+    },
+    {
+        "index": 76,
+        "name": "Mask of the Wild",
+        "desc": "You gain advantage on Stealth checks when hiding in foliage, rain, snow, mist and other natural phenomena.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/76"
+    },
+    {
+        "index": 77,
+        "name": "Ethereal Glow",
+        "desc": "You generate dim light in a 10ft radius.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/77"
+    },
+    {
+        "index": 78,
+        "name": "Ethereal Body (3rd LVL)",
+        "desc": "You know the Invisibility spell. At 5th LVL, you know the Mist Step spell. At 7th LVL, you know the Nondetection spell. INT is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/78"
+    },
+    {
+        "index": 79,
+        "name": "Contemplative",
+        "desc": " You have proficiency in the History and Persuasion skills.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/79"
+    },
+    {
+        "index": 80,
+        "name": "Psionic Grip",
+        "desc": "You have advantage when attempting to charm a creature.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/80"
+    },
+    {
+        "index": 81,
+        "name": "Ethereal Jaunt",
+        "desc": "As a bonus action, you may teleport up to 30ft away. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/81"
     }
 ]
-
-/*
-    {
-        "index": 5,
-        "name": "",
-        "desc": "",
-        "url": "https://dnd-5e-api.herokuapp.com/api/traits/"
-    }
-*/
