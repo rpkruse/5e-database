@@ -2269,5 +2269,92 @@
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/25"
+	},
+	{
+		"index": 26,
+		"name": "Rings",
+		"equipment": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/257",
+				"name": "Ring of Animal Influence"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/258",
+				"name": "Ring of Djinni Summoning"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/259",
+				"name": "Ring of Evasion"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/260",
+				"name": "Ring of Feather Falling"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/261",
+				"name": "Ring of Free Action"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/262",
+				"name": "Ring of Invisibility"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/263",
+				"name": "Ring of Jumping"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/264",
+				"name": "Ring of Mind Shielding"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/265",
+				"name": "Ring of Protection"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/266",
+				"name": "Ring of Regeneration"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/267",
+				"name": "Ring of Shooting Stars"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/268",
+				"name": "Ring of Spell Storing"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/269",
+				"name": "Ring of Spell Turning"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/270",
+				"name": "Ring of Swimming"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/271",
+				"name": "Ring of Telekinesis"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/272",
+				"name": "Ring of the Ram"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/273",
+				"name": "Ring of Three Wishes"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/274",
+				"name": "Ring of Warmth"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/275",
+				"name": "Ring of Water Walking"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/276",
+				"name": "Ring of X-ray Vision"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/26"
 	}
 ]
