@@ -4803,7 +4803,7 @@
 		"name": "Ring of Animal Influence",
 		"equipment_category": "Rings",
 		"desc": "This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells",
-		"charge spells": [
+		"charge_spells": [
 			{
 				"name": "Animal Friendship",
 				"save": "DC 13",
@@ -4899,7 +4899,7 @@
 		"name": "Ring of Shooting Stars",
 		"equipment_category": "Rings",
 		"desc": "While wearing this ring in dim light or darkness, you can cast dancing lights and light from the ring at will. Casting either spell from the ring requires an action. The ring has 6 charges for the following other properties. The ring regains 1d6 expended charges daily at dawn.",
-		"charge spells": [
+		"charge_spells": [
 			{
 				"name": "Faerie Fire",
 				"cost": 1
@@ -4961,7 +4961,7 @@
 		"name": "Ring of Three Wishes",
 		"equipment_category": "Rings",
 		"desc": "While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the wish spell from it. The ring becomes nonmagical when you use the last charge.",
-		"charge spells": [
+		"charge_spells": [
 			{
 				"name": "Wish",
 				"cost": 1
