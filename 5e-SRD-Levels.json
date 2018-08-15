@@ -8929,5 +8929,631 @@
     },
     "subclass": {},
     "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer/level/20"
+  },
+  {
+    "level": 1,
+    "ability_score_bonuses": 0,
+    "prof_bonus": 2,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Spellcasting WIS",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/162"
+      },
+      {
+        "name": "Spirit Speaking",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/418"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 3,
+      "spells_known": 5,
+      "spell_slots_level_1": 2,
+      "spell_slots_level_2": 0,
+      "spell_slots_level_3": 0,
+      "spell_slots_level_4": 0,
+      "spell_slots_level_5": 0,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 221,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/1"
+  },
+  {
+    "level": 2,
+    "ability_score_bonuses": 0,
+    "prof_bonus": 2,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Shamanistic Path",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/419"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 3,
+      "spells_known": 6,
+      "spell_slots_level_1": 3,
+      "spell_slots_level_2": 0,
+      "spell_slots_level_3": 0,
+      "spell_slots_level_4": 0,
+      "spell_slots_level_5": 0,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 222,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/2"
+  },
+  {
+    "level": 3,
+    "ability_score_bonuses": 0,
+    "prof_bonus": 2,
+    "feature_choices": [],
+    "features": [],
+    "spellcasting": {
+      "cantrips_known": 3,
+      "spells_known": 9,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 2,
+      "spell_slots_level_3": 0,
+      "spell_slots_level_4": 0,
+      "spell_slots_level_5": 0,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 223,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/3"
+  },
+  {
+    "level": 4,
+    "ability_score_bonuses": 1,
+    "prof_bonus": 2,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Ability Score Improvement 1",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/380"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 4,
+      "spells_known": 11,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 0,
+      "spell_slots_level_4": 0,
+      "spell_slots_level_5": 0,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 224,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/4"
+  },
+  {
+    "level": 5,
+    "ability_score_bonuses": 1,
+    "prof_bonus": 3,
+    "feature_choices": [],
+    "features": [
+      {}
+    ],
+    "spellcasting": {
+      "cantrips_known": 4,
+      "spells_known": 13,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 2,
+      "spell_slots_level_4": 0,
+      "spell_slots_level_5": 0,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 225,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/5"
+  },
+  {
+    "level": 6,
+    "ability_score_bonuses": 1,
+    "prof_bonus": 3,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Ability Score Improvement 2",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/12"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 4,
+      "spells_known": 17,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 0,
+      "spell_slots_level_5": 0,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 226,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/6"
+  },
+  {
+    "level": 7,
+    "ability_score_bonuses": 1,
+    "prof_bonus": 3,
+    "feature_choices": [],
+    "features": [],
+    "spellcasting": {
+      "cantrips_known": 5,
+      "spells_known": 16,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 1,
+      "spell_slots_level_5": 0,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 227,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/7"
+  },
+  {
+    "level": 8,
+    "ability_score_bonuses": 2,
+    "prof_bonus": 3,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Ability Score Improvement 2",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/384"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 5,
+      "spells_known": 17,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 2,
+      "spell_slots_level_5": 0,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 228,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/8"
+  },
+  {
+    "level": 9,
+    "ability_score_bonuses": 2,
+    "prof_bonus": 4,
+    "feature_choices": [],
+    "features": [],
+    "spellcasting": {
+      "cantrips_known": 5,
+      "spells_known": 19,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 1,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 229,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/9"
+  },
+  {
+    "level": 10,
+    "ability_score_bonuses": 2,
+    "prof_bonus": 4,
+    "feature_choices": [],
+    "features": [],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 21,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 0,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 230,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/10"
+  },
+  {
+    "level": 11,
+    "ability_score_bonuses": 2,
+    "prof_bonus": 4,
+    "feature_choices": [],
+    "features": [],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 22,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 1,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 231,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/11"
+  },
+  {
+    "level": 12,
+    "ability_score_bonuses": 3,
+    "prof_bonus": 4,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Ability Score Improvement 3",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/388"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 22,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 1,
+      "spell_slots_level_7": 0,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 232,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/12"
+  },
+  {
+    "level": 13,
+    "ability_score_bonuses": 3,
+    "prof_bonus": 5,
+    "feature_choices": [],
+    "features": [],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 23,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 1,
+      "spell_slots_level_7": 1,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 233,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/13"
+  },
+  {
+    "level": 14,
+    "ability_score_bonuses": 3,
+    "prof_bonus": 5,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Ability Score Improvement 4",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/20"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 23,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 1,
+      "spell_slots_level_7": 1,
+      "spell_slots_level_8": 0,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 234,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/14"
+  },
+  {
+    "level": 15,
+    "ability_score_bonuses": 3,
+    "prof_bonus": 5,
+    "feature_choices": [],
+    "features": [],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 24,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 1,
+      "spell_slots_level_7": 1,
+      "spell_slots_level_8": 1,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 235,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/15"
+  },
+  {
+    "level": 16,
+    "ability_score_bonuses": 4,
+    "prof_bonus": 5,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Ability Score Improvement 5",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/394"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 24,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 1,
+      "spell_slots_level_7": 1,
+      "spell_slots_level_8": 1,
+      "spell_slots_level_9": 0
+    },
+    "class_specific": {},
+    "index": 236,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/16"
+  },
+  {
+    "level": 17,
+    "ability_score_bonuses": 4,
+    "prof_bonus": 6,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Bridge Between Worlds",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/420"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 25,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 1,
+      "spell_slots_level_7": 1,
+      "spell_slots_level_8": 1,
+      "spell_slots_level_9": 1
+    },
+    "class_specific": {},
+    "index": 237,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/17"
+  },
+  {
+    "level": 18,
+    "ability_score_bonuses": 4,
+    "prof_bonus": 6,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Vengeful Spirits",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/421"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 25,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 1,
+      "spell_slots_level_7": 1,
+      "spell_slots_level_8": 1,
+      "spell_slots_level_9": 1
+    },
+    "class_specific": {},
+    "index": 238,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/18"
+  },
+  {
+    "level": 19,
+    "ability_score_bonuses": 5,
+    "prof_bonus": 6,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Ability Score Improvement 6",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/397"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 26,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 2,
+      "spell_slots_level_7": 1,
+      "spell_slots_level_8": 1,
+      "spell_slots_level_9": 1
+    },
+    "class_specific": {},
+    "index": 239,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/19"
+  },
+  {
+    "level": 20,
+    "ability_score_bonuses": 5,
+    "prof_bonus": 6,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Shamanistic Ascension",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/422"
+      }
+    ],
+    "spellcasting": {
+      "cantrips_known": 6,
+      "spells_known": 27,
+      "spell_slots_level_1": 4,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 3,
+      "spell_slots_level_4": 3,
+      "spell_slots_level_5": 2,
+      "spell_slots_level_6": 2,
+      "spell_slots_level_7": 2,
+      "spell_slots_level_8": 1,
+      "spell_slots_level_9": 1
+    },
+    "class_specific": {},
+    "index": 230,
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {},
+    "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/20"
   }
 ]

@@ -1312,5 +1312,104 @@
 			"class": "Wizard"
 		},
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/12"
+	},
+	{
+		"index": 13,
+		"name": "Shaman",
+		"hit_die": 8,
+		"proficiency_choices": [
+			{
+				"choose": 2,
+				"type": "proficiencies",
+				"from": [
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/106",
+						"name": "Skill: Animal Handling"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/107",
+						"name": "Skill: Arcana"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/110",
+						"name": "Skill: History"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/111",
+						"name": "Skill: Insight"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/114",
+						"name": "Skill: Medicine"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/115",
+						"name": "Skill: Nature"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/116",
+						"name": "Skill: Perception"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/122",
+						"name": "Skill: Survival"
+					}
+				]
+			}
+		],
+		"proficiencies": [
+			{
+				"name": "Light Armor",
+				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/1"
+			},
+			{
+				"name": "Medium Armor",
+				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/2"
+			},
+			{
+				"name": "Simple Weapons",
+				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/19"
+			},
+			{
+				"name": "Martial Weapons",
+				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/20"
+			},
+			{
+				"name": "Herbalism Kit",
+				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/93"
+			}
+		],
+		"saving_throws": [
+			{
+				"name": "WIS",
+				"url": "https://dnd-5e-api.herokuapp.com/api/ability-scores/5"
+			},
+			{
+				"name": "CON",
+				"url": "https://dnd-5e-api.herokuapp.com/api/ability-scores/3"
+			}
+		],
+		"starting_equipment": {
+			"url": "https://dnd-5e-api.herokuapp.com/api/startingequipment/13",
+			"class": "Shaman"
+		},
+		"class_levels": {
+			"url": "https://dnd-5e-api.herokuapp.com/api/classes/Shaman/levels",
+			"class": "Shaman"
+		},
+		"subclasses": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13",
+				"name": "Path of the Elements"
+			},{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
+				"name": "Path of the Four Spirits"
+			}
+		],
+		"spellcasting": {
+			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/2",
+			"class": "Shaman"
+		},
+		"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
 	}
 ]

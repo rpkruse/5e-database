@@ -8016,5 +8016,89 @@
       "If you want to cast either spell at a higher level, you must expend a spell slot as normal."
     ],
     "url": "https://dnd-5e-api.herokuapp.com/api/features/416"
+  },
+  {
+    "index": 417,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {},
+    "name": "Spirit Speaking",
+    "level": 1,
+    "desc": [
+      "You can see and speak with ethereal and elemental spirits. You can see up to 60ft into the ethereal and elemental planes from the material plane, and vice versa."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/417"
+  },
+  {
+    "index": 418,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {},
+    "name": "Spirit Speaking",
+    "level": 1,
+    "desc": [
+      "You can see and speak with ethereal and elemental spirits. You can see up to 60ft into the ethereal and elemental planes from the material plane, and vice versa."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/418"
+  },
+  {
+    "index": 419,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {},
+    "name": "Shamanistic Path",
+    "level": 2,
+    "desc": [
+      "Choose a shamanistic path to follow: Path of the Elements or Path of the Four Spirits. You gain additional features depending on which Shamanistic Path you choose."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/419"
+  },
+  {
+    "index": 420,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {},
+    "name": "Bridge Between Worlds",
+    "level": 17,
+    "desc": [
+      "Your connection to the ethereal and elemental planes is so strong that allies within 10ft of you gain the Spirit Speaking feature."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/420"
+  },
+  {
+    "index": 421,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {},
+    "name": "Vengeful Spirits",
+    "level": 18,
+    "desc": [
+      "As an action, when targeting a creature with a spell that forces them to make a WIS saving throw you can choose to channel angry spirits along with the spell, causing the target to make their saving throw at a disadvantage. On a failed saving throw the spirits torment the target's mind, causing the spell to deal double damage or last twice as long. Once you use this feature, you can’t use it again until after a rest."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/421"
+  },
+  {
+    "index": 422,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {},
+    "name": "Shamanistic Ascension",
+    "level": 20,
+    "desc": [
+      "You are able to use your Spirit Possession feature an unlimited number of times. In addition, your Shaman spells ignore any verbal or somatic components."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/422"
   }
 ]
