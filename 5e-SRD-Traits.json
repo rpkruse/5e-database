@@ -484,5 +484,490 @@
         "name": "Ethereal Jaunt",
         "desc": "As a bonus action, you may teleport up to 30ft away. Once you use this trait, you can’t use it again until after a rest.",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/81"
+    },
+    {
+        "index": 82,
+        "name": "Alchemist’s Satchel",
+        "desc": " You craft an alchemist’s satchel. This bag and its contents are magical, and contain the materials you need for your Concoction options. If you lose your satchel, you are able to construct a new one over the course of three days.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/82"
+    },
+    {
+        "index": 83,
+        "name": "Concoction of Fire",
+        "desc": "As an action, you can reach into your alchemist’s satchel to pull out a Concoction of Fire and hurl it at a target within 30ft of you. The area of impact if filled with a 10ft radius of flames, and any target within it must make a DEX saving throw. On a failed saving throw, the target takes 1d6 fire damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/83"
+    },
+    {
+        "index": 84,
+        "name": "Concoction of Acid",
+        "desc": " As an action, you can reach into your alchemist’s satchel to pull out a Concoction of Acid and hurl it at a target within 30ft of you. The target must make a DEX saving throw. On a failed saving throw, the target takes 1d6 acid damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/84"
+    },
+    {
+        "index": 85,
+        "name": "Concoction of Healing",
+        "desc": "As an action, you can reach into your alchemist’s satchel to pull out a Concoction of Healing. A creature may drink the concoction to heal 3d8 HP. Once a creature has drunk the concoction, they can’t drink it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/85"
+    },
+    {
+        "index": 86,
+        "name": "Concoction of Noxious Fumes",
+        "desc": "As an action, you can reach into your alchemist’s satchel to pull out a Concoction of Noxious Fumes and hurl it at a target within 30ft of you. The area of impact if filled with a 10ft radius of poisonous gas, and any target within it must make a CON saving throw. On a failed saving throw, the target takes 1d8 poison damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/86"
+    },
+    {
+        "index": 87,
+        "name": "Concoction of Fire",
+        "desc": "Now deals 2d6 fire damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/87"
+    },
+    {
+        "index": 88,
+        "name": "Concoction of Acid",
+        "desc": "Now deals 3d6 acid damage",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/88"
+    },
+    {
+        "index": 89,
+        "name": "Concoction of Fire",
+        "desc": "Now deals 3d6 fire damage",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/89"
+    },
+    {
+        "index": 90,
+        "name": "Concoction of Acid",
+        "desc": "Now deals 4d6 acid damage",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/90"
+    },
+    {
+        "index": 91,
+        "name": "Concoction of Healing",
+        "desc": "Now heals 4d8 HP",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/91"
+    },
+    {
+        "index": 92,
+        "name": "Formulaic Focus",
+        "desc": "When using a Concoction that requires you to roll damage or healing, you may add your INT modifier to the roll.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/92"
+    },
+    {
+        "index": 93,
+        "name": "Concoction of Smoke",
+        "desc": "As an action, you can reach into your alchemist’s satchel to pull out a Concoction of Smoke and hurl it at a target within 30ft of you. The area of impact is filled with a 10ft radius of smoke that blocks vision. The smoke persists for 1 minute before disappearing. Once you use this trait, you can’t use it again until after combat.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/93"
+    },
+    {
+        "index": 94,
+        "name": "Concoction of Stunning Powder",
+        "desc": "As an action, you can reach into your alchemist’s satchel to pull out a Concoction of Stunning Powder and hurl it at a target within 30ft of you. The area of impact if filled with a 10ft radius of concussive energy, and any target within it must make a CON saving throw. On a failed saving throw, the target is stunned until your next turn. Once you use this trait, you can’t use it again until after combat.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/94"
+    },
+    {
+        "index": 95,
+        "name": "Concoction of Fire",
+        "desc": "Now deals 4d6 fire damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/95"
+    },
+    {
+        "index": 96,
+        "name": "Concoction of Acid",
+        "desc": "Now deals 5d6 acid damage",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/96"
+    },
+    {
+        "index": 97,
+        "name": "Concoction of Healing",
+        "desc": "Now heals 5d8 HP",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/97"
+    },
+    {
+        "index": 98,
+        "name": "Concoction of Speed",
+        "desc": "As an action, you can reach into your alchemist’s satchel to pull out a Concoction of Speed. A creature may drink the concoction to increase their movement speed by 20ft for 1 minute.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/98"
+    },
+    {
+        "index": 99,
+        "name": "Concoction of Entanglement",
+        "desc": "As an action, you can reach into your alchemist’s satchel to pull out a Concoction of Entanglement and hurl it at a target within 30ft of you. The area of impact is filled with a 10ft radius of tar that becomes difficult terrain halves the movement speed of any creature within it. The tar persists for 1 minute before disappearing.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/99"
+    },
+    {
+        "index": 100,
+        "name": "Concoction of Fire",
+        "desc": "Now deals 5d6 fire damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/100"
+    },
+    {
+        "index": 101,
+        "name": "Concoction of Acid",
+        "desc": "Now deals 8d6 acid damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/101"
+    },
+    {
+        "index": 102,
+        "name": "Concoction of Healing",
+        "desc": "Now heals 7d8 HP.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/102"
+    },
+    {
+        "index": 103,
+        "name": "Concoction of Thunder",
+        "desc": "As an action, you can reach into your alchemist’s satchel to pull out a Concoction of Thunder and hurl it at a target within 30ft of you. The area of impact if filled with a 10ft radius of concussive energy, and any target within it must make a CON saving throw. On a failed saving throw, the target takes 2d8 bludgeoning damage and is knocked back 10ft from the point of impact.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/103"
+    },
+    {
+        "index": 104,
+        "name": "Concoction of Fire",
+        "desc": "Now deals 7d6 fire damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/104"
+    },
+    {
+        "index": 105,
+        "name": "Concoction of Acid",
+        "desc": "Now deals 10d6 acid damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/105"
+    },
+    {
+        "index": 106,
+        "name": "Concoction of Healing",
+        "desc": "Now heals 10d8 HP.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/106"
+    },
+    {
+        "index": 107,
+        "name": "Perfected Formula",
+        "desc": "When you use a Concoction, you may have it deal its maximum damage or heal its maximum HP instead of rolling. Once you use this trait, you can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/107"
+    },
+    {
+        "index": 108,
+        "name": "Boomstick",
+        "desc": "You forge a deadly firearm called a boomstick, a ferocious weapon that fires leaden bullets which can punch through armor with ease. The boomstick is a two-handed ranged weapon with a range of 150ft that deals 2d6 magical piercing damage. Once fired, it must be reloaded as a bonus action. If you lose your boomstick, you may construct a new one over the course of three days.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/108"
+    },
+    {
+        "index": 109,
+        "name": "Thunderous Shot",
+        "desc": "Your boomstick deals an additional 1d6 thunder damage on a hit.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/109"
+    },
+    {
+        "index": 110,
+        "name": "Scope Modification",
+        "desc": "Your range is increased by 100ft. You may only have one Modification active at a time.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/110"
+    },
+    {
+        "index": 111,
+        "name": "Magazine Modification",
+        "desc": "You may hold up to two rounds, allowing you to attack twice before needing to reload as a bonus action. You may only have one Modification active at a time.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/111"
+    },
+    {
+        "index": 112,
+        "name": "Thunderous Shot",
+        "desc": "Now deals 2d6 thunder damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/112"
+    },
+    {
+        "index": 113,
+        "name": "Force Blast",
+        "desc": "As an action, instead of making an attack roll you may unleash a blast of energy in a 20ft cone in front of you. Any target within it must make a STR saving throw. On a failed saving throw, the target takes 2d6 force damage and is knocked back 10ft.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/113"
+    },
+    {
+        "index": 114,
+        "name": "Thunderous Shot",
+        "desc": "Now deals 4d6 thunder damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/114"
+    },
+    {
+        "index": 115,
+        "name": "Additional Modification 1",
+        "desc": "You may choose an additional Modification (you may have multiple of the same Modification active at the same time. These Modifications stack).",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/115"
+    },
+    {
+        "index": 116,
+        "name": "Piercing Round",
+        "desc": "As an action, instead of making an attack roll you may unleash a piercing bolt of lightning in a 30ft straight line. Any target within it must make a DEX saving throw. On a failed saving throw, the target takes 4d6 electric damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/116"
+    },
+    {
+        "index": 117,
+        "name": "Thunderous Shot",
+        "desc": "Now deals 7d6 thunder damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/117"
+    },
+    {
+        "index": 118,
+        "name": "Force Blast",
+        "desc": "Now deals 3d6 force damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/118"
+    },
+    {
+        "index": 119,
+        "name": "Additional Modification 2",
+        "desc": "You may choose an additional Modification (you may have multiple of the same Modification active at the same time. These Modifications stack).",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/119"
+    },
+    {
+        "index": 120,
+        "name": "Explosive Round",
+        "desc": "As an action, instead of making an attack roll you may unleash an explosive shot at a point within your range with a 30ft radius. Any target within it must make DEX saving throw. On a failed saving throw, the target takes 4d6 fire damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/120"
+    },
+    {
+        "index": 121,
+        "name": "Thunderous Shot",
+        "desc": "Now deals 10d6 thunder damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/121"
+    },
+    {
+        "index": 122,
+        "name": "Force Blast",
+        "desc": "Now deals 4d6 force damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/122"
+    },
+    {
+        "index": 123,
+        "name": "Piercing Round",
+        "desc": "Now deals 6d6 electric damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/123"
+    },
+    {
+        "index": 124,
+        "name": "Additional Modification 3",
+        "desc": "You may choose an additional Modification (you may have multiple of the same Modification active at the same time. These Modifications stack).",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/124"
+    },
+    {
+        "index": 125,
+        "name": "Mechanical Servant",
+        "desc": "You craft a mechanical servant which obeys your commands and serves you loyally. Your servant is a Construct with a STR, DEX, CON and WIS score of 10 and a INT and CHA score of 0 as well as AC10 and a base movement speed of 30ft per round. It has a base HP of 10, with a hit die of 1d10 (or 8) + its CON modifier. It is immune to psychic and poison damage, as well as exhaustion, charmed and poisoned conditions. It has a base damage of 1d4 with its fists and can be given a weapon to wield. Your servant understands your commands, but cannot think for itself. Your servant levels with you. If your servant’s HP reaches 0, it can be healed or revived through normal means or you may construct a new one over the course of one day.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/125"
+    },
+    {
+        "index": 126,
+        "name": "Construct Upgrade",
+        "desc": "Your servant may have up to three Upgrades activated at a time.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/126"
+    },
+    {
+        "index": 127,
+        "name": "Arcane Link",
+        "desc": "As an action, you may see and hear through your servant’s sensors while it is within 100ft of you. You are blind and deaf in regards to your own senses while this is active.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/127"
+    },
+    {
+        "index": 128,
+        "name": "Arcane Sensors",
+        "desc": "Your servant has proficiency in the Perception skill. In addition, your servant has advantage on Perception checks.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/128"
+    },
+    {
+        "index": 129,
+        "name": "Combat-Ready",
+        "desc": "Choose two simple weapons. Your servant is considered proficient with the chosen weapons. In addition, your servant has proficiency with all saving throws.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/129"
+    },
+    {
+        "index": 130,
+        "name": "Defensive Array",
+        "desc": "Your servant gains AC1. You may select this Upgrade multiple times.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/130"
+    },
+    {
+        "index": 131,
+        "name": "High Tension Springs",
+        "desc": "Your servant’s base movement speed is increased by 10ft per round.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/131"
+    },
+    {
+        "index": 132,
+        "name": "Improved Repertoire",
+        "desc": "Your servant gains proficiency in a skill of your choice. You may select this Upgrade multiple times.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/132"
+    },
+    {
+        "index": 133,
+        "name": "Reserve Power",
+        "desc": "You may expend a spell slot to heal your servant by 1d8 x the LVL of the spell slot expended HP.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/133"
+    },
+    {
+        "index": 134,
+        "name": "Strengthened Chassis",
+        "desc": "Your servant’s base HP is increased to 12 and gains a hit die of 1d12 (or 10) + its CON modifier.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/134"
+    },
+    {
+        "index": 135,
+        "name": "Improved Upgrade",
+        "desc": "Your servant may have up to five Upgrades activated at a time.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/135"
+    },
+    {
+        "index": 136,
+        "name": "Combat Mastery",
+        "desc": "Choose two martial weapons. Your servant is considered proficient with the chosen weapons. In addition, your servant has proficiency with all saving throws.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/136"
+    },
+    {
+        "index": 137,
+        "name": "Extra Attack",
+        "desc": "Your servant may attack up to two times whenever it takes an attack action on its turn.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/137"
+    },
+    {
+        "index": 138,
+        "name": "Relentless",
+        "desc": "If your servant’s HP would be reduced to 0, instead it is reduced to 1. After it uses this trait, it can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/138"
+    },
+    {
+        "index": 139,
+        "name": "Runic Knowledge",
+        "desc": "Your servant learns one cantrip of your choice. WIS is the spellcasting modifier for this. You may select this Upgrade multiple times.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/139"
+    },
+    {
+        "index": 140,
+        "name": "Spark of Consciousness",
+        "desc": "Your servant gains an INT score of 6, allowing it to utilize items from your Infuse Magic feature. In addition, your servant is able to speak Common.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/140"
+    },
+    {
+        "index": 141,
+        "name": "Upgraded Systems",
+        "desc": "Choose one ability score from STR, DEX, CON or WIS to increase to 16. If the chosen ability score is already 16 or higher, instead increase it by 2. You may select this Upgrade multiple times.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/141"
+    },
+    {
+        "index": 142,
+        "name": "Advanced Upgrade",
+        "desc": "Your servant may have up to seven Upgrades activated at a time.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/142"
+    },
+    {
+        "index": 143,
+        "name": "Cloaking Shield",
+        "desc": "As an action, your servant may become invisible for up to 1 hour or until your servant attacks or casts a spell. After it uses this trait, it can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/143"
+    },
+    {
+        "index": 144,
+        "name": "Overheat",
+        "desc": "As an action, instead of making an attack roll your servant may unleash a blast of heat in a 30ft straight line. Any target within it must make a DEX saving throw. On a failed saving throw, the target takes 8d6 fire damage. After it uses this trait, it can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/144"
+    },
+    {
+        "index": 145,
+        "name": "Overload",
+        "desc": "As an action, instead of making an attack roll your servant may unleash an electrical discharge in a 20ft radius. Any target within it must make a DEX saving throw. On a failed saving throw, the target takes 5d10 electric damage. After it uses this trait, it can’t use it again until after a rest.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/145"
+    },
+    {
+        "index": 146,
+        "name": "Upgraded Sensors",
+        "desc": "Your servant gains Blindsight up to 30ft. In addition, your servant can no longer be surprised.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/146"
+    },
+    {
+        "index": 147,
+        "name": "Enhanced Upgrade",
+        "desc": "Your servant may have up to eight Upgrades activated at a time.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/147"
+    },
+    {
+        "index": 148,
+        "name": "Advanced Materials",
+        "desc": "Your servant has resistance to bludgeoning, piercing and slashing damage.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/148"
+    },
+    {
+        "index": 149,
+        "name": "Hair Trigger Springs",
+        "desc": "Your servant has advantage on DEX saving throws. In addition, your servant takes half damage on a failed DEX saving throw and no damage on a success.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/149"
+    },
+    {
+        "index": 150,
+        "name": "Magical Ward",
+        "desc": "Your servant has advantage on saving throws against spells.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/150"
+    },
+    {
+        "index": 151,
+        "name": "Ultimate Upgrade",
+        "desc": "Your servant may have up to nine Upgrades activated at a time.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/151"
+    },
+    {
+        "index": 152,
+        "name": "Arcane Shielding",
+        "desc": "As a bonus action, your servant may activate a bubble of arcane energy for 1 minute. Your servant has resistance to all damage types while this is active. After it uses this trait, it can’t use it again until after combat.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/152"
+    },
+    {
+        "index": 153,
+        "name": "Spark of Intellect",
+        "desc": "Your servant gains an INT score of 16. You may choose up to two LVL1 artificer spells and one LVL2 artificer spell. Your servant is able to cast each of these up to one time until after a rest. In addition, you may choose an additional language for your servant to speak. (This trait requires the Spark of Consciousness trait to be active).",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/153"
+    },
+    {
+        "index": 154,
+        "name": "Magical Item Analysis",
+        "desc": "You know the artificer spells Detect Magic and Identify. INT is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/154"
+    },
+    {
+        "index": 155,
+        "name": "Tool Expertise",
+        "desc": "Your proficiency bonus is doubled for any ability check you make that uses any of the tool proficiencies you gain from this class.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/155"
+    },{
+        "index": 156,
+        "name": "Wondrous Invention",
+        "desc": "Your expertise as an artificer allows you to craft wondrous items.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/156"
+    },
+    {
+        "index": 157,
+        "name": "Infuse Magic",
+        "desc": "You may channel an artificer spell into an object for later use. Doing so expends a spell slot as if you cast the spell, but the effects do not occur. As an action, any creature with an INT score of 6 or higher can use the object to cast the stored spell. The stored spell lasts for up to 8 hours before fading. You may only have a limited number of infused objects equal to your INT modifier. INT is your spellcasting ability for this.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/157"
+    },
+    {
+        "index": 158,
+        "name": "Superior Attunement",
+        "desc": "You may attune up to four magical items. At 15th LVL, you may attune up to five magical items.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/158"
+    },
+    {
+        "index": 159,
+        "name": "Soul of Artifice",
+        "desc": "You may now attune up to six magical items. In addition, you gain a bonus to all saving throws equal to the number of magical items you currently have attuned.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/159"
+    },
+    {
+        "index": 160,
+        "name": "Artificer Specialization",
+        "desc": "Choose a specialization to follow: Alchemist, Gunsmith or Mechanist. You gain additional features depending on which Artificer Specialization you choose.",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/160"
+    },
+    {
+        "index": 161,
+        "name": "Artificer Specialization Improvement",
+        "desc": "",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/161"
+    },
+    {
+        "index": 162,
+        "name": "Spellcasting",
+        "desc": "",
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/162"
     }
 ]

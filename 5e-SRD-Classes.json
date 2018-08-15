@@ -81,9 +81,7 @@
 				"name": "Berserker"
 			}
 		],
-		"spellcasting": {
-			
-		},
+		"spellcasting": {},
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/1"
 	},
 	{
@@ -570,9 +568,7 @@
 				"name": "Champion"
 			}
 		],
-		"spellcasting": {
-			
-		},
+		"spellcasting": {},
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/5"
 	},
 	{
@@ -773,9 +769,7 @@
 				"name": "Open Hand"
 			}
 		],
-		"spellcasting": {
-			
-		},
+		"spellcasting": {},
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/6"
 	},
 	{
@@ -1068,9 +1062,7 @@
 				"name": "Thief"
 			}
 		],
-		"spellcasting": {
-			
-		},
+		"spellcasting": {},
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/9"
 	},
 	{
