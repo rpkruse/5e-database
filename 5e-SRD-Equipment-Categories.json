@@ -1,6 +1,124 @@
 [
 	{
 		"index": 1,
+		"name": "Armor",
+		"equipment": [
+			{
+				"name": "Padded",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/38"
+			},
+			{
+				"name": "Leather",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/39"
+			},
+			{
+				"name": "Studded Leather",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/40"
+			},
+			{
+				"name": "Hide",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/41"
+			},
+			{
+				"name": "Chain Shirt",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/42"
+			},
+			{
+				"name": "Scale Mail",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/43"
+			},
+			{
+				"name": "Breastplate",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/44"
+			},
+			{
+				"name": "Half Plate",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/45"
+			},
+			{
+				"name": "Ring Mail",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/46"
+			},
+			{
+				"name": "Chain Mail",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/47"
+			},
+			{
+				"name": "Splint",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/48"
+			},
+			{
+				"name": "Plate",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/49"
+			},
+			{
+				"name": "Shield",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/50"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/1"
+	},
+	{
+		"index": 2,
+		"name": "Armor (+1)",
+		"equipment": [
+			{
+				"name": "Padded + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/313"
+			},
+			{
+				"name": "Leather + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/314"
+			},
+			{
+				"name": "Studded Leather + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/315"
+			},
+			{
+				"name": "Hide + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/316"
+			},
+			{
+				"name": "Chain Shirt + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/317"
+			},
+			{
+				"name": "Scale Mail + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/318"
+			},
+			{
+				"name": "Breastplate + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/319"
+			},
+			{
+				"name": "Half Plate + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/320"
+			},
+			{
+				"name": "Ring Mail + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/321"
+			},
+			{
+				"name": "Chain Mail + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/322"
+			},
+			{
+				"name": "Splint + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/323"
+			},
+			{
+				"name": "Plate + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/324"
+			},
+			{
+				"name": "Shield + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/325"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/2"
+	},
+	{
+		"index": 3,
 		"name": "Weapon",
 		"equipment": [
 			{
@@ -152,69 +270,259 @@
 				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/37"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/1"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/3"
 	},
 	{
-		"index": 2,
-		"name": "Armor",
+		"index": 4,
+		"name": "Weapon (+1)",
 		"equipment": [
 			{
-				"name": "Padded",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/38"
+				"name": "Club + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/277"
 			},
 			{
-				"name": "Leather",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/39"
+				"name": "Dagger + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/278"
 			},
 			{
-				"name": "Studded Leather",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/40"
+				"name": "Greatclub + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/279"
 			},
 			{
-				"name": "Hide",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/41"
+				"name": "Handaxe + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/280"
 			},
 			{
-				"name": "Chain Shirt",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/42"
+				"name": "Javelin + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/281"
 			},
 			{
-				"name": "Scale Mail",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/43"
+				"name": "Light hammer + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/282"
 			},
 			{
-				"name": "Breastplate",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/44"
+				"name": "Mace + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/283"
 			},
 			{
-				"name": "Half Plate",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/45"
+				"name": "Quarterstaff + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/284"
 			},
 			{
-				"name": "Ring Mail",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/46"
+				"name": "Sickle + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/285"
 			},
 			{
-				"name": "Chain Mail",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/47"
+				"name": "Spear + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/286"
 			},
 			{
-				"name": "Splint",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/48"
+				"name": "Crossbow, light + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/287"
 			},
 			{
-				"name": "Plate",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/49"
+				"name": "Dart + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/288"
 			},
 			{
-				"name": "Shield",
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/50"
+				"name": "Shortbow + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/289"
+			},
+			{
+				"name": "Sling + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/290"
+			},
+			{
+				"name": "Battleaxe + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/291"
+			},
+			{
+				"name": "Flail + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/292"
+			},
+			{
+				"name": "Glaive + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/293"
+			},
+			{
+				"name": "Greataxe + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/294"
+			},
+			{
+				"name": "Greatsword + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/295"
+			},
+			{
+				"name": "Halberd + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/296"
+			},
+			{
+				"name": "Lance + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/297"
+			},
+			{
+				"name": "Longsword + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/298"
+			},
+			{
+				"name": "Maul + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/299"
+			},
+			{
+				"name": "Morningstar + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/300"
+			},
+			{
+				"name": "Pike + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/301"
+			},
+			{
+				"name": "Rapier + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/302"
+			},
+			{
+				"name": "Scimitar + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/303"
+			},
+			{
+				"name": "Shortsword + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/304"
+			},
+			{
+				"name": "Trident + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/305"
+			},
+			{
+				"name": "War pick + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/306"
+			},
+			{
+				"name": "Warhammer + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/307"
+			},
+			{
+				"name": "Whip + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/308"
+			},
+			{
+				"name": "Blowgun + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/309"
+			},
+			{
+				"name": "Crossbow, hand + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/310"
+			},
+			{
+				"name": "Crossbow, heavy + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/311"
+			},
+			{
+				"name": "Longbow + 1",
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/312"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/2"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/4"
 	},
 	{
-		"index": 3,
+		"index": 5,
+		"name": "Shields",
+		"equipment": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/50",
+				"name": "Shield"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/5"
+	},
+	{
+		"index": 6,
+		"name": "Rings",
+		"equipment": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/257",
+				"name": "Ring of Animal Influence"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/258",
+				"name": "Ring of Djinni Summoning"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/259",
+				"name": "Ring of Evasion"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/260",
+				"name": "Ring of Feather Falling"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/261",
+				"name": "Ring of Free Action"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/262",
+				"name": "Ring of Invisibility"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/263",
+				"name": "Ring of Jumping"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/264",
+				"name": "Ring of Mind Shielding"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/265",
+				"name": "Ring of Protection"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/266",
+				"name": "Ring of Regeneration"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/267",
+				"name": "Ring of Shooting Stars"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/268",
+				"name": "Ring of Spell Storing"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/269",
+				"name": "Ring of Spell Turning"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/270",
+				"name": "Ring of Swimming"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/271",
+				"name": "Ring of Telekinesis"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/272",
+				"name": "Ring of the Ram"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/273",
+				"name": "Ring of Three Wishes"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/274",
+				"name": "Ring of Warmth"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/275",
+				"name": "Ring of Water Walking"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/276",
+				"name": "Ring of X-ray Vision"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/6"
+	},
+	{
+		"index": 7,
 		"name": "Adventuring Gear",
 		"equipment": [
 			{
@@ -674,10 +982,10 @@
 				"name": "Scholar's Pack"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/3"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/7"
 	},
 	{
-		"index": 4,
+		"index": 8,
 		"name": "Tools",
 		"equipment": [
 			{
@@ -805,10 +1113,10 @@
 				"name": "Thieves’ tools"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/4"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/8"
 	},
 	{
-		"index": 5,
+		"index": 9,
 		"name": "Mounts and Vehicles",
 		"equipment": [
 			{
@@ -1064,412 +1372,10 @@
 				"name": "Warship"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/5"
-	},
-	{
-		"index": 6,
-		"name": "Simple Weapons",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/1",
-				"name": "Club"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/2",
-				"name": "Dagger"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/3",
-				"name": "Greatclub"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/4",
-				"name": "Handaxe"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/5",
-				"name": "Javelin"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/6",
-				"name": "Light hammer"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/7",
-				"name": "Mace"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/8",
-				"name": "Quarterstaff"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/9",
-				"name": "Sickle"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/10",
-				"name": "Spear"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/6"
-	},
-	{
-		"index": 7,
-		"name": "Martial Weapons",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/15",
-				"name": "Battleaxe"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/16",
-				"name": "Flail"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/17",
-				"name": "Glaive"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/18",
-				"name": "Greataxe"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/19",
-				"name": "Greatsword"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/20",
-				"name": "Halberd"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/21",
-				"name": "Lance"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/22",
-				"name": "Longsword"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/23",
-				"name": "Maul"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/24",
-				"name": "Morningstar"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/25",
-				"name": "Pike"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/26",
-				"name": "Rapier"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/27",
-				"name": "Scimitar"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/28",
-				"name": "Shortsword"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/29",
-				"name": "Trident"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/30",
-				"name": "War pick"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/31",
-				"name": "Warhammer"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/32",
-				"name": "Whip"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/33",
-				"name": "Blowgun"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/34",
-				"name": "Crossbow, hand"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/35",
-				"name": "Crossbow, heavy"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/36",
-				"name": "Longbow"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/37",
-				"name": "Net"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/7"
-	},
-	{
-		"index": 8,
-		"name": "Simple Melee Weapons",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/1",
-				"name": "Club"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/2",
-				"name": "Dagger"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/3",
-				"name": "Greatclub"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/4",
-				"name": "Handaxe"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/5",
-				"name": "Javelin"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/6",
-				"name": "Light hammer"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/7",
-				"name": "Mace"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/8",
-				"name": "Quarterstaff"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/9",
-				"name": "Sickle"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/10",
-				"name": "Spear"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/8"
-	},
-	{
-		"index": 9,
-		"name": "Simple Ranged Weapons",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/11",
-				"name": "Crossbow, light"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/12",
-				"name": "Dart"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/13",
-				"name": "Shortbow"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/14",
-				"name": "Sling"
-			}
-		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/9"
 	},
 	{
 		"index": 10,
-		"name": "Martial Melee Weapons",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/15",
-				"name": "Battleaxe"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/16",
-				"name": "Flail"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/17",
-				"name": "Glaive"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/18",
-				"name": "Greataxe"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/19",
-				"name": "Greatsword"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/20",
-				"name": "Halberd"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/21",
-				"name": "Lance"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/22",
-				"name": "Longsword"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/23",
-				"name": "Maul"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/24",
-				"name": "Morningstar"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/25",
-				"name": "Pike"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/26",
-				"name": "Rapier"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/27",
-				"name": "Scimitar"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/28",
-				"name": "Shortsword"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/29",
-				"name": "Trident"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/30",
-				"name": "War pick"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/31",
-				"name": "Warhammer"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/32",
-				"name": "Whip"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/10"
-	},
-	{
-		"index": 11,
-		"name": "Martial Ranged Weapons",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/33",
-				"name": "Blowgun"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/34",
-				"name": "Crossbow, hand"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/35",
-				"name": "Crossbow, heavy"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/36",
-				"name": "Longbow"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/37",
-				"name": "Net"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/11"
-	},
-	{
-		"index": 12,
-		"name": "Light Armor",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/38",
-				"name": "Padded"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/39",
-				"name": "Leather"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/40",
-				"name": "Studded Leather"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/12"
-	},
-	{
-		"index": 13,
-		"name": "Medium Armor",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/41",
-				"name": "Hide"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/42",
-				"name": "Chain Shirt"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/43",
-				"name": "Scale Mail"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/44",
-				"name": "Breastplate"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/45",
-				"name": "Half Plate"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/13"
-	},
-	{
-		"index": 14,
-		"name": "Heavy Armor",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/46",
-				"name": "Ring Mail"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/47",
-				"name": "Chain Mail"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/48",
-				"name": "Splint"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/49",
-				"name": "Plate"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/14"
-	},
-	{
-		"index": 15,
-		"name": "Shields",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/50",
-				"name": "Shield"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/15"
-	},
-	{
-		"index": 16,
 		"name": "Standard Gear",
 		"equipment": [
 			{
@@ -1873,10 +1779,10 @@
 				"name": "Whetstone"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/16"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/10"
 	},
 	{
-		"index": 17,
+		"index": 11,
 		"name": "Kits",
 		"equipment": [
 			{
@@ -1908,10 +1814,10 @@
 				"name": "Poisoner’s Kit"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/17"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/11"
 	},
 	{
-		"index": 18,
+		"index": 12,
 		"name": "Equipment Packs",
 		"equipment": [
 			{
@@ -1943,10 +1849,10 @@
 				"name": "Scholar's Pack"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/18"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/12"
 	},
 	{
-		"index": 19,
+		"index": 13,
 		"name": "Artisan's Tools",
 		"equipment": [
 			{
@@ -2018,10 +1924,10 @@
 				"name": "Woodcarver’s tools"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/19"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/13"
 	},
 	{
-		"index": 20,
+		"index": 14,
 		"name": "Gaming Sets",
 		"equipment": [
 			{
@@ -2033,10 +1939,10 @@
 				"name": "Playing card set"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/20"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/14"
 	},
 	{
-		"index": 21,
+		"index": 15,
 		"name": "Musical Instruments",
 		"equipment": [
 			{
@@ -2080,10 +1986,10 @@
 				"name": "Viol"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/21"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/15"
 	},
 	{
-		"index": 22,
+		"index": 16,
 		"name": "Other Tools",
 		"equipment": [
 			{
@@ -2095,10 +2001,10 @@
 				"name": "Thieves’ tools"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/22"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/16"
 	},
 	{
-		"index": 23,
+		"index": 17,
 		"name": "Mounts and Other Anumals",
 		"equipment": [
 			{
@@ -2130,10 +2036,10 @@
 				"name": "Warhorse"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/23"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/17"
 	},
 	{
-		"index": 24,
+		"index": 18,
 		"name": "Tack, Harness, and Drawn Vehicles",
 		"equipment": [
 			{
@@ -2237,10 +2143,10 @@
 				"name": "Wagon"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/24"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/18"
 	},
 	{
-		"index": 25,
+		"index": 19,
 		"name": "Waterborne Vehicles",
 		"equipment": [
 			{
@@ -2268,93 +2174,6 @@
 				"name": "Warship"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/25"
-	},
-	{
-		"index": 26,
-		"name": "Rings",
-		"equipment": [
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/257",
-				"name": "Ring of Animal Influence"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/258",
-				"name": "Ring of Djinni Summoning"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/259",
-				"name": "Ring of Evasion"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/260",
-				"name": "Ring of Feather Falling"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/261",
-				"name": "Ring of Free Action"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/262",
-				"name": "Ring of Invisibility"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/263",
-				"name": "Ring of Jumping"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/264",
-				"name": "Ring of Mind Shielding"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/265",
-				"name": "Ring of Protection"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/266",
-				"name": "Ring of Regeneration"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/267",
-				"name": "Ring of Shooting Stars"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/268",
-				"name": "Ring of Spell Storing"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/269",
-				"name": "Ring of Spell Turning"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/270",
-				"name": "Ring of Swimming"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/271",
-				"name": "Ring of Telekinesis"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/272",
-				"name": "Ring of the Ram"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/273",
-				"name": "Ring of Three Wishes"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/274",
-				"name": "Ring of Warmth"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/275",
-				"name": "Ring of Water Walking"
-			},
-			{
-				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/276",
-				"name": "Ring of X-ray Vision"
-			}
-		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/26"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/19"
 	}
 ]

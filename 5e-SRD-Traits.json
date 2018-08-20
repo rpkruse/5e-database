@@ -45,6 +45,7 @@
         "index": 8,
         "name": "Natural Athlete",
         "desc": "You have proficiency in the Athletics skill.",
+        "skill_bonus": "Athletics",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/8"
     },
     {
@@ -75,12 +76,13 @@
         "index": 13,
         "name": "Menacing",
         "desc": "You have proficiency in the Intimidation skill.",
+        "skill_bonus": "Intimidation",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/13"
     },
     {
         "index": 14,
         "name": "Relentless Endurance",
-        "desc": " If your HP would be reduced to 0 but you are not killed outright, you may instead have it be reduced to 1. Once you use this trait, you can’t use it again until after a rest.",
+        "desc": "If your HP would be reduced to 0 but you are not killed outright, you may instead have it be reduced to 1. Once you use this trait, you can’t use it again until after a rest.",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/14"
     },
     {
@@ -135,6 +137,7 @@
         "index": 23,
         "name": "Survivor",
         "desc": "You have proficiency in the Survival skill.",
+        "skill_bonus": "Survival",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/23"
     },
     {
@@ -153,6 +156,7 @@
         "index": 26,
         "name": "Vulpine Grace",
         "desc": "You have proficiency in Acrobatics. In addition, you have advantage on saving throws to avoid falling prone.",
+        "skill_bonus": "Acrobatics",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/26"
     },
     {
@@ -183,6 +187,7 @@
         "index": 31,
         "name": "Feline Senses",
         "desc": "You have proficiency in the Perception and Stealth skills.",
+        "skill_bonus": "Perception, Stealth",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/31"
     },
     {
@@ -207,6 +212,7 @@
         "index": 35,
         "name": "Master of Trickery",
         "desc": "You have proficiency in the Deception and Sleight of Hand skills.",
+        "skill_bonus": "Deception, Sleight of Hand",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/35"
     },
     {
@@ -224,7 +230,7 @@
     {
         "index": 38,
         "name": "Nimble Escape",
-        "desc": " You can take the Disengage or Hide action as a bonus action on each of your turns.",
+        "desc": "You can take the Disengage or Hide action as a bonus action on each of your turns.",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/38"
     },
     {
@@ -249,12 +255,14 @@
         "index": 42,
         "name": "Display of Strength",
         "desc": "You have proficiency in the Intimidation skill. In addition, you may use your STR modifier instead of your CHA modifier for Intimidation checks.",
+        "skill_bonus": "Intimidation",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/42"
     },
     {
         "index": 43,
         "name": "Scholarly",
         "desc": "You have proficiency in the Arcana and History skills.",
+        "skill_bonus": "Arcana, History",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/43"
     },
     {
@@ -284,7 +292,7 @@
     {
         "index": 48,
         "name": "Draconic Ancestry",
-        "desc": " You are distantly related to a particular kind of dragon. The type of dragon determines the damage and area of your breath weapon, and the type of resistance you gain.",
+        "desc": "You are distantly related to a particular kind of dragon. The type of dragon determines the damage and area of your breath weapon, and the type of resistance you gain.",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/48"
     },
     {
@@ -321,6 +329,7 @@
         "index": 54,
         "name": "Stoneskin",
         "desc": "You have proficiency in the History skill.",
+        "skill_bonus": "History",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/54"
     },
     {
@@ -441,6 +450,7 @@
         "index": 74,
         "name": "Craftsman’s Knowledge",
         "desc": "You have proficiency in the History skill.",
+        "skill_bonus": "History",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/74"
     },
     {
@@ -471,6 +481,7 @@
         "index": 79,
         "name": "Contemplative",
         "desc": " You have proficiency in the History and Persuasion skills.",
+        "skill_bonus": "History, Persuasion",
         "url": "https://dnd-5e-api.herokuapp.com/api/traits/79"
     },
     {
