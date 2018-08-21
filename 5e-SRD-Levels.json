@@ -8149,11 +8149,11 @@
     "features": [
       {
         "name": "Artificer Specialization",
-        "url": "https://dnd-5e-api.herokuapp.com/api/traits/160"
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/430"
       },
       {
         "name": "Magical Item Analysis",
-        "url": "https://dnd-5e-api.herokuapp.com/api/traits/154"
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/431"
       }
     ],
     "spellcasting": {
@@ -8192,17 +8192,17 @@
     "features": [
       {
         "name": "Tool Expertise",
-        "url": "https://dnd-5e-api.herokuapp.com/api/traits/155"
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/432"
       },
       {
-        "name": "Wondrous Invention",
-        "url": "https://dnd-5e-api.herokuapp.com/api/traits/156"
+        "name": "Wondrous Invention I",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/433"
       }
     ],
     "spellcasting": {
-      "cantrips_known": 2,
-      "spells_known": 3,
-      "spell_slots_level_1": 2,
+      "cantrips_known": 0,
+      "spells_known": 0,
+      "spell_slots_level_1": 0,
       "spell_slots_level_2": 0,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
@@ -8232,21 +8232,12 @@
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
     "feature_choices": [],
-    "features": [
-      {
-        "name": "Tool Expertise",
-        "url": "https://dnd-5e-api.herokuapp.com/api/traits/155"
-      },
-      {
-        "name": "Wondrous Invention",
-        "url": "https://dnd-5e-api.herokuapp.com/api/traits/156"
-      }
-    ],
+    "features": [],
     "spellcasting": {
       "cantrips_known": 2,
-      "spells_known": 4,
+      "spells_known": 2,
       "spell_slots_level_1": 0,
-      "spell_slots_level_2": 2,
+      "spell_slots_level_2": 0,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
       "spell_slots_level_5": 0,
@@ -8255,13 +8246,7 @@
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 2,
-      "mystic_arcanum_level_6": 0,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 203,
     "class": {
       "name": "Artificer",
@@ -8279,13 +8264,17 @@
       {
         "name": "Ability Score Improvement 1",
         "url": "https://dnd-5e-api.herokuapp.com/api/features/380"
+      },
+      {
+        "name": "Infuse Magic",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/343"
       }
     ],
     "spellcasting": {
       "cantrips_known": 3,
-      "spells_known": 5,
+      "spells_known": 3,
       "spell_slots_level_1": 0,
-      "spell_slots_level_2": 2,
+      "spell_slots_level_2": 0,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
       "spell_slots_level_5": 0,
@@ -8294,13 +8283,7 @@
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 3,
-      "mystic_arcanum_level_6": 0,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 204,
     "class": {
       "name": "Artificer",
@@ -8316,16 +8299,20 @@
     "feature_choices": [],
     "features": [
       {
-        "name": "Choose: Additional Eldritch Invocation",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/381"
+        "name": "Superior Attunement I",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/435"
+      },
+      {
+        "name": "Wondrous Invention II",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/436"
       }
     ],
     "spellcasting": {
       "cantrips_known": 3,
-      "spells_known": 6,
+      "spells_known": 3,
       "spell_slots_level_1": 0,
       "spell_slots_level_2": 0,
-      "spell_slots_level_3": 2,
+      "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
       "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
@@ -8333,13 +8320,7 @@
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 3,
-      "mystic_arcanum_level_6": 0,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 205,
     "class": {
       "name": "Artificer",
@@ -8353,13 +8334,18 @@
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
     "feature_choices": [],
-    "features": [],
+    "features": [
+      {
+        "name": "Ability Score Improvement",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/384"
+      }
+    ],
     "spellcasting": {
       "cantrips_known": 3,
-      "spells_known": 7,
+      "spells_known": 3,
       "spell_slots_level_1": 0,
       "spell_slots_level_2": 0,
-      "spell_slots_level_3": 2,
+      "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
       "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
@@ -8367,13 +8353,7 @@
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 4,
-      "mystic_arcanum_level_6": 0,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 206,
     "class": {
       "name": "Artificer",
@@ -8387,32 +8367,21 @@
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
     "feature_choices": [],
-    "features": [
-      {
-        "name": "Choose: Additional Eldritch Invocation",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/383"
-      }
-    ],
+    "features": [],
     "spellcasting": {
-      "cantrips_known": 3,
-      "spells_known": 8,
-      "spell_slots_level_1": 0,
+      "cantrips_known": 4,
+      "spells_known": 6,
+      "spell_slots_level_1": 2,
       "spell_slots_level_2": 0,
       "spell_slots_level_3": 0,
-      "spell_slots_level_4": 2,
+      "spell_slots_level_4": 0,
       "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 4,
-      "mystic_arcanum_level_6": 0,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 207,
     "class": {
       "name": "Artificer",
@@ -8428,30 +8397,24 @@
     "feature_choices": [],
     "features": [
       {
-        "name": "Ability Score Improvement 2",
+        "name": "Ability Score Improvement",
         "url": "https://dnd-5e-api.herokuapp.com/api/features/384"
       }
     ],
     "spellcasting": {
-      "cantrips_known": 3,
-      "spells_known": 9,
-      "spell_slots_level_1": 0,
+      "cantrips_known": 4,
+      "spells_known": 6,
+      "spell_slots_level_1": 2,
       "spell_slots_level_2": 0,
       "spell_slots_level_3": 0,
-      "spell_slots_level_4": 2,
+      "spell_slots_level_4": 0,
       "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 4,
-      "mystic_arcanum_level_6": 0,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 208,
     "class": {
       "name": "Artificer",
@@ -8465,16 +8428,11 @@
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
     "feature_choices": [],
-    "features": [
-      {
-        "name": "Choose: Additional Eldritch Invocation",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/385"
-      }
-    ],
+    "features": [],
     "spellcasting": {
-      "cantrips_known": 3,
-      "spells_known": 10,
-      "spell_slots_level_1": 0,
+      "cantrips_known": 4,
+      "spells_known": 6,
+      "spell_slots_level_1": 2,
       "spell_slots_level_2": 0,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
@@ -8484,13 +8442,7 @@
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 5,
-      "mystic_arcanum_level_6": 0,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 209,
     "class": {
       "name": "Artificer",
@@ -8504,27 +8456,26 @@
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
     "feature_choices": [],
-    "features": [],
+    "features": [
+      {
+        "name": "Wondrous Invention III",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/437"
+      }
+    ],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 10,
-      "spell_slots_level_1": 0,
+      "spells_known": 7,
+      "spell_slots_level_1": 3,
       "spell_slots_level_2": 0,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 2,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 5,
-      "mystic_arcanum_level_6": 0,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 210,
     "class": {
       "name": "Artificer",
@@ -8538,16 +8489,11 @@
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
     "feature_choices": [],
-    "features": [
-      {
-        "name": "Mystic Arcanum (6th level)",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/387"
-      }
-    ],
+    "features": [],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 11,
-      "spell_slots_level_1": 0,
+      "spells_known": 7,
+      "spell_slots_level_1": 3,
       "spell_slots_level_2": 0,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
@@ -8557,13 +8503,7 @@
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 5,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 211,
     "class": {
       "name": "Artificer",
@@ -8579,34 +8519,24 @@
     "feature_choices": [],
     "features": [
       {
-        "name": "Ability Score Improvement 3",
+        "name": "Ability Score Improvement",
         "url": "https://dnd-5e-api.herokuapp.com/api/features/388"
-      },
-      {
-        "name": "Choose: Additional Eldritch Invocation",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/389"
       }
     ],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 11,
-      "spell_slots_level_1": 0,
+      "spells_known": 7,
+      "spell_slots_level_1": 3,
       "spell_slots_level_2": 0,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 3,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 6,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 0,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 212,
     "class": {
       "name": "Artificer",
@@ -8620,32 +8550,21 @@
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
     "feature_choices": [],
-    "features": [
-      {
-        "name": "Mystic Arcanum (7th level)",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/390"
-      }
-    ],
+    "features": [],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 12,
-      "spell_slots_level_1": 0,
-      "spell_slots_level_2": 0,
+      "spells_known": 9,
+      "spell_slots_level_1": 3,
+      "spell_slots_level_2": 2,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 3,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 6,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 1,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 213,
     "class": {
       "name": "Artificer",
@@ -8659,27 +8578,26 @@
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
     "feature_choices": [],
-    "features": [],
+    "features": [
+      {
+        "name": "Ability Score Improvement",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/388"
+      }
+    ],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 12,
-      "spell_slots_level_1": 0,
-      "spell_slots_level_2": 0,
+      "spells_known": 9,
+      "spell_slots_level_1": 3,
+      "spell_slots_level_2": 2,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 3,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 6,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 1,
-      "mystic_arcanum_level_8": 0,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 214,
     "class": {
       "name": "Artificer",
@@ -8695,34 +8613,28 @@
     "feature_choices": [],
     "features": [
       {
-        "name": "Mystic Arcanum (8th level)",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/392"
+        "name": "Superior Attunement II",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/438"
       },
       {
-        "name": "Choose: Additional Eldritch Invocation",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/393"
+        "name": "Wondrous Invention IV",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/439"
       }
     ],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 13,
-      "spell_slots_level_1": 0,
-      "spell_slots_level_2": 0,
+      "spells_known": 9,
+      "spell_slots_level_1": 3,
+      "spell_slots_level_2": 2,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 3,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 7,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 1,
-      "mystic_arcanum_level_8": 1,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 215,
     "class": {
       "name": "Artificer",
@@ -8738,30 +8650,24 @@
     "feature_choices": [],
     "features": [
       {
-        "name": "Ability Score Improvement 5",
+        "name": "Ability Score Improvement",
         "url": "https://dnd-5e-api.herokuapp.com/api/features/394"
       }
     ],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 13,
-      "spell_slots_level_1": 0,
-      "spell_slots_level_2": 0,
+      "spells_known": 10,
+      "spell_slots_level_1": 3,
+      "spell_slots_level_2": 3,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 3,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 7,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 1,
-      "mystic_arcanum_level_8": 1,
-      "mystic_arcanum_level_9": 0
-    },
+    "class_specific": {},
     "index": 216,
     "class": {
       "name": "Artificer",
@@ -8775,32 +8681,21 @@
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
     "feature_choices": [],
-    "features": [
-      {
-        "name": "Mystic Arcanum (9th level)",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/395"
-      }
-    ],
+    "features": [],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 14,
-      "spell_slots_level_1": 0,
-      "spell_slots_level_2": 0,
+      "spells_known": 10,
+      "spell_slots_level_1": 3,
+      "spell_slots_level_2": 3,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 4,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 7,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 1,
-      "mystic_arcanum_level_8": 1,
-      "mystic_arcanum_level_9": 1
-    },
+    "class_specific": {},
     "index": 217,
     "class": {
       "name": "Artificer",
@@ -8814,32 +8709,21 @@
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
     "feature_choices": [],
-    "features": [
-      {
-        "name": "Choose: Additional Eldritch Invocation",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/396"
-      }
-    ],
+    "features": [],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 14,
-      "spell_slots_level_1": 0,
-      "spell_slots_level_2": 0,
+      "spells_known": 10,
+      "spell_slots_level_1": 3,
+      "spell_slots_level_2": 3,
       "spell_slots_level_3": 0,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 4,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 8,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 1,
-      "mystic_arcanum_level_8": 1,
-      "mystic_arcanum_level_9": 1
-    },
+    "class_specific": {},
     "index": 218,
     "class": {
       "name": "Artificer",
@@ -8855,30 +8739,24 @@
     "feature_choices": [],
     "features": [
       {
-        "name": "Ability Score Improvement 6",
+        "name": "Ability Score Improvement",
         "url": "https://dnd-5e-api.herokuapp.com/api/features/397"
       }
     ],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 15,
-      "spell_slots_level_1": 0,
-      "spell_slots_level_2": 0,
-      "spell_slots_level_3": 0,
+      "spells_known": 11,
+      "spell_slots_level_1": 3,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 1,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 4,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 8,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 1,
-      "mystic_arcanum_level_8": 1,
-      "mystic_arcanum_level_9": 1
-    },
+    "class_specific": {},
     "index": 219,
     "class": {
       "name": "Artificer",
@@ -8894,34 +8772,28 @@
     "feature_choices": [],
     "features": [
       {
-        "name": "Eldritch Master",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/398"
+        "name": "Soul of Artifice",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/440"
       },
       {
-        "name": "Choose: Additional Eldritch Invocation",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/399"
+        "name": "Wondrous Invention V",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/441"
       }
     ],
     "spellcasting": {
       "cantrips_known": 4,
-      "spells_known": 15,
-      "spell_slots_level_1": 0,
-      "spell_slots_level_2": 0,
-      "spell_slots_level_3": 0,
+      "spells_known": 11,
+      "spell_slots_level_1": 3,
+      "spell_slots_level_2": 3,
+      "spell_slots_level_3": 1,
       "spell_slots_level_4": 0,
-      "spell_slots_level_5": 4,
+      "spell_slots_level_5": 0,
       "spell_slots_level_6": 0,
       "spell_slots_level_7": 0,
       "spell_slots_level_8": 0,
       "spell_slots_level_9": 0
     },
-    "class_specific": {
-      "invocations_known": 8,
-      "mystic_arcanum_level_6": 1,
-      "mystic_arcanum_level_7": 1,
-      "mystic_arcanum_level_8": 1,
-      "mystic_arcanum_level_9": 1
-    },
+    "class_specific": {},
     "index": 220,
     "class": {
       "name": "Artificer",
@@ -8938,11 +8810,11 @@
     "features": [
       {
         "name": "Spellcasting WIS",
-        "url": "https://dnd-5e-api.herokuapp.com/api/traits/162"
+        "url": "https://dnd-5e-api.herokuapp.com/api/traits/83"
       },
       {
         "name": "Spirit Speaking",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/418"
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/417"
       }
     ],
     "spellcasting": {
@@ -8975,7 +8847,7 @@
     "features": [
       {
         "name": "Shamanistic Path",
-        "url": "https://dnd-5e-api.herokuapp.com/api/features/419"
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/418"
       }
     ],
     "spellcasting": {
@@ -9005,7 +8877,12 @@
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
     "feature_choices": [],
-    "features": [],
+    "features": [
+      {
+        "name": "Spirit Possession",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/419"
+      }
+    ],
     "spellcasting": {
       "cantrips_known": 3,
       "spells_known": 9,
@@ -9555,5 +9432,562 @@
     },
     "subclass": {},
     "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman/level/20"
+  },
+  {
+    "level": 15,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Totemic Protection",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/423"
+      },{
+        "name": "Totemic Rage",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/424"
+      },{
+        "name": "Totemic Swiftness",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/425"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {
+      "name": "Path of the Elements",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Elements"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the elements/level/15",
+    "index": 231
+  },
+  {
+    "level": 2,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Fox's Swiftness",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/426"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {
+      "name": "Path of the Four Spirits",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Four Spirits"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the four spirits/level/2",
+    "index": 232
+  },
+  {
+    "level": 5,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Owl's Insight",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/427"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {
+      "name": "Path of the Four Spirits",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Four Spirits"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the four spirits/level/5",
+    "index": 233
+  },
+  {
+    "level": 10,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Stag’s Admonition",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/428"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {
+      "name": "Path of the Four Spirits",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Four Spirits"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the four spirits/level/10",
+    "index": 234
+  },
+  {
+    "level": 15,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Bear’s Protection",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/429"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Shaman",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
+    },
+    "subclass": {
+      "name": "Path of the Four Spirits",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Four Spirits"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the four spirits/level/15",
+    "index": 235
+  },
+  {
+    "level": 1,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Alchemist’s Satchel",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/442"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Alchemist",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Alchemist"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/alchemist/level/1",
+    "index": 236
+  },
+  {
+    "level": 6,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Formulaic Focus",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/443"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Alchemist",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Alchemist"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/alchemist/level/6",
+    "index": 237
+  },
+  {
+    "level": 17,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Perfected Formula",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/444"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Alchemist",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Alchemist"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/alchemist/level/17",
+    "index": 238
+  },
+  {
+    "level": 1,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Boomstick",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/445"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Gunsmith",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Gunsmith"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/gunsmith/level/1",
+    "index": 239
+  },
+  {
+    "level": 3,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Thunderous Shot I",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/446"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Gunsmith",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Gunsmith"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/gunsmith/level/3",
+    "index": 240
+  },
+  {
+    "level": 6,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Scope Modification",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/447"
+      },
+      {
+        "name": "Magazine Modification",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/448"
+      },{
+        "name": "Thunderous Shot II",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/449"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Gunsmith",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Gunsmith"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/gunsmith/level/6",
+    "index": 241
+  },
+  {
+    "level": 9,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Thunderous Shot II",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/450"
+      },
+      {
+        "name": "Upgraded Modification I",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/451"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Gunsmith",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Gunsmith"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/gunsmith/level/9",
+    "index": 242
+  },
+  {
+    "level": 14,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Thunderous Shot III",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/452"
+      },
+      {
+        "name": "Upgraded Modification II",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/453"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Gunsmith",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Gunsmith"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/gunsmith/level/14",
+    "index": 243
+  },
+  {
+    "level": 17,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Thunderous Shot IV",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/454"
+      },
+      {
+        "name": "Upgraded Modification III",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/455"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Gunsmith",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Gunsmith"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/gunsmith/level/17",
+    "index": 244
+  },
+  {
+    "level": 1,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Mechanical Servant",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/456"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Mechanist",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Mechanist"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/mechanist/level/1",
+    "index": 245
+  },
+  {
+    "level": 3,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Construct Upgrade",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/457"
+      },
+      {
+        "name": "Arcane Sensors",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/458"
+      },
+      {
+        "name": "Combat-Ready",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/459"
+      },
+      {
+        "name": "Defensive Array",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/460"
+      },
+      {
+        "name": "High Tension Springs",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/461"
+      },
+      {
+        "name": "Improved Repertoire",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/462"
+      },
+      {
+        "name": "Strengthend Chassis",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/463"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Mechanist",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Mechanist"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/mechanist/level/3",
+    "index": 246
+  },
+  {
+    "level": 6,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Improved Upgrade",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/464"
+      },
+      {
+        "name": "Combat Mastery",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/465"
+      },
+      {
+        "name": "Extra Attack",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/466"
+      },
+      {
+        "name": "Relentless",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/467"
+      },
+      {
+        "name": "Runic Knowledge",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/468"
+      },
+      {
+        "name": "Spark of Consciousness",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/469"
+      },
+      {
+        "name": "Upgraded Systems",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/470"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Mechanist",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Mechanist"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/mechanist/level/6",
+    "index": 247
+  },
+  {
+    "level": 9,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Advanced Upgrade",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/471"
+      },
+      {
+        "name": "Upgraded Sensors",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/472"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Mechanist",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Mechanist"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/mechanist/level/9",
+    "index": 248
+  },
+  {
+    "level": 14,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Enhanced Upgrade",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/473"
+      },
+      {
+        "name": "Advanced Materials",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/474"
+      },
+      {
+        "name": "Hair Trigger Springs",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/475"
+      },
+      {
+        "name": "Magical Ward",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/476"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Mechanist",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Mechanist"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/mechanist/level/14",
+    "index": 249
+  },
+  {
+    "level": 17,
+    "feature_choices": [],
+    "features": [
+      {
+        "name": "Ultimate Upgrade",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/477"
+      },
+      {
+        "name": "Arcane Shielding",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/478"
+      },
+      {
+        "name": "Spark of Intellect",
+        "url": "https://dnd-5e-api.herokuapp.com/api/features/479"
+      }
+    ],
+    "spellcasting": {},
+    "subclass_specific": {
+    },
+    "class": {
+      "name": "Artificer",
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/artificer"
+    },
+    "subclass": {
+      "name": "Mechanist",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Mechanist"
+    },
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/mechanist/level/17",
+    "index": 249
   }
 ]

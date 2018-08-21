@@ -8038,10 +8038,10 @@
       "name": "Shaman"
     },
     "subclass": {},
-    "name": "Spirit Speaking",
-    "level": 1,
+    "name": "Shamanistic Path",
+    "level": 2,
     "desc": [
-      "You can see and speak with ethereal and elemental spirits. You can see up to 60ft into the ethereal and elemental planes from the material plane, and vice versa."
+      "Choose a shamanistic path to follow: Path of the Elements or Path of the Four Spirits. You gain additional features depending on which Shamanistic Path you choose."
     ],
     "url": "https://dnd-5e-api.herokuapp.com/api/features/418"
   },
@@ -8052,10 +8052,13 @@
       "name": "Shaman"
     },
     "subclass": {},
-    "name": "Shamanistic Path",
-    "level": 2,
+    "name": "Spirit Possession",
+    "level": 3,
     "desc": [
-      "Choose a shamanistic path to follow: Path of the Elements or Path of the Four Spirits. You gain additional features depending on which Shamanistic Path you choose."
+      "As an action, you may enter a trance and allow the spirits around you to possess your body, enhancing your abilities. You may maintain this possession for a number of hours equal to your LVL or until your HP reaches 0. You may end this possession as a bonus action.",
+			"At 3rd LVL, you receive the following bonuses: STR+1, DEX+1, INT+1, WIS+1, +1AC.",
+			"At 7th LVL, you receive the following bonuses: STR+2, DEX+2, INT+2, WIS+2, +2AC. You may use this feature up to two times before resting.",
+			"At 11th LVL, you receive the following bonuses: STR+2, DEX+2, INT+2, WIS+2, +2AC. You gain temporary HP equal to your LVL. You may use this feature up to three times before resting."
     ],
     "url": "https://dnd-5e-api.herokuapp.com/api/features/419"
   },
@@ -8100,5 +8103,983 @@
       "You are able to use your Spirit Possession feature an unlimited number of times. In addition, your Shaman spells ignore any verbal or somatic components."
     ],
     "url": "https://dnd-5e-api.herokuapp.com/api/features/422"
+  },
+  {
+    "index": 423,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13",
+      "name": "Path of the Elements"
+    },
+    "name": "Totemic Protection",
+    "level": 15,
+    "desc": [
+      "While within 60ft of at least one of your totems, when you make a saving throw against an attack or spell that would cause cold, fire or lightning damage you receive half damage on a failure and no damage on a success."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/423"
+  },
+  {
+    "index": 424,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13",
+      "name": "Path of the Elements"
+    },
+    "name": "Totemic Rage",
+    "level": 15,
+    "desc": [
+      "While within 60ft of at least one of your totems, any damage you deal that causes cold, fire or lightning damage deals double damage."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/424"
+  },
+  {
+    "index": 425,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13",
+      "name": "Path of the Elements"
+    },
+    "name": "Totemic Swiftness",
+    "level": 15,
+    "desc": [
+      "While within 60ft of at least one of your totems, any damage you deal that causes cold, fire or lightning damage deals double damage."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/425"
+  },
+  {
+    "index": 426,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
+      "name": "Path of the Four Spirits"
+    },
+    "name": "Fox's Swiftness",
+    "level": 2,
+    "desc": [
+      "You are now able to use Spirit Possession as a bonus action rather than an action."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/426"
+  },
+  {
+    "index": 427,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
+      "name": "Path of the Four Spirits"
+    },
+    "name": "Owl's Insight",
+    "level": 5,
+    "desc": [
+      "As an action, you are able to detect the presence of any creature within 100ft of you. You are able to discern the number of creatures and the CR of each creature. Once you use this trait, you can’t use it again until after a long rest."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/427"
+  },
+  {
+    "index": 428,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
+      "name": "Path of the Four Spirits"
+    },
+    "name": "Stag’s Admonition",
+    "level": 10,
+    "desc": [
+      "While under the effects of Spirit Possession, you may add an additional 1d4 force damage to your attack damage. You may sacrifice spell slots to increase this damage by 1d4 per sacrificed spell slot."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/428"
+  },
+  {
+    "index": 429,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
+      "name": "Shaman"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
+      "name": "Path of the Four Spirits"
+    },
+    "name": "Bear’s Protection",
+    "level": 15,
+    "desc": [
+      "While under the effects of Spirit Possession, you gain temporary HP equal to your LVL x your WIS modifier."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/429"
+  },
+  {
+    "index": 430,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Artificer Specialization",
+    "level": 1,
+    "desc": [
+      "Choose a specialization to follow: Alchemist, Gunsmith or Mechanist. You gain additional features depending on which Artificer Specialization you choose."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/430"
+  },
+  {
+    "index": 431,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Magical Item Analysis",
+    "level": 1,
+    "desc": [
+      "You know the artificer spells Detect Magic and Identify. INT is your spellcasting ability for this."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/431"
+  },
+  {
+    "index": 432,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Tool Expertise",
+    "level": 2,
+    "desc": [
+      "Your proficiency bonus is doubled for any ability check you make that uses any of the tool proficiencies you gain from this class."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/432"
+  },
+  {
+    "index": 433,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Wondrous Invention I",
+    "level": 2,
+    "desc": [
+      "You may choose one of the following wondrous items",
+      "Bag of Holding",
+      "Cap of Water Breathing",
+      "Driftglobe",
+      "Goggles of Night",
+      "Sending Stones (2)"
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/433"
+  },
+  {
+    "index": 434,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Infuse Magic",
+    "level": 4,
+    "desc": [
+      "You may channel an artificer spell into an object for later use. Doing so expends a spell slot as if you cast the spell, but the effects do not occur.",
+      "As an action, any creature with an INT score of 6 or higher can use the object to cast the stored spell. The stored spell lasts for up to 8 hours before fading.",
+      "You may only have a limited number of infused objects equal to your INT modifier. INT is your spellcasting ability for this."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/434"
+  },
+  {
+    "index": 435,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Superior Attunement I",
+    "level": 5,
+    "desc": [
+      "You may attune up to four magical items."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/435"
+  },
+  {
+    "index": 436,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Wondrous Invention II",
+    "level": 5,
+    "desc": [
+      "You may choose one of the following wondrous items",
+      "Alchemy Jug",
+      "Helm of Comprehending",
+      "Lantern of Revealing",
+      "Ring of Swimming",
+      "Robe of Useful Items",
+      "Rope of Climbing",
+      "Wand of Magic Detection",
+      "Wand of Secrets",
+      "Any item from Wondrous Invention I"
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/436"
+  },
+  {
+    "index": 437,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Wondrous Invention III",
+    "level": 10,
+    "desc": [
+      "You may choose one of the following wondrous items",
+      "Bag of Beans",
+      "Chime of Opening",
+      "Decanter of Endless Water",
+      "Eye of Minute Seeing",
+      "Folding Boat",
+      "Handy Haversack",
+      "Any item from Wondrous Invention I, II"
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/437"
+  },
+  {
+    "index": 438,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Superior Attunement II",
+    "level": 15,
+    "desc": [
+      "You may attune up to five magical items."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/438"
+  },
+  {
+    "index": 439,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Wondrous Invention IV",
+    "level": 15,
+    "desc": [
+      "You may choose one of the following wondrous items",
+      "Boots of Striding and Springing",
+      "Bracers of Archery",
+      "Brooch of Shielding",
+      "Broom of Flying",
+      "Hat of Disguise",
+      "Gauntlets of Spider Climbing",
+      "Any item from Wondrous Invention I, II, III"
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/439"
+  },
+  {
+    "index": 440,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Soul of Artifice",
+    "level": 20,
+    "desc": [
+      "You may now attune up to six magical items. In addition, you gain a bonus to all saving throws equal to the number of magical items you currently have attuned."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/440"
+  },
+  {
+    "index": 441,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {},
+    "name": "Wondrous Invention V",
+    "level": 20,
+    "desc": [
+      "You may choose one of the following wondrous items",
+      "Eyes of the Eagle",
+      "Gem of Brightness",
+      "Gloves of Missile Snaring",
+      "Gloves of Swimming and Climbing",
+      "Ring of Jumping",
+      "Ring of Mind Shielding",
+      "Cloak of Flying",
+      "Any item from Wondrous Invention I, II, III, IV"
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/441"
+  },
+  {
+    "index": 442,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/15",
+      "name": "Alchemist"
+    },
+    "name": "Alchemist’s Satchel",
+    "level": 1,
+    "desc": [
+      "You craft an alchemist’s satchel. This bag and its contents are magical, and contain the materials you need for your Concoction options.",
+      "If you lose your satchel, you are able to construct a new one over the course of three days."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/442"
+  },
+  {
+    "index": 443,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/15",
+      "name": "Alchemist"
+    },
+    "name": "Formulaic Focus",
+    "level": 6,
+    "desc": [
+      "When using a Concoction that requires you to roll damage or healing, you may add your INT modifier to the roll."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/443"
+  },
+  {
+    "index": 444,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/15",
+      "name": "Alchemist"
+    },
+    "name": "Perfected Formula",
+    "level": 17,
+    "desc": [
+      "When you use a Concoction, you may have it deal its maximum damage or heal its maximum HP instead of rolling. Once you use this trait, you can’t use it again until after a rest."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/444"
+  },
+  {
+    "index": 445,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Boomstick",
+    "level": 1,
+    "desc": [
+      "You forge a deadly firearm called a boomstick, a ferocious weapon that fires leaden bullets which can punch through armor with ease. The boomstick is a two-handed ranged weapon with a range of 150ft that deals 2d6 magical piercing damage.",
+      "Once fired, it must be reloaded as a bonus action.",
+      "If you lose your boomstick, you may construct a new one over the course of three days."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/445"
+  },
+  {
+    "index": 446,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Thunderous Shot I",
+    "level": 3,
+    "desc": [
+      "Your boomstick deals an additional 1d6 thunder damage on a hit."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/446"
+  },
+  {
+    "index": 447,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Scope Modification",
+    "level": 6,
+    "desc": [
+      "Your range is increased by 100ft. You may only have one Modification active at a time."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/447"
+  },
+  {
+    "index": 448,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Magazine Modification",
+    "level": 6,
+    "desc": [
+      "You may hold up to two rounds, allowing you to attack twice before needing to reload as a bonus action. You may only have one Modification active at a time."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/448"
+  },
+  {
+    "index": 449,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Thunderous Shot II",
+    "level": 6,
+    "desc": [
+      "Your boomstick deals an additional 2d6 thunder damage on a hit."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/449"
+  },
+  {
+    "index": 450,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Thunderous Shot II",
+    "level": 9,
+    "desc": [
+      "Your boomstick deals an additional 4d6 thunder damage on a hit."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/450"
+  },
+  {
+    "index": 451,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Upgraded Modification I",
+    "level": 9,
+    "desc": [
+      "You may choose an additional Modification (you may have multiple of the same Modification active at the same time. These Modifications stack)."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/451"
+  },
+  {
+    "index": 452,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Thunderous Shot III",
+    "level": 14,
+    "desc": [
+      "Your boomstick deals an additional 7d6 thunder damage on a hit."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/452"
+  },
+  {
+    "index": 453,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Upgraded Modification II",
+    "level": 14,
+    "desc": [
+      "You may choose an additional Modification (you may have multiple of the same Modification active at the same time. These Modifications stack)."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/453"
+  },
+  {
+    "index": 454,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Thunderous Shot IV",
+    "level": 17,
+    "desc": [
+      "Your boomstick deals an additional 10d6 thunder damage on a hit."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/454"
+  },
+  {
+    "index": 455,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+      "name": "Gunsmith"
+    },
+    "name": "Upgraded Modification III",
+    "level": 17,
+    "desc": [
+      "You may choose an additional Modification (you may have multiple of the same Modification active at the same time. These Modifications stack)."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/455"
+  },
+  {
+    "index": 456,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Mechanical Servant",
+    "level": 1,
+    "desc": [
+      "You craft a mechanical servant which obeys your commands and serves you loyally. Your servant is a Construct with a STR, DEX, CON and WIS score of 10 and a INT and CHA score of 0 as well as AC10 and a base movement speed of 30ft per round. It has a base HP of 10, with a hit die of 1d10 (or 8) + its CON modifier.",
+      "It is immune to psychic and poison damage, as well as exhaustion, charmed and poisoned conditions. It has a base damage of 1d4 with its fists and can be given a weapon to wield. Your servant understands your commands, but cannot think for itself. Your servant levels with you.",
+      "If your servant’s HP reaches 0, it can be healed or revived through normal means or you may construct a new one over the course of one day."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/456"
+  },
+  {
+    "index": 457,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Construct Upgrade",
+    "level": 3,
+    "desc": [
+      "Your servant may have up to three Upgrades activated at a time."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/457"
+  },
+  {
+    "index": 458,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Arcane Sensors",
+    "level": 3,
+    "desc": [
+      "Your servant has proficiency in the Perception skill. In addition, your servant has advantage on Perception checks."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/458"
+  },
+  {
+    "index": 459,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Combat-Ready",
+    "level": 3,
+    "desc": [
+      "Choose two simple weapons. Your servant is considered proficient with the chosen weapons. In addition, your servant has proficiency with all saving throws."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/459"
+  },
+  {
+    "index": 460,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Defensive Array",
+    "level": 3,
+    "desc": [
+      "Your servant gains AC1. You may select this Upgrade multiple times."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/460"
+  },
+  {
+    "index": 461,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "High Tension Springs",
+    "level": 3,
+    "desc": [
+      "Your servant’s base movement speed is increased by 10ft per round."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/461"
+  },
+  {
+    "index": 462,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Improved Repertoire",
+    "level": 3,
+    "desc": [
+      "Your servant gains proficiency in a skill of your choice. You may select this Upgrade multiple times."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/462"
+  },
+  {
+    "index": 463,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Strengthend Chassis",
+    "level": 3,
+    "desc": [
+      "Your servant’s base HP is increased to 12 and gains a hit die of 1d12 (or 10) + its CON modifier."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/463"
+  },
+  {
+    "index": 464,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Improved Upgrade",
+    "level": 6,
+    "desc": [
+      "Your servant may have up to five Upgrades activated at a time."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/464"
+  },
+  {
+    "index": 465,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Combat Mastery",
+    "level": 6,
+    "desc": [
+      "Choose two martial weapons. Your servant is considered proficient with the chosen weapons. In addition, your servant has proficiency with all saving throws."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/465"
+  },
+  {
+    "index": 466,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Extra Attack",
+    "level": 6,
+    "desc": [
+      "Your servant may attack up to two times whenever it takes an attack action on its turn."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/466"
+  },
+  {
+    "index": 467,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Relentless",
+    "level": 6,
+    "desc": [
+      "If your servant’s HP would be reduced to 0, instead it is reduced to 1. After it uses this trait, it can’t use it again until after a rest."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/467"
+  },
+  {
+    "index": 468,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Runic Knowledge",
+    "level": 6,
+    "desc": [
+      "Your servant learns one cantrip of your choice. WIS is the spellcasting modifier for this. You may select this Upgrade multiple times."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/468"
+  },
+  {
+    "index": 469,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Spark of Consciousness",
+    "level": 6,
+    "desc": [
+      "Your servant gains an INT score of 6, allowing it to utilize items from your Infuse Magic feature. In addition, your servant is able to speak Common."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/469"
+  },
+  {
+    "index": 470,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Upgraded Systems",
+    "level": 6,
+    "desc": [
+      "Choose one ability score from STR, DEX, CON or WIS to increase to 16. If the chosen ability score is already 16 or higher, instead increase it by 2. You may select this Upgrade multiple times."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/470"
+  },
+  {
+    "index": 471,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Advanced Upgrade",
+    "level": 9,
+    "desc": [
+      "Your servant may have up to seven Upgrades activated at a time."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/471"
+  },
+  {
+    "index": 472,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Upgraded Sensors",
+    "level": 9,
+    "desc": [
+      "Your servant gains Blindsight up to 30ft. In addition, your servant can no longer be surprised."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/472"
+  },
+  {
+    "index": 473,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Enhanced Upgrade",
+    "level": 14,
+    "desc": [
+      "Your servant may have up to eight Upgrades activated at a time."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/473"
+  },
+  {
+    "index": 474,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Advanced Materials",
+    "level": 14,
+    "desc": [
+      "Your servant has resistance to bludgeoning, piercing and slashing damage."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/474"
+  },
+  {
+    "index": 475,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Hair Trigger Springs",
+    "level": 14,
+    "desc": [
+      "Your servant has advantage on DEX saving throws. In addition, your servant takes half damage on a failed DEX saving throw and no damage on a success."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/475"
+  },
+  {
+    "index": 476,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Magical Ward",
+    "level": 14,
+    "desc": [
+      "Your servant has advantage on saving throws against spells."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/476"
+  },
+  {
+    "index": 477,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Ultimate Upgrade",
+    "level": 17,
+    "desc": [
+      "Your servant may have up to nine Upgrades activated at a time."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/477"
+  },
+  {
+    "index": 478,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Arcane Shielding",
+    "level": 17,
+    "desc": [
+      "As a bonus action, your servant may activate a bubble of arcane energy for 1 minute.",
+      "Your servant has resistance to all damage types while this is active. After it uses this trait, it can’t use it again until after combat."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/478"
+  },
+  {
+    "index": 479,
+    "class": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+      "name": "Artificer"
+    },
+    "subclass": {
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+      "name": "Mechanist"
+    },
+    "name": "Spark of Intellect",
+    "level": 17,
+    "desc": [
+      "Your servant gains an INT score of 16. You may choose up to two LVL1 artificer spells and one LVL2 artificer spell. Your servant is able to cast each of these up to one time until after a rest.",
+      "In addition, you may choose an additional language for your servant to speak. (This trait requires the Spark of Consciousness trait to be active)."
+    ],
+    "url": "https://dnd-5e-api.herokuapp.com/api/features/479"
   }
 ]

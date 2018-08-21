@@ -11581,7 +11581,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/306"
@@ -11603,7 +11603,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/307"
@@ -11625,7 +11625,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/308"
@@ -11647,7 +11647,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/309"
@@ -11669,7 +11669,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/310"
@@ -11691,7 +11691,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/311"
@@ -11713,7 +11713,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/312"
@@ -11735,7 +11735,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/313"
@@ -11757,7 +11757,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/314"
@@ -11779,7 +11779,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/315"
@@ -11801,7 +11801,7 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/316"
@@ -11823,117 +11823,757 @@
 		"subclasses": [
 			{
 				"name": "Path of the Elements",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/317"
 	},
 	{
 		"index": 318,
-		"name": "Spirit Possession",
+		"name": "Concoction of Fire I",
 		"desc": [
-			"As an action, you may enter a trance and allow the spirits around you to possess your body, enhancing your abilities. You may maintain this possession for a number of hours equal to your LVL or until your HP reaches 0. You may end this possession as a bonus action.",
-			"At 3rd LVL, you receive the following bonuses: STR+1, DEX+1, INT+1, WIS+1, +1AC.",
-			"At 7th LVL, you receive the following bonuses: STR+2, DEX+2, INT+2, WIS+2, +2AC. You may use this feature up to two times before resting.",
-			"At 11th LVL, you receive the following bonuses: STR+2, DEX+2, INT+2, WIS+2, +2AC. You gain temporary HP equal to your LVL. You may use this feature up to three times before resting."
+			"You reach into your alchemist’s satchel and pull out a Concoction of Fire hurling it at a target within 30ft of you. The area of impact is filled with a 10ft radius of flames, and any target within it must make a DEX saving throw. On a failed saving throw, the target takes 1d6 fire damage."
 		],
-		"range": "60 feet",
+		"range": "30 feet",
 		"ritual": "no",
-		"duration": "1 minute",
+		"duration": "1 round",
 		"concentration": "no",
 		"casting_time": "1 action",
-		"level": 0,
-		"school": {},
-		"classes": [],
-		"subclasses": [],
-		"url": "https://dnd-5e-api.herokuapp.com/api/spells/318"
-	},
-	{
-		"index": 319,
-		"name": "Fox's Swiftness",
-		"desc": [
-			"You are now able to use Spirit Possession as a bonus action rather than an action."
-		],
-		"range": "60 feet",
-		"ritual": "no",
-		"duration": "1 minute",
-		"concentration": "no",
-		"casting_time": "1 action",
-		"level": 2,
+		"level": 1,
 		"school": {},
 		"classes": [],
 		"subclasses": [
 			{
-				"name": "Path of the Four Spirits",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/14"
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/318"
+	},
+	{
+		"index": 319,
+		"name": "Concoction of Acid I",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Acid hurling it at a target within 30ft of you. The target must make a DEX saving throw. On a failed saving throw, the target takes 1d6 acid damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 1,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/319"
 	},
 	{
 		"index": 320,
-		"name": "Owl's Insight",
+		"name": "Concoction of Healing I",
 		"desc": [
-			"As an action, you are able to detect the presence of any creature within 100ft of you. You are able to discern the number of creatures and the CR of each creature. Once you use this trait, you can’t use it again until after a long rest."
+			"You reach into your alchemist’s satchel and pull out a Concoction of Healing. A creature may drink the concoction to heal 3d8 HP. Once a creature has drunk the concoction, they can’t drink it again until after a rest."
 		],
-		"range": "100 feet",
+		"range": "30 feet",
 		"ritual": "no",
-		"duration": "1 minute",
+		"duration": "1 round",
 		"concentration": "no",
 		"casting_time": "1 action",
-		"level": 5,
+		"level": 3,
 		"school": {},
 		"classes": [],
 		"subclasses": [
 			{
-				"name": "Path of the Four Spirits",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/14"
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/320"
 	},
 	{
 		"index": 321,
-		"name": "Stag's Admonition",
+		"name": "Concoction of Noxious Fumes",
 		"desc": [
-			"While under the effects of Spirit Possession, you may add an additional 1d4 force damage to your attack damage. You may sacrifice spell slots to increase this damage by 1d4 per sacrificed spell slot."
+			"You reach into your alchemist’s satchel and pull out a Concoction of Noxious Fumes hurling it at a target within 30ft of you. The area of impact is filled with a 10ft radius of poisonous gas, and any target within it must make a CON saving throw. On a failed saving throw, the target takes 1d8 poison damage."
 		],
-		"range": "100 feet",
+		"range": "30 feet",
 		"ritual": "no",
-		"duration": "1 minute",
+		"duration": "1 round",
 		"concentration": "no",
 		"casting_time": "1 action",
-		"level": 10,
+		"level": 3,
 		"school": {},
 		"classes": [],
 		"subclasses": [
 			{
-				"name": "Path of the Four Spirits",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/14"
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/321"
 	},
 	{
 		"index": 322,
-		"name": "Bear’s Protection",
+		"name": "Concoction of Fire II",
 		"desc": [
-			"While under the effects of Spirit Possession, you gain temporary HP equal to your LVL x your WIS modifier."
+			"You reach into your alchemist’s satchel and pull out a Concoction of Fire hurling it at a target within 30ft of you. The area of impact is filled with a 10ft radius of flames, and any target within it must make a DEX saving throw. On a failed saving throw, the target takes 2d6 fire damage."
 		],
-		"range": "100 feet",
+		"range": "30 feet",
 		"ritual": "no",
-		"duration": "1 minute",
+		"duration": "1 round",
 		"concentration": "no",
 		"casting_time": "1 action",
-		"level": 15,
+		"level": 3,
 		"school": {},
 		"classes": [],
 		"subclasses": [
 			{
-				"name": "Path of the Four Spirits",
-				"url": "https://dnd-5e-api.herokuapp.com/api/classes/14"
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
 			}
 		],
 		"url": "https://dnd-5e-api.herokuapp.com/api/spells/322"
+	},
+	{
+		"index": 323,
+		"name": "Concoction of Acid II",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Acid hurling it at a target within 30ft of you. The target must make a DEX saving throw. On a failed saving throw, the target takes 3d6 acid damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 3,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/323"
+	},
+	{
+		"index": 324,
+		"name": "Concoction of Fire III",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Fire hurling it at a target within 30ft of you. The area of impact is filled with a 10ft radius of flames, and any target within it must make a DEX saving throw. On a failed saving throw, the target takes 3d6 fire damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 6,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/324"
+	},
+	{
+		"index": 325,
+		"name": "Concoction of Acid III",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Acid hurling it at a target within 30ft of you. The target must make a DEX saving throw. On a failed saving throw, the target takes 4d6 acid damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 6,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/325"
+	},
+	{
+		"index": 326,
+		"name": "Concoction of Healing II",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Healing. A creature may drink the concoction to heal 4d8 HP. Once a creature has drunk the concoction, they can’t drink it again until after a rest."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 6,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/326"
+	},
+	{
+		"index": 327,
+		"name": "Concoction of Smoke",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Smoke hurling it at a target within 30ft of you. The area of impact is filled with a 10ft radius of smoke that blocks vision. The smoke persists for 1 minute before disappearing. Once you use this trait, you can’t use it again until after combat."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 minute",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 9,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/327"
+	},
+	{
+		"index": 328,
+		"name": "Concoction of Stunning Powder",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Stunning Powder hurling it at a target within 30ft of you. The area of impact if filled with a 10ft radius of concussive energy, and any target within it must make a CON saving throw. On a failed saving throw, the target is stunned until your next turn. Once you use this trait, you can’t use it again until after combat."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 minute",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 9,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/328"
+	},
+	{
+		"index": 329,
+		"name": "Concoction of Fire IV",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Fire hurling it at a target within 30ft of you. The area of impact is filled with a 10ft radius of flames, and any target within it must make a DEX saving throw. On a failed saving throw, the target takes 4d6 fire damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 9,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/329"
+	},
+	{
+		"index": 330,
+		"name": "Concoction of Acid IV",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Acid hurling it at a target within 30ft of you. The target must make a DEX saving throw. On a failed saving throw, the target takes 5d6 acid damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 9,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/330"
+	},
+	{
+		"index": 331,
+		"name": "Concoction of Healing III",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Healing. A creature may drink the concoction to heal 5d8 HP. Once a creature has drunk the concoction, they can’t drink it again until after a rest."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 9,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/331"
+	},
+	{
+		"index": 332,
+		"name": "Concoction of Speed",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Speed. A creature may drink the concoction to increase their movement speed by 20ft for 1 minute."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 minute",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 14,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/332"
+	},
+	{
+		"index": 333,
+		"name": "Concoction of Entanglement",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Entanglement hurling it at a target within 30ft of you. The area of impact is filled with a 10ft radius of tar that becomes difficult terrain halves the movement speed of any creature within it. The tar persists for 1 minute before disappearing."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 minute",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 14,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/333"
+	},
+	{
+		"index": 334,
+		"name": "Concoction of Fire V",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Fire hurling it at a target within 30ft of you. The area of impact is filled with a 10ft radius of flames, and any target within it must make a DEX saving throw. On a failed saving throw, the target takes 5d6 fire damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 14,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/334"
+	},
+	{
+		"index": 335,
+		"name": "Concoction of Acid V",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Acid hurling it at a target within 30ft of you. The target must make a DEX saving throw. On a failed saving throw, the target takes 8d6 acid damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 14,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/335"
+	},
+	{
+		"index": 336,
+		"name": "Concoction of Healing IV",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Healing. A creature may drink the concoction to heal 7d8 HP. Once a creature has drunk the concoction, they can’t drink it again until after a rest."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 14,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/336"
+	},
+	{
+		"index": 337,
+		"name": "Concoction of Thunder",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Thunder hurling it at a target within 30ft of you. The area of impact if filled with a 10ft radius of concussive energy, and any target within it must make a CON saving throw. On a failed saving throw, the target takes 2d8 bludgeoning damage and is knocked back 10ft from the point of impact."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 17,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/337"
+	},
+	{
+		"index": 338,
+		"name": "Concoction of Fire VI",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Fire hurling it at a target within 30ft of you. The area of impact is filled with a 10ft radius of flames, and any target within it must make a DEX saving throw. On a failed saving throw, the target takes 7d6 fire damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 17,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/338"
+	},
+	{
+		"index": 339,
+		"name": "Concoction of Acid VI",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Acid hurling it at a target within 30ft of you. The target must make a DEX saving throw. On a failed saving throw, the target takes 10d6 acid damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 17,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/339"
+	},
+	{
+		"index": 340,
+		"name": "Concoction of Healing V",
+		"desc": [
+			"You reach into your alchemist’s satchel and pull out a Concoction of Healing. A creature may drink the concoction to heal 10d8 HP. Once a creature has drunk the concoction, they can’t drink it again until after a rest."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 17,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Alchemist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/15"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/340"
+	},
+	{
+		"index": 341,
+		"name": "Force Blast I",
+		"desc": [
+			"You unleash a blast of energy in a 20ft cone in front of you. Any target within it must make a STR saving throw. On a failed saving throw, the target takes 2d6 force damage and is knocked back 10ft."
+		],
+		"range": "20 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 9,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Gunsmith",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/16"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/341"
+	},
+	{
+		"index": 342,
+		"name": "Piercing Round I",
+		"desc": [
+			"You unleash a piercing bolt of lightning in a 30ft straight line. Any target within it must make a DEX saving throw. On a failed saving throw, the target takes 4d6 electric damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 14,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Gunsmith",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/16"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/342"
+	},
+	{
+		"index": 343,
+		"name": "Force Blast II",
+		"desc": [
+			"You unleash a blast of energy in a 20ft cone in front of you. Any target within it must make a STR saving throw. On a failed saving throw, the target takes 3d6 force damage and is knocked back 10ft."
+		],
+		"range": "20 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 14,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Gunsmith",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/16"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/343"
+	},
+	{
+		"index": 344,
+		"name": "Explosive Round",
+		"desc": [
+			"You unleash an explosive shot at a point within your range with a 30ft radius. Any target within it must make DEX saving throw. On a failed saving throw, the target takes 4d6 fire damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 17,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Gunsmith",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/16"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/344"
+	},
+	{
+		"index": 345,
+		"name": "Force Blast III",
+		"desc": [
+			"You unleash a blast of energy in a 20ft cone in front of you. Any target within it must make a STR saving throw. On a failed saving throw, the target takes 3d6 force damage and is knocked back 10ft."
+		],
+		"range": "20 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 17,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Gunsmith",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/16"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/345"
+	},
+	{
+		"index": 346,
+		"name": "Piercing Round II",
+		"desc": [
+			"You unleash a piercing bolt of lightning in a 30ft straight line. Any target within it must make a DEX saving throw. On a failed saving throw, the target takes 4d6 electric damage."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 17,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Gunsmith",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/16"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/346"
+	},
+	{
+		"index": 347,
+		"name": "Arcane Link",
+		"desc": [
+			"You see and hear through your servant’s sensors while it is within 100ft of you. You are blind and deaf in regards to your own senses while this is active."
+		],
+		"range": "100 feet",
+		"ritual": "no",
+		"duration": "until canceled",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 3,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Mechanist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/17"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/347"
+	},
+	{
+		"index": 348,
+		"name": "Reserve Power",
+		"desc": [
+			"You expend a spell slot to heal your servant by 1d8 x the LVL of the spell slot expended HP."
+		],
+		"range": "touch",
+		"ritual": "no",
+		"duration": "1 Round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 3,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Mechanist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/17"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/348"
+	},
+	{
+		"index": 349,
+		"name": "Cloaking Shield",
+		"desc": [
+			"Your servant may become invisible for up to 1 hour or until your servant attacks or casts a spell. After it uses this trait, it can’t use it again until after a rest."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 hour",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 9,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Mechanist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/17"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/349"
+	},
+	{
+		"index": 350,
+		"name": "Overheat",
+		"desc": [
+			"Your servant may unleash a blast of heat in a 30ft straight line. Any target within it must make a DEX saving throw. On a failed saving throw, the target takes 8d6 fire damage. After it uses this trait, it can’t use it again until after a rest."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 9,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Mechanist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/17"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/350"
+	},
+	{
+		"index": 351,
+		"name": "Overload",
+		"desc": [
+			"Your servant may unleash an electrical discharge in a 20ft radius. Any target within it must make a DEX saving throw. On a failed saving throw, the target takes 5d10 electric damage. After it uses this trait, it can’t use it again until after a rest."
+		],
+		"range": "30 feet",
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 9,
+		"school": {},
+		"classes": [],
+		"subclasses": [
+			{
+				"name": "Mechanist",
+				"url": "https: //dnd-5e-api.herokuapp.com/api/subclasses/17"
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/spells/351"
 	}
 ]

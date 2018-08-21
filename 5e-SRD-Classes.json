@@ -82,6 +82,7 @@
 			}
 		],
 		"spellcasting": {},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/1"
 	},
 	{
@@ -268,6 +269,7 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/1",
 			"class": "Bard"
 		},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/2"
 	},
 	{
@@ -348,6 +350,7 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/2",
 			"class": "Cleric"
 		},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/3"
 	},
 	{
@@ -480,6 +483,7 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/3",
 			"class": "Druid"
 		},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/4"
 	},
 	{
@@ -569,6 +573,7 @@
 			}
 		],
 		"spellcasting": {},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/5"
 	},
 	{
@@ -770,6 +775,7 @@
 			}
 		],
 		"spellcasting": {},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/6"
 	},
 	{
@@ -854,6 +860,7 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/4",
 			"class": "Paladin"
 		},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/7"
 	},
 	{
@@ -950,6 +957,7 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/5",
 			"class": "Ranger"
 		},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/8"
 	},
 	{
@@ -1063,6 +1071,7 @@
 			}
 		],
 		"spellcasting": {},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/9"
 	},
 	{
@@ -1147,6 +1156,7 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/6",
 			"class": "Sorcerer"
 		},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/10"
 	},
 	{
@@ -1227,6 +1237,7 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/7",
 			"class": "Warlock"
 		},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/11"
 	},
 	{
@@ -1311,6 +1322,7 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/8",
 			"class": "Wizard"
 		},
+		"required_subclass": false,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/12"
 	},
 	{
@@ -1401,7 +1413,8 @@
 			{
 				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13",
 				"name": "Path of the Elements"
-			},{
+			},
+			{
 				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
 				"name": "Path of the Four Spirits"
 			}
@@ -1410,6 +1423,104 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/2",
 			"class": "Shaman"
 		},
+		"required_subclass": true,
 		"url": "https://dnd-5e-api.herokuapp.com/api/classes/13"
+	},
+	{
+		"index": 14,
+		"name": "Artificer",
+		"hit_die": 8,
+		"proficiency_choices": [
+			{
+				"choose": 3,
+				"type": "proficiencies",
+				"from": [
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/107",
+						"name": "Skill: Arcana"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/109",
+						"name": "Skill: Deception"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/110",
+						"name": "Skill: History"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/113",
+						"name": "Skill: Investigation"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/114",
+						"name": "Skill: Medicine"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/115",
+						"name": "Skill: Nature"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/119",
+						"name": "Skill: Religion"
+					},
+					{
+						"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/120",
+						"name": "Skill: Sleight of Hand"
+					}
+				]
+			}
+		],
+		"proficiencies": [
+			{
+				"name": "Light Armor",
+				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/1"
+			},
+			{
+				"name": "Medium Armor",
+				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/2"
+			},
+			{
+				"name": "Simple Weapons",
+				"url": "https://dnd-5e-api.herokuapp.com/api/proficiencies/19"
+			}
+		],
+		"saving_throws": [
+			{
+				"name": "INT",
+				"url": "https://dnd-5e-api.herokuapp.com/api/ability-scores/4"
+			},
+			{
+				"name": "CON",
+				"url": "https://dnd-5e-api.herokuapp.com/api/ability-scores/3"
+			}
+		],
+		"starting_equipment": {
+			"url": "https://dnd-5e-api.herokuapp.com/api/startingequipment/14",
+			"class": "Artificer"
+		},
+		"class_levels": {
+			"url": "https://dnd-5e-api.herokuapp.com/api/classes/Artificer/levels",
+			"class": "Artificer"
+		},
+		"subclasses": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/15",
+				"name": "Alchemist"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16",
+				"name": "Gunsmith"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17",
+				"name": "Mechanist"
+			}
+		],
+		"spellcasting": {
+			"url": "https://dnd-5e-api.herokuapp.com/api/spellcasting/8",
+			"class": "Artificer"
+		},
+		"required_subclass": true,
+		"url": "https://dnd-5e-api.herokuapp.com/api/classes/14"
 	}
 ]
