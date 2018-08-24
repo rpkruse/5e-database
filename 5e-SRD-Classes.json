@@ -1412,11 +1412,11 @@
 		"subclasses": [
 			{
 				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13",
-				"name": "Path of the Elements"
+				"name": "Elemental"
 			},
 			{
 				"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
-				"name": "Path of the Four Spirits"
+				"name": "Spirit"
 			}
 		],
 		"spellcasting": {

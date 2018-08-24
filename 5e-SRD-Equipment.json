@@ -4875,6 +4875,10 @@
 		"index": 258,
 		"name": "Ring of Djinni Summoning",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 55000,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of you. It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane. While summoned, the djinni is friendly to you and your companions. It obeys any commands you give it, no matter what language you use. If you fail to command it, the djinni defends itself against attackers but takes no other actions. After the djinni departs, it can’t be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.",
 		"rank": "Legendary",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/258"
@@ -4883,6 +4887,10 @@
 		"index": 259,
 		"name": "Ring of Evasion",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 25000,
+			"unit": "gp"
+		},
 		"desc": "This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.",
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/259"
@@ -4891,6 +4899,10 @@
 		"index": 260,
 		"name": "Ring of Feather Falling",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 2200,
+			"unit": "gp"
+		},
 		"desc": "When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.",
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/260"
@@ -4899,6 +4911,10 @@
 		"index": 261,
 		"name": "Ring of Free Action",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 2500,
+			"unit": "gp"
+		},
 		"desc": "While you wear this ring, difficult terrain doesn’t cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.",
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/261"
@@ -4907,6 +4923,10 @@
 		"index": 262,
 		"name": "Ring of Invisibility",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 20000,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.",
 		"rank": "Legendary",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/262"
@@ -4915,6 +4935,10 @@
 		"index": 263,
 		"name": "Ring of Jumping",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 450,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so.",
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/263"
@@ -4923,6 +4947,10 @@
 		"index": 264,
 		"name": "Ring of Mind Shielding",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 550,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it. You can use an action to cause the ring to become invisible until you use another action to make it visible, until you remove the ring, or until you die. If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can’t prevent this telepathic communication.",
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/264"
@@ -4931,6 +4959,10 @@
 		"index": 265,
 		"name": "Ring of Protection",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 2000,
+			"unit": "gp"
+		},
 		"desc": "You gain a +1 bonus to AC and saving throws while wearing this ring.",
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/265"
@@ -4939,6 +4971,10 @@
 		"index": 266,
 		"name": "Ring of Regeneration",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 45000,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time.",
 		"rank": "Very Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/266"
@@ -4947,6 +4983,10 @@
 		"index": 267,
 		"name": "Ring of Shooting Stars",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 50000,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring in dim light or darkness, you can cast dancing lights and light from the ring at will. Casting either spell from the ring requires an action. The ring has 6 charges for the following other properties. The ring regains 1d6 expended charges daily at dawn.",
 		"charge_spells": [
 			{
@@ -4969,6 +5009,10 @@
 		"index": 268,
 		"name": "Ring of Spell Storing",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 18000,
+			"unit": "gp"
+		},
 		"desc": "This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 ? 1 levels of stored spells chosen by the GM. Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can’t hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses. While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.",
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/268"
@@ -4977,6 +5021,10 @@
 		"index": 269,
 		"name": "Ring of Spell Turning",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 98280,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster.",
 		"rank": "Legendary",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/269"
@@ -4985,6 +5033,10 @@
 		"index": 270,
 		"name": "Ring of Swimming",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 350,
+			"unit": "gp"
+		},
 		"desc": "You have a swimming speed of 40 feet while wearing this ring.",
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/270"
@@ -4993,6 +5045,10 @@
 		"index": 271,
 		"name": "Ring of Telekinesis",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 75000,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren’t being worn or carried.",
 		"rank": "Very Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/271"
@@ -5001,6 +5057,10 @@
 		"index": 272,
 		"name": "Ring of the Ram",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 8600,
+			"unit": "gp"
+		},
 		"desc": "This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a spectral ram’s head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you. Alternatively, you can expend 1 to 3 of the ring’s charges as an action to try to break an object you can see within 60 feet of you that isn’t being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.",
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/272"
@@ -5009,6 +5069,10 @@
 		"index": 273,
 		"name": "Ring of Three Wishes",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 97950,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the wish spell from it. The ring becomes nonmagical when you use the last charge.",
 		"charge_spells": [
 			{
@@ -5023,6 +5087,10 @@
 		"index": 274,
 		"name": "Ring of Warmth",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 350,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as ?50 degrees Fahrenheit.",
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/274"
@@ -5031,6 +5099,10 @@
 		"index": 275,
 		"name": "Ring of Water Walking",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 375,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.",
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/275"
@@ -5039,10 +5111,15 @@
 		"index": 276,
 		"name": "Ring of X-ray Vision",
 		"equipment_category": "Rings",
+		"cost": {
+			"quantity": 3500,
+			"unit": "gp"
+		},
 		"desc": "While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don’t prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead. Whenever you use the ring again before taking a long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion.",
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/276"
-	},{
+	},
+	{
 		"index": 277,
 		"name": "Club + 1",
 		"equipment_category": "Weapon (+1)",
@@ -5050,7 +5127,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 1,
+			"quantity": 10,
 			"unit": "sp"
 		},
 		"damage": {
@@ -5087,7 +5164,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 2,
+			"quantity": 20,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5136,7 +5213,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 2,
+			"quantity": 20,
 			"unit": "sp"
 		},
 		"damage": {
@@ -5169,7 +5246,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 5,
+			"quantity": 50,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5219,7 +5296,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 5,
+			"quantity": 50,
 			"unit": "sp"
 		},
 		"damage": {
@@ -5260,7 +5337,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 2,
+			"quantity": 20,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5305,7 +5382,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 5,
+			"quantity": 50,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5338,7 +5415,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 2,
+			"quantity": 20,
 			"unit": "sp"
 		},
 		"damage": {
@@ -5383,7 +5460,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 1,
+			"quantity": 10,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5420,7 +5497,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Simple Melee",
 		"cost": {
-			"quantity": 1,
+			"quantity": 10,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5473,7 +5550,7 @@
 		"weapon_range": "Ranged",
 		"category_range": "Simple Ranged",
 		"cost": {
-			"quantity": 25,
+			"quantity": 250,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5514,7 +5591,7 @@
 		"weapon_range": "Ranged",
 		"category_range": "Simple Ranged",
 		"cost": {
-			"quantity": 5,
+			"quantity": 50,
 			"unit": "cp"
 		},
 		"damage": {
@@ -5555,7 +5632,7 @@
 		"weapon_range": "Ranged",
 		"category_range": "Simple Ranged",
 		"cost": {
-			"quantity": 25,
+			"quantity": 250,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5592,7 +5669,7 @@
 		"weapon_range": "Ranged",
 		"category_range": "Simple Ranged",
 		"cost": {
-			"quantity": 1,
+			"quantity": 10,
 			"unit": "sp"
 		},
 		"damage": {
@@ -5625,7 +5702,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 10,
+			"quantity": 100,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5666,7 +5743,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 10,
+			"quantity": 100,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5694,7 +5771,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 20,
+			"quantity": 200,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5735,7 +5812,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 30,
+			"quantity": 300,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5772,7 +5849,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 50,
+			"quantity": 500,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5809,7 +5886,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 20,
+			"quantity": 200,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5850,7 +5927,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 10,
+			"quantity": 100,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5890,7 +5967,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 15,
+			"quantity": 150,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5931,7 +6008,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 10,
+			"quantity": 100,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5968,7 +6045,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 15,
+			"quantity": 150,
 			"unit": "gp"
 		},
 		"damage": {
@@ -5996,7 +6073,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 5,
+			"quantity": 50,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6037,7 +6114,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 25,
+			"quantity": 250,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6070,7 +6147,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 25,
+			"quantity": 250,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6107,7 +6184,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 10,
+			"quantity": 100,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6148,7 +6225,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 5,
+			"quantity": 50,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6189,7 +6266,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 5,
+			"quantity": 50,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6217,7 +6294,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 15,
+			"quantity": 150,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6258,7 +6335,7 @@
 		"weapon_range": "Melee",
 		"category_range": "Martial Melee",
 		"cost": {
-			"quantity": 2,
+			"quantity": 20,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6295,7 +6372,7 @@
 		"weapon_range": "Ranged",
 		"category_range": "Martial Ranged",
 		"cost": {
-			"quantity": 10,
+			"quantity": 100,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6332,7 +6409,7 @@
 		"weapon_range": "Ranged",
 		"category_range": "Martial Ranged",
 		"cost": {
-			"quantity": 75,
+			"quantity": 750,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6373,7 +6450,7 @@
 		"weapon_range": "Ranged",
 		"category_range": "Martial Ranged",
 		"cost": {
-			"quantity": 50,
+			"quantity": 500,
 			"unit": "gp"
 		},
 		"damage": {
@@ -6457,7 +6534,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Light",
 		"armor_class": {
-			"base": 11,
+			"base": 12,
 			"dex_bonus": true,
 			"max_bonus": null
 		},
@@ -6465,7 +6542,7 @@
 		"stealth_disadvantage": true,
 		"weight": 8,
 		"cost": {
-			"quantity": 5,
+			"quantity": 50,
 			"unit": "gp"
 		},
 		"bonus": 1,
@@ -6477,7 +6554,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Light",
 		"armor_class": {
-			"base": 11,
+			"base": 12,
 			"dex_bonus": true,
 			"max_bonus": null
 		},
@@ -6497,7 +6574,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Light",
 		"armor_class": {
-			"base": 12,
+			"base": 13,
 			"dex_bonus": true,
 			"max_bonus": null
 		},
@@ -6505,7 +6582,7 @@
 		"stealth_disadvantage": false,
 		"weight": 13,
 		"cost": {
-			"quantity": 45,
+			"quantity": 450,
 			"unit": "gp"
 		},
 		"bonus": 1,
@@ -6517,7 +6594,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Medium",
 		"armor_class": {
-			"base": 12,
+			"base": 13,
 			"dex_bonus": true,
 			"max_bonus": 2
 		},
@@ -6537,7 +6614,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Medium",
 		"armor_class": {
-			"base": 13,
+			"base": 14,
 			"dex_bonus": true,
 			"max_bonus": 2
 		},
@@ -6545,7 +6622,7 @@
 		"stealth_disadvantage": false,
 		"weight": 20,
 		"cost": {
-			"quantity": 50,
+			"quantity": 500,
 			"unit": "gp"
 		},
 		"bonus": 1,
@@ -6557,7 +6634,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Medium",
 		"armor_class": {
-			"base": 14,
+			"base": 15,
 			"dex_bonus": true,
 			"max_bonus": 2
 		},
@@ -6565,7 +6642,7 @@
 		"stealth_disadvantage": true,
 		"weight": 45,
 		"cost": {
-			"quantity": 50,
+			"quantity": 500,
 			"unit": "gp"
 		},
 		"bonus": 1,
@@ -6577,7 +6654,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Medium",
 		"armor_class": {
-			"base": 14,
+			"base": 15,
 			"dex_bonus": true,
 			"max_bonus": 2
 		},
@@ -6585,7 +6662,7 @@
 		"stealth_disadvantage": false,
 		"weight": 20,
 		"cost": {
-			"quantity": 400,
+			"quantity": 4000,
 			"unit": "gp"
 		},
 		"bonus": 1,
@@ -6597,7 +6674,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Medium",
 		"armor_class": {
-			"base": 15,
+			"base": 16,
 			"dex_bonus": true,
 			"max_bonus": 2
 		},
@@ -6605,7 +6682,7 @@
 		"stealth_disadvantage": true,
 		"weight": 40,
 		"cost": {
-			"quantity": 750,
+			"quantity": 7500,
 			"unit": "gp"
 		},
 		"bonus": 1,
@@ -6617,7 +6694,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Heavy",
 		"armor_class": {
-			"base": 14,
+			"base": 15,
 			"dex_bonus": false,
 			"max_bonus": null
 		},
@@ -6637,7 +6714,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Heavy",
 		"armor_class": {
-			"base": 16,
+			"base": 17,
 			"dex_bonus": false,
 			"max_bonus": null
 		},
@@ -6645,7 +6722,7 @@
 		"stealth_disadvantage": true,
 		"weight": 55,
 		"cost": {
-			"quantity": 75,
+			"quantity": 750,
 			"unit": "gp"
 		},
 		"bonus": 1,
@@ -6657,7 +6734,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Heavy",
 		"armor_class": {
-			"base": 17,
+			"base": 18,
 			"dex_bonus": false,
 			"max_bonus": null
 		},
@@ -6665,7 +6742,7 @@
 		"stealth_disadvantage": true,
 		"weight": 60,
 		"cost": {
-			"quantity": 200,
+			"quantity": 2000,
 			"unit": "gp"
 		},
 		"bonus": 1,
@@ -6677,7 +6754,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Heavy",
 		"armor_class": {
-			"base": 18,
+			"base": 19,
 			"dex_bonus": false,
 			"max_bonus": null
 		},
@@ -6685,7 +6762,7 @@
 		"stealth_disadvantage": true,
 		"weight": 65,
 		"cost": {
-			"quantity": 1500,
+			"quantity": 15000,
 			"unit": "gp"
 		},
 		"bonus": 1,
@@ -6697,7 +6774,7 @@
 		"equipment_category": "Armor (+1)",
 		"armor_category": "Shield",
 		"armor_class": {
-			"base": 2,
+			"base": 3,
 			"dex_bonus": false,
 			"max_bonus": null
 		},
@@ -6705,7 +6782,7 @@
 		"stealth_disadvantage": false,
 		"weight": 6,
 		"cost": {
-			"quantity": 10,
+			"quantity": 100,
 			"unit": "gp"
 		},
 		"bonus": 1,

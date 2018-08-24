@@ -1,0 +1,200 @@
+[
+    {
+        "index": 1,
+        "name": "Morgandra",
+        "alignment": "Lawful Good",
+        "god_of": "God of Virtue",
+        "boon": "",
+        "desc": [
+            "Morgandra is often revered as the goddess of all things good.", 
+            "She protects the weak, and her followers uphold a set of strict virtues.", 
+            "Morgandra is often followed by Aasimar and Humands."],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/1"
+    },
+    {
+        "index": 2,
+        "name": "Beldmos",
+        "alignment": "Neutral Good",
+        "god_of": "God of Birth",
+        "boon": "",
+        "desc": [
+            "The god of creation, the morning, and the sun.",
+            "Beldmos is revered as a skilled smith and has a great following of Dwarves."
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/2"
+    },
+    {
+        "index": 3,
+        "name": "Helenis",
+        "alignment": "Chaotic Good",
+        "god_of": "God of Death",
+        "boon": "",
+        "desc": [
+            "A goddess of death, decay, and the night. Some would think Helenis to be an evil deity.",
+            "The Elves understand that these things are but a natural part of the world, and all thing must pass eventually."
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/3"
+    },
+    {
+        "index": 4,
+        "name": "Lenagos",
+        "alignment": "Lawful Neutral",
+        "god_of": "God of Order",
+        "boon": "",
+        "desc": [
+            "Initially a powerful spirit, Lenagos is now the god of order and law to fill the void left by Hotan.",
+            "Many humans of the greater cities are followers of Lenagos as they believe his ideals to be the strong fundations for a successful society."
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/4"
+    },
+    {
+        "index": 5,
+        "name": "Banden",
+        "alignment": "True Neutral",
+        "god_of": "God of Wild",
+        "boon": "",
+        "desc": [
+            "A nature spirit turned god, Banden represents all things wild and fey.",
+            "Revered by druids of all races as well as the Centaurs, Firbolgs, and even some Elves."
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/5"
+    },
+    {
+        "index": 6,
+        "name": "Veia",
+        "alignment": "Chaotic Neutral",
+        "god_of": "God of Arcane",
+        "boon": "",
+        "desc": [
+            "Veia gifted mortals with the boon of magic, allowing them to experience the wonders of the arcane.",
+            "Wizards and sorcerers alike now look to Veia for guidance, though her intentions are not always for the greater good."
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/6"
+    },
+    {
+        "index": 7,
+        "name": "Stratuul",
+        "alignment": "Lawful Evil",
+        "god_of": "God of Strength",
+        "boon": "",
+        "desc": [
+            "Stratuul, god of strength and war, was once one of the most powerful gods on Mediterra until the Pantheon of Iteria banished him and Hotan to Sotoris.",
+            "Stratuul was once worshiped by the Hobgoblins, Minotaurs, and Orcs until the Great War ended."
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/7"
+    },
+    {
+        "index": 8,
+        "name": "Ulshelak",
+        "alignment": "Neutral Evil",
+        "god_of": "God of Madness",
+        "boon": "",
+        "desc": [
+            "Ulshelak, god of madness, was born from the Churning Chaos at the edge of reality. Though not directly involved in the Second War,...eriq never finished this desc. WAY TO GO ERIQ"
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/8"
+    },
+    {
+        "index": 9,
+        "name": "Hotan",
+        "alignment": "Chaotic Evil",
+        "god_of": "God of Chaos",
+        "boon": "",
+        "desc": [
+            "The Great War started when Hotan sought to betray his siblings, the Pantheon of Iteria, and seized control of Mediterra after forsaking his duties as a god of order.",
+            "Now Hotan sits trapped within the burning realm of Sotoris, clawing at his confinements while those few who still follow him await his return."
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/9"
+    },
+    {
+        "index": 10,
+        "name": "Lothien, the Fox",
+        "alignment": "True Neutral",
+        "god_of": "Spirit of Cunning",
+        "boon": "",
+        "desc": [
+            "ERIQ ADD ONE"
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/10"
+    },
+    {
+        "index": 11,
+        "name": "Kuro, the Owl",
+        "alignment": "True Neutral",
+        "god_of": "Spirit of Wisdom",
+        "boon": "",
+        "desc": [
+            "ERIQ ADD ONE"
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/11"
+    },
+    {
+        "index": 12,
+        "name": "Actaeon, the Stag",
+        "alignment": "True Neutral",
+        "god_of": "Spirit of Strength",
+        "boon": "",
+        "desc": [
+            "ERIQ ADD ONE"
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/12"
+    },
+    {
+        "index": 13,
+        "name": "Misha, the Bear",
+        "alignment": "True Neutral",
+        "god_of": "Spirit of Strength",
+        "boon": "You gain a +1 to disappointment rolls, enemies now shout 'MISSHAAAAA NOOOOOO!'",
+        "desc": [
+            "You were hoping for a 4,2 with charge, but sadly, you low rolled and had to settle for a bear."
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/13"
+    },
+    {
+        "index": 14,
+        "name": "Rhokaugh",
+        "alignment": "?",
+        "god_of": "?",
+        "boon": "",
+        "desc": ["?"],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/14"
+    },
+    {
+        "index": 15,
+        "name": "Kolodian the Huntmaster",
+        "alignment": "?",
+        "god_of": "?",
+        "boon": "?",
+        "desc": [
+            "Summon a 1,1 doggo with charge for each enemy"
+        ],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/15"
+    },
+    {
+        "index": 16,
+        "name": "Aldtorkin",
+        "alignment": "?",
+        "god_of": "?",
+        "boon": "?",
+        "desc": ["?"],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/16"
+    },
+    {
+        "index": 17,
+        "name": "Yith, Father of Serpents",
+        "alignment": "?",
+        "god_of": "?",
+        "boon": "?",
+        "desc": ["?"],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/17"
+    },
+    {
+        "index": 18,
+        "name": "Abraxes",
+        "alignment": "?",
+        "god_of": "?",
+        "boon": "?",
+        "desc": ["?"],
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/18"
+    }
+]

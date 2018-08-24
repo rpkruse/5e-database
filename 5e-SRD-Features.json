@@ -8041,7 +8041,7 @@
     "name": "Shamanistic Path",
     "level": 2,
     "desc": [
-      "Choose a shamanistic path to follow: Path of the Elements or Path of the Four Spirits. You gain additional features depending on which Shamanistic Path you choose."
+      "Choose a shamanistic path to follow: Elemental or Spirit. You gain additional features depending on which Shamanistic Path you choose."
     ],
     "url": "https://dnd-5e-api.herokuapp.com/api/features/418"
   },
@@ -8112,7 +8112,7 @@
     },
     "subclass": {
       "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13",
-      "name": "Path of the Elements"
+      "name": "Elemental"
     },
     "name": "Totemic Protection",
     "level": 15,
@@ -8129,7 +8129,7 @@
     },
     "subclass": {
       "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13",
-      "name": "Path of the Elements"
+      "name": "Elemental"
     },
     "name": "Totemic Rage",
     "level": 15,
@@ -8146,7 +8146,7 @@
     },
     "subclass": {
       "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/13",
-      "name": "Path of the Elements"
+      "name": "Elemental"
     },
     "name": "Totemic Swiftness",
     "level": 15,
@@ -8163,7 +8163,7 @@
     },
     "subclass": {
       "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
-      "name": "Path of the Four Spirits"
+      "name": "Spirit"
     },
     "name": "Fox's Swiftness",
     "level": 2,
@@ -8180,7 +8180,7 @@
     },
     "subclass": {
       "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
-      "name": "Path of the Four Spirits"
+      "name": "Spirit"
     },
     "name": "Owl's Insight",
     "level": 5,
@@ -8197,7 +8197,7 @@
     },
     "subclass": {
       "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
-      "name": "Path of the Four Spirits"
+      "name": "Spirit"
     },
     "name": "Stag’s Admonition",
     "level": 10,
@@ -8214,7 +8214,7 @@
     },
     "subclass": {
       "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14",
-      "name": "Path of the Four Spirits"
+      "name": "Spirit"
     },
     "name": "Bear’s Protection",
     "level": 15,

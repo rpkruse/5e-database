@@ -9456,10 +9456,10 @@
       "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
     },
     "subclass": {
-      "name": "Path of the Elements",
-      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Elements"
+      "name": "Elemental",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Elemental"
     },
-    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the elements/level/15",
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Elemental/level/15",
     "index": 231
   },
   {
@@ -9479,10 +9479,10 @@
       "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
     },
     "subclass": {
-      "name": "Path of the Four Spirits",
-      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Four Spirits"
+      "name": "Spirit",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Spirit"
     },
-    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the four spirits/level/2",
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Spirit/level/2",
     "index": 232
   },
   {
@@ -9502,10 +9502,10 @@
       "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
     },
     "subclass": {
-      "name": "Path of the Four Spirits",
-      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Four Spirits"
+      "name": "Spirit",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Spirit"
     },
-    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the four spirits/level/5",
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Spirit/level/5",
     "index": 233
   },
   {
@@ -9525,10 +9525,10 @@
       "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
     },
     "subclass": {
-      "name": "Path of the Four Spirits",
-      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Four Spirits"
+      "name": "Spirit",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Spirit"
     },
-    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the four spirits/level/10",
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Spirit/level/10",
     "index": 234
   },
   {
@@ -9548,10 +9548,10 @@
       "url": "https://dnd-5e-api.herokuapp.com/api/classes/shaman"
     },
     "subclass": {
-      "name": "Path of the Four Spirits",
-      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Path of the Four Spirits"
+      "name": "Spirit",
+      "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Spirit"
     },
-    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/path of the four spirits/level/15",
+    "url": "https://dnd-5e-api.herokuapp.com/api/subclasses/Spirit/level/15",
     "index": 235
   },
   {

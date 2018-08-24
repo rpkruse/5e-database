@@ -1142,7 +1142,7 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
 			"name": "Shaman"
 		},
-		"name": "Path of the Elements",
+		"name": "Elemental",
 		"subclass_flavor": "",
 		"desc": [
 			"You are able to channel the spirits of the elements into totems. As an action, you can summon these totems into battle. The totems appear at a point of your choosing within 10ft. They are each 1ft tall and have AC12 and HP equal to 5 + LVL. The totems last for 1 minute or until you dismiss them as a free action. When you use your totemic call, choose a totem to summon."
@@ -1252,50 +1252,332 @@
 			"url": "https://dnd-5e-api.herokuapp.com/api/classes/13",
 			"name": "Shaman"
 		},
-		"name": "Path of the Four Spirits",
+		"name": "Spirit",
 		"subclass_flavor": "",
 		"desc": [
 			"You are able to channel the Four Spirits of the Wild to aid you."
 		],
 		"features": [],
+		"spells": [],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14"
+	},
+	{
+		"index": 15,
+		"class": {
+			"url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+			"name": "Artificer"
+		},
+		"name": "Alchemist",
+		"subclass_flavor": "",
+		"desc": [
+			"You are an expert at combing reagents to produce a variety of potions and materials."
+		],
+		"features": [],
 		"spells": [
 			{
-				"level_acquired": 0,
+				"level_acquired": 1,
 				"prerequisites": [],
 				"spell": {
 					"url": "https://dnd-5e-api.herokuapp.com/api/spells/318",
-					"name": "Spirit Possession"
+					"name": "Concoction of Fire I"
 				}
-			},{
-				"level_acquired": 2,
+			},
+			{
+				"level_acquired": 1,
 				"prerequisites": [],
 				"spell": {
 					"url": "https://dnd-5e-api.herokuapp.com/api/spells/319",
-					"name": "Fox's Swiftness"
+					"name": "Concoction of Acid I"
 				}
-			},{
-				"level_acquired": 5,
+			},
+			{
+				"level_acquired": 3,
 				"prerequisites": [],
 				"spell": {
 					"url": "https://dnd-5e-api.herokuapp.com/api/spells/320",
-					"name": "Owl's Insight"
+					"name": "Concoction of Healing I"
 				}
-			},{
-				"level_acquired": 10,
+			},
+			{
+				"level_acquired": 3,
 				"prerequisites": [],
 				"spell": {
 					"url": "https://dnd-5e-api.herokuapp.com/api/spells/321",
-					"name": "Stag's Admonition"
+					"name": "Concoction of Noxious Fumes"
 				}
-			},{
-				"level_acquired": 15,
+			},
+			{
+				"level_acquired": 3,
 				"prerequisites": [],
 				"spell": {
 					"url": "https://dnd-5e-api.herokuapp.com/api/spells/322",
-					"name": "Bear's Protection"
+					"name": "Concoction of Fire II"
+				}
+			},
+			{
+				"level_acquired": 3,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/323",
+					"name": "Concoction of Acid II"
+				}
+			},
+			{
+				"level_acquired": 6,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/324",
+					"name": "Concoction of Fire III"
+				}
+			},
+			{
+				"level_acquired": 6,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/325",
+					"name": "Concoction of Acid III"
+				}
+			},
+			{
+				"level_acquired": 6,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/326",
+					"name": "Concoction of Healing II"
+				}
+			},
+			{
+				"level_acquired": 9,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/327",
+					"name": "Concoction of Smoke"
+				}
+			},
+			{
+				"level_acquired": 9,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/328",
+					"name": "Concoction of Stunning Powder"
+				}
+			},
+			{
+				"level_acquired": 9,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/329",
+					"name": "Concoction of Fire IV"
+				}
+			},
+			{
+				"level_acquired": 9,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/330",
+					"name": "Concoction of Acid IV"
+				}
+			},
+			{
+				"level_acquired": 9,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/331",
+					"name": "Concoction of Healing III"
+				}
+			},
+			{
+				"level_acquired": 14,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/332",
+					"name": "Concoction of Speed"
+				}
+			},{
+				"level_acquired": 14,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/333",
+					"name": "Concoction of Entanglement"
+				}
+			},
+			{
+				"level_acquired": 14,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/334",
+					"name": "Concoction of Fire V"
+				}
+			},
+			{
+				"level_acquired": 14,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/335",
+					"name": "Concoction of Acid V"
+				}
+			},
+			{
+				"level_acquired": 14,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/336",
+					"name": "Concoction of Healing IV"
+				}
+			},
+			{
+				"level_acquired": 17,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/337",
+					"name": "Concoction of Thunder"
+				}
+			},
+			{
+				"level_acquired": 17,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/338",
+					"name": "Concoction of Fire VI"
+				}
+			},
+			{
+				"level_acquired": 17,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/339",
+					"name": "Concoction of Acid VI"
+				}
+			},
+			{
+				"level_acquired": 17,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/340",
+					"name": "Concoction of Healing V"
 				}
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/14"
+		"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/15"
+	},
+	{
+		"index": 16,
+		"class": {
+			"url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+			"name": "Artificer"
+		},
+		"name": "Gunsmith",
+		"subclass_flavor": "",
+		"desc": [
+			"You are a master of engineering and forge a firearm that is equal parts science and magic."
+		],
+		"features": [],
+		"spells": [
+			{
+				"level_acquired": 9,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/341",
+					"name": "Force Blast I"
+				}
+			},
+			{
+				"level_acquired": 14,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/342",
+					"name": "Piercing Round I"
+				}
+			},
+			{
+				"level_acquired": 14,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/343",
+					"name": "Force Blast II"
+				}
+			},
+			{
+				"level_acquired": 17,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/344",
+					"name": "Explosive Round"
+				}
+			},
+			{
+				"level_acquired": 17,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/345",
+					"name": "Force Blast III"
+				}
+			},
+			{
+				"level_acquired": 17,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/346",
+					"name": "Piercing Round II"
+				}
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/16"
+	},
+	{
+		"index": 17,
+		"class": {
+			"url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+			"name": "Artificer"
+		},
+		"name": "Mechanist",
+		"subclass_flavor": "",
+		"desc": [
+			"Your expertise with magical tinkering allows you to create an automaton to serve you."
+		],
+		"features": [],
+		"spells": [
+			{
+				"level_acquired": 3,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/347",
+					"name": "Arcane Link"
+				}
+			},
+			{
+				"level_acquired": 3,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/348",
+					"name": "Reserve Power"
+				}
+			},
+			{
+				"level_acquired": 9,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/349",
+					"name": "Cloaking Shield"
+				}
+			},
+			{
+				"level_acquired": 9,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/350",
+					"name": "Overheat"
+				}
+			},
+			{
+				"level_acquired": 9,
+				"prerequisites": [],
+				"spell": {
+					"url": "https://dnd-5e-api.herokuapp.com/api/spells/351",
+					"name": "Overload"
+				}
+			}
+		],
+		"url": "https://dnd-5e-api.herokuapp.com/api/subclasses/17"
 	}
 ]

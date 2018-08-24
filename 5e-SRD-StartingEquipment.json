@@ -890,5 +890,47 @@
 		]
 	}],
 	"url": "https://dnd-5e-api.herokuapp.com/api/startingequipment/13"
-}
+}, {
+	"index": 14,
+	"class": {
+		"url": "https://dnd-5e-api.herokuapp.com/api/classes/14",
+		"name": "Artificer"
+	},
+	"starting_equipment": [
+		{
+			"item": { "url": "https://dnd-5e-api.herokuapp.com/api/equipment/40", "name": "Studded Leather"}, 
+			"quantity": 1
+		},
+		{
+			"item": { "url": "https://dnd-5e-api.herokuapp.com/api/equipment/65", "name": "Backpack"}, 
+			"quantity": 1
+		},
+		{
+			"item": { "url": "https://dnd-5e-api.herokuapp.com/api/equipment/69", "name": "Bedroll"}, 
+			"quantity": 1
+		},
+		{
+			"item": { "url": "https://dnd-5e-api.herokuapp.com/api/equipment/149", "name": "Tinderbox"}, 
+			"quantity": 1
+		},
+		{
+			"item": { "url": "https://dnd-5e-api.herokuapp.com/api/equipment/150", "name": "Torch"}, 
+			"quantity": 10
+		},
+		{
+			"item": { "url": "https://dnd-5e-api.herokuapp.com/api/equipment/136", "name": "Rope"}, 
+			"quantity": 1
+		}
+	],
+	"choices_to_make": 1,
+	"choice_1": [{
+		"choose": 1,
+		"type": "equipment",
+		"from": [{
+			"item": { "url": "https://dnd-5e-api.herokuapp.com/api/equipment/4", "name": "Handaxe"}, "quantity": 1},{
+			"item": { "url": "https://dnd-5e-api.herokuapp.com/api/equipment/11", "name": "Crossbow, light"}, "quantity": 1}
+		]
+	}],
+	"url": "https://dnd-5e-api.herokuapp.com/api/startingequipment/14"
+	}
 ]
