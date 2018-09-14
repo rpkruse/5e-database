@@ -4851,7 +4851,9 @@
 		"index": 257,
 		"name": "Ring of Animal Influence",
 		"equipment_category": "Rings",
-		"desc": "This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells",
+		"desc": [
+			"This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells"
+		],
 		"charge_spells": [
 			{
 				"name": "Animal Friendship",
@@ -4879,7 +4881,11 @@
 			"quantity": 55000,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of you. It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane. While summoned, the djinni is friendly to you and your companions. It obeys any commands you give it, no matter what language you use. If you fail to command it, the djinni defends itself against attackers but takes no other actions. After the djinni departs, it can’t be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.",
+		"desc": [
+			"While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of you.", 
+			"It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane. While summoned, the djinni is friendly to you and your companions. It obeys any commands you give it, no matter what language you use. If you fail to command it, the djinni defends itself against attackers but takes no other actions.", 
+			"After the djinni departs, it can’t be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies."
+		],
 		"rank": "Legendary",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/258"
 	},
@@ -4891,7 +4897,9 @@
 			"quantity": 25000,
 			"unit": "gp"
 		},
-		"desc": "This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.",
+		"desc": [
+			"This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead."
+		],
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/259"
 	},
@@ -4903,7 +4911,9 @@
 			"quantity": 2200,
 			"unit": "gp"
 		},
-		"desc": "When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.",
+		"desc": [
+			"When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling."
+		],
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/260"
 	},
@@ -4915,7 +4925,9 @@
 			"quantity": 2500,
 			"unit": "gp"
 		},
-		"desc": "While you wear this ring, difficult terrain doesn’t cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.",
+		"desc": [
+			"While you wear this ring, difficult terrain doesn’t cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained."
+		],
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/261"
 	},
@@ -4927,7 +4939,9 @@
 			"quantity": 20000,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.",
+		"desc": [
+			"While wearing this ring, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again."
+		],
 		"rank": "Legendary",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/262"
 	},
@@ -4939,7 +4953,9 @@
 			"quantity": 450,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so.",
+		"desc": [
+			"While wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so."
+		],
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/263"
 	},
@@ -4951,7 +4967,9 @@
 			"quantity": 550,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it. You can use an action to cause the ring to become invisible until you use another action to make it visible, until you remove the ring, or until you die. If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can’t prevent this telepathic communication.",
+		"desc": [
+			"While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it. You can use an action to cause the ring to become invisible until you use another action to make it visible, until you remove the ring, or until you die. If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can’t prevent this telepathic communication."
+		],
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/264"
 	},
@@ -4963,7 +4981,9 @@
 			"quantity": 2000,
 			"unit": "gp"
 		},
-		"desc": "You gain a +1 bonus to AC and saving throws while wearing this ring.",
+		"desc": [
+			"You gain a +1 bonus to AC and saving throws while wearing this ring."
+		],
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/265"
 	},
@@ -4975,7 +4995,9 @@
 			"quantity": 45000,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time.",
+		"desc": [
+			"While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time."
+		],
 		"rank": "Very Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/266"
 	},
@@ -4987,7 +5009,9 @@
 			"quantity": 50000,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring in dim light or darkness, you can cast dancing lights and light from the ring at will. Casting either spell from the ring requires an action. The ring has 6 charges for the following other properties. The ring regains 1d6 expended charges daily at dawn.",
+		"desc": [
+			"While wearing this ring in dim light or darkness, you can cast dancing lights and light from the ring at will. Casting either spell from the ring requires an action. The ring has 6 charges for the following other properties. The ring regains 1d6 expended charges daily at dawn."
+		],
 		"charge_spells": [
 			{
 				"name": "Faerie Fire",
@@ -5013,7 +5037,10 @@
 			"quantity": 18000,
 			"unit": "gp"
 		},
-		"desc": "This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 ? 1 levels of stored spells chosen by the GM. Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can’t hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses. While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.",
+		"desc": [
+			"This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 1st levels of stored spells chosen by the GM.",
+			"Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can’t hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses. While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space."
+		],
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/268"
 	},
@@ -5025,7 +5052,9 @@
 			"quantity": 98280,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster.",
+		"desc": [
+			"While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster."
+		],
 		"rank": "Legendary",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/269"
 	},
@@ -5037,7 +5066,9 @@
 			"quantity": 350,
 			"unit": "gp"
 		},
-		"desc": "You have a swimming speed of 40 feet while wearing this ring.",
+		"desc": [
+			"You have a swimming speed of 40 feet while wearing this ring."
+		],
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/270"
 	},
@@ -5049,7 +5080,9 @@
 			"quantity": 75000,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren’t being worn or carried.",
+		"desc": [
+			"While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren’t being worn or carried."
+		],
 		"rank": "Very Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/271"
 	},
@@ -5061,7 +5094,10 @@
 			"quantity": 8600,
 			"unit": "gp"
 		},
-		"desc": "This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a spectral ram’s head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you. Alternatively, you can expend 1 to 3 of the ring’s charges as an action to try to break an object you can see within 60 feet of you that isn’t being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.",
+		"desc": [
+			"This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells",
+			"The ring produces a spectral ram’s head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you. Alternatively, you can expend 1 to 3 of the ring’s charges as an action to try to break an object you can see within 60 feet of you that isn’t being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend."
+		],
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/272"
 	},
@@ -5073,7 +5109,9 @@
 			"quantity": 97950,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the wish spell from it. The ring becomes nonmagical when you use the last charge.",
+		"desc": [
+			"While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the wish spell from it. The ring becomes nonmagical when you use the last charge."
+		],
 		"charge_spells": [
 			{
 				"name": "Wish",
@@ -5091,7 +5129,9 @@
 			"quantity": 350,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as ?50 degrees Fahrenheit.",
+		"desc": [
+			"While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as ?50 degrees Fahrenheit."
+		],
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/274"
 	},
@@ -5103,7 +5143,9 @@
 			"quantity": 375,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.",
+		"desc": [
+			"While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground."
+		],
 		"rank": "Uncommon",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/275"
 	},
@@ -5115,7 +5157,9 @@
 			"quantity": 3500,
 			"unit": "gp"
 		},
-		"desc": "While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don’t prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead. Whenever you use the ring again before taking a long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion.",
+		"desc": [
+			"While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don’t prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead. Whenever you use the ring again before taking a long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion."
+		],
 		"rank": "Rare",
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/276"
 	},
@@ -6787,5 +6831,1613 @@
 		},
 		"bonus": 1,
 		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/325"
+	},
+	{
+		"index": 326,
+		"name": "Amulet of Health",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher."
+		],
+		"cost": {
+			"quantity": 4500,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/326"
+	},
+	{
+		"index": 327,
+		"name": "Amulet of Proof against Detection and Location",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors."
+		],
+		"cost": {
+			"quantity": 375,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/327"
+	},
+	{
+		"index": 328,
+		"name": "Amulet of the Planes",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check.",
+			"On a successful check, you cast the plane shift spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination.",
+			"Roll a d100. On a 1--60, you travel to a random location on the plane you named. On a 61--100, you travel to a randomly determined plane of existence."
+		],
+		"cost": {
+			"quantity": 25000,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/328"
+	},
+	{
+		"index": 329,
+		"name": "Amulet of the Planes",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check.",
+			"On a successful check, you cast the plane shift spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination.",
+			"Roll a d100. On a 1--60, you travel to a random location on the plane you named. On a 61--100, you travel to a randomly determined plane of existence."
+		],
+		"cost": {
+			"quantity": 120000,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/329"
+	},
+	{
+		"index": 330,
+		"name": "Bag of Beans",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"Inside this heavy cloth bag are 3d4 dry beans. The bag weighs 1/2 pound plus 1/4 pound for each bean it contains.",
+			"If you dump the bag's contents out on the ground, they explode in a 10-foot radius, extending from the beans. Each creature in the area, including you, must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried.",
+			"If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table, determine it randomly, or create an effect.",
+			"01 - 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 poison damage and become :ref:`srd:poisoned` for 1 hour. On an even roll, the eater gains 5d6 temporary hit points for 1 hour.",
+			"02-10 - A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d12 rounds.",
+			"11-20 - A treant sprouts. There's a 50 percent chance that the treant is chaotic evil and attacks.",
+			"21-30 - An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours.",
+			"31-40 - A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).",
+			"41-50 - 1d6 + 6 shriekers sprout",
+			"51-60 - 1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.",
+			"61-70 - A hungry bulette burrows up and attacks.",
+			"71-80 - A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.",
+			"81-90 - A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal magical explosion.",
+			"91-99 - A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord's lair, and its sarcophagus contains treasure of the GM's choice.",
+			"00 - A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or a different plane of existence."
+		],
+		"cost": {
+			"quantity": 3500,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/330"
+	},
+	{
+		"index": 331,
+		"name": "Bag of Devouring",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This bag superficially resembles a Bag of Holding, but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out close the orifice.",
+			"The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag.",
+			"A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn't pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.",
+			"Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The GM determines the time and plane.",
+			"If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane."
+		],
+		"cost": {
+			"quantity": 29000,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/331"
+	},
+	{
+		"index": 332,
+		"name": "Bag of Holding",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.",
+			"If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate."
+		],
+		"cost": {
+			"quantity": 400,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/332"
+	},
+	{
+		"index": 333,
+		"name": "Bag of Tricks",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.",
+			"You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag's color. The creature vanishes at the next dawn or when it is reduced to 0 hit points.",
+			"The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.",
+			"Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.",
+			"Gray Bag of Tricks",
+			"1 - Weasel",
+			"2 - Giant rat",
+			"3 - Badger",
+			"4 - Boar",
+			"5 - Panther",
+			"6 - Giant badger",
+			"7 - Dire wolf",
+			"8 - Giant elk",
+			"Rust Bag of Tricks",
+			"1 - Rat",
+			"2 - Owl",
+			"3 - Mastiff",
+			"4 - Goat",
+			"5 - Giant Goat",
+			"6 - Giant Boar",
+			"7 - Lion",
+			"8 - Brown bear",
+			"Tan Bag of Tricks",
+			"1 - Jackal",
+			"2 - Ape",
+			"3 - Baboon",
+			"4 - Axe beak",
+			"5 - Black bear",
+			"6 - Giant weasel",
+			"7 - Giant hyena",
+			"8 - Tiger"
+		],
+		"cost": {
+			"quantity": 200,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/333"
+	},
+	{
+		"index": 334,
+		"name": "Bag of Holding",
+		"equipment_category": "Magical Items",
+		"armor_category": "Bag",
+		"worn": false,
+		"desc": [
+			"This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.",
+			"If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate."
+		],
+		"cost": {
+			"quantity": 400,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/334"
+	},
+	{
+		"index": 335,
+		"name": "Bead of Force",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 beads of force are found together.",
+			"You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.",
+			"An enclosed creature can use its action to push against the sphere's wall, moving the sphere up to half the creature's walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside."
+		],
+		"cost": {
+			"quantity": 3300,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/335"
+	},
+	{
+		"index": 336,
+		"name": "Belt of Dwarvenkind",
+		"equipment_category": "Magical Items",
+		"armor_category": "Belt",
+		"worn": true,
+		"desc": [
+			"While wearing this belt, you gain the following benefits:",
+			"Your Constitution score increases by 2, to a maximum of 20.",
+			"You have advantage on Charisma (Persuasion) checks made to interact with dwarves."
+		],
+		"cost": {
+			"quantity": 4500,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/336"
+	},
+	{
+		"index": 337,
+		"name": "Belt of Giant Strength",
+		"equipment_category": "Magical Items",
+		"armor_category": "Belt",
+		"worn": true,
+		"desc": [
+			"While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.",
+			"Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect.",
+			"Hill giant - 21 strength, Rare",
+			"Stone/frost giant - 23 strength, Very Rare",
+			"Fire giant - 25 strength, Very Rare",
+			"Cloud giant - 27 strength, Legendary",
+			"Storm giant - 29 strength, Legendary"
+		],
+		"cost": {
+			"quantity": 4500,
+			"unit": "gp"
+		},
+		"rank": "rarity varies",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/337"
+	},
+	{
+		"index": 338,
+		"name": "Boots of Elvenkind",
+		"equipment_category": "Magical Items",
+		"armor_category": "Boot",
+		"worn": true,
+		"desc": [
+			"While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently."
+		],
+		"cost": {
+			"quantity": 200,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/338"
+	},
+	{
+		"index": 339,
+		"name": "Boots of Levitation",
+		"equipment_category": "Magical Items",
+		"armor_category": "Boot",
+		"worn": true,
+		"desc": [
+			"While you wear these boots, you can use an action to cast the Levitate spell on yourself at will."
+		],
+		"cost": {
+			"quantity": 750,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/339"
+	},
+	{
+		"index": 340,
+		"name": "Boots of Speed",
+		"equipment_category": "Magical Items",
+		"armor_category": "Boot",
+		"worn": true,
+		"desc": [
+			"While you wear these boots, you can use a bonus action and click the boots heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.",
+			"When the boots property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest."
+		],
+		"cost": {
+			"quantity": 850,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/340"
+	},
+	{
+		"index": 341,
+		"name": "Boots of Striding and Springing",
+		"equipment_category": "Magical Items",
+		"armor_category": "Boot",
+		"worn": true,
+		"desc": [
+			"While you wear these boots, your walking speed becomes 30 feet, unless your walking speed is higher, and your speed isn't reduced if you are encumbered or wearing heavy armor. In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow."
+		],
+		"cost": {
+			"quantity": 360,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/341"
+	},
+	{
+		"index": 342,
+		"name": "Boots of the Winterlands",
+		"equipment_category": "Magical Items",
+		"armor_category": "Boot",
+		"worn": true,
+		"desc": [
+			"These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:",
+			"You have resistance to cold damage.",
+			"You ignore difficult terrain created by ice or snow.",
+			"You can tolerate temperatures as low as âˆ’50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as âˆ’100 degrees Fahrenheit."
+		],
+		"cost": {
+			"quantity": 250,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/342"
+	},
+	{
+		"index": 343,
+		"name": "Cape of the Mountebank",
+		"equipment_category": "Magical Items",
+		"armor_category": "Cloak",
+		"worn": true,
+		"desc": [
+			"This cape smells faintly of brimstone. While wearing it, you can use it to cast the Dimension Door spell as an action. This property of the cape can't be used again until the next dawn.",
+			"When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke."
+		],
+		"cost": {
+			"quantity": 2500,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/343"
+	},
+	{
+		"index": 344,
+		"name": "Cloak of Arachnida",
+		"equipment_category": "Magical Items",
+		"armor_category": "Cloak",
+		"worn": true,
+		"desc": [
+			"This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:",
+			"You have resistance to poison damage.",
+			"You have a climbing speed equal to your walking speed.",
+			"You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.",
+			"You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.",
+			"You can use an action to cast the :ref:`srd:web` spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn."
+		],
+		"cost": {
+			"quantity": 36000,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/344"
+	},
+	{
+		"index": 345,
+		"name": "Cloak of Displacement",
+		"equipment_category": "Magical Items",
+		"armor_category": "Cloak",
+		"worn": true,
+		"desc": [
+			"While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move."
+		],
+		"cost": {
+			"quantity": 2100,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/345"
+	},
+	{
+		"index": 346,
+		"name": "Cloak of Elvenkind",
+		"equipment_category": "Magical Items",
+		"armor_category": "Cloak",
+		"worn": true,
+		"desc": [
+			"While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action."
+		],
+		"cost": {
+			"quantity": 380,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/346"
+	},
+	{
+		"index": 347,
+		"name": "Cloak of Protection",
+		"equipment_category": "Magical Items",
+		"armor_category": "Cloak",
+		"worn": true,
+		"desc": [
+			"You gain a +1 bonus to AC and saving throws while you wear this cloak."
+		],
+		"cost": {
+			"quantity": 380,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/347"
+	},
+	{
+		"index": 348,
+		"name": "Cloak of the Bat",
+		"equipment_category": "Magical Items",
+		"armor_category": "Cloak",
+		"worn": true,
+		"desc": [
+			"While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.",
+			"While wearing the cloak in an area of dim light or darkness, you can use your action to cast polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn."
+		],
+		"cost": {
+			"quantity": 2600,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/348"
+	},
+	{
+		"index": 349,
+		"name": "Cloak of the Manta Ray",
+		"equipment_category": "Magical Items",
+		"armor_category": "Cloak",
+		"worn": true,
+		"desc": [
+			"While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action."
+		],
+		"cost": {
+			"quantity": 400,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/349"
+	},
+	{
+		"index": 350,
+		"name": "Crystal Ball",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the scrying spell (save DC 17) with it. The following crystal ball variants are legendary items and have additional properties.",
+			"Crystal Ball of Mind Reading.",
+			"You can use an action to cast the detect-thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this detect thoughts to maintain it during its duration, but it ends if scrying ends.",
+			"Crystal Ball of Telepathy.",
+			"While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also use an action to cast the suggestion` spell (save DC 17) through the sensor on one of those creatures. You don't need to concentrate on this suggestion to maintain it during its duration, but it ends if scrying ends. Once used, the suggestion power of the crystal ball can't be used again until the next dawn.",
+			"Crystal Ball of true Seeing.",
+			"While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell's sensor."
+		],
+		"cost": {
+			"quantity": 113000,
+			"unit": "gp"
+		},
+		"rank": "Legendary",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/350"
+	},
+	{
+		"index": 351,
+		"name": "Cubic Gate",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.",
+			"You can use an action to press one side of the cube to cast the gate spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the plane-shift spell (save DC 17) with the cube and transport the targets to the plane keyed to that side.",
+			"The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1d3 expended charges daily at dawn."
+		],
+		"cost": {
+			"quantity": 98000,
+			"unit": "gp"
+		},
+		"rank": "Legendary",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/351"
+	},
+	{
+		"index": 352,
+		"name": "Eversmoking Bottle",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 60-foot radius from the bottle. The cloud's area is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 10 feet until it reaches its maximum radius of 120 feet.",
+			"The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round."
+		],
+		"cost": {
+			"quantity": 300,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/352"
+	},
+	{
+		"index": 353,
+		"name": "Eyes of Charming",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 charge as an action to cast the charm person spell (save DC 13) on a humanoid within 30 feet of you, provided that you and the target can see each other. The lenses regain all expended charges daily at dawn."
+		],
+		"cost": {
+			"quantity": 300,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/353"
+	},
+	{
+		"index": 354,
+		"name": "Eyes of Minute Seeing",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range."
+		],
+		"cost": {
+			"quantity": 400,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/354"
+	},
+	{
+		"index": 355,
+		"name": "Eyes of the Eagle",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"These crystal lenses fit over the eyes. While wearing them, you have advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across."
+		],
+		"cost": {
+			"quantity": 400,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/355"
+	},
+	{
+		"index": 356,
+		"name": "Folding Boat",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.",
+			"One command word causes the box to unfold into a boat 10 feet long, 4 feet wide, and 2 feet deep. The boat has one pair of oars, an anchor, a mast, and a lateen sail. The boat can hold up to four Medium creatures comfortably.",
+			"The second command word causes the box to unfold into a ship 24 feet long, 8 feet wide, and 6 feet deep. The ship has a deck, rowing seats, five sets of oars, a steering oar, an anchor, a deck cabin, and a mast with a square sail. The ship can hold fifteen Medium creatures comfortably.",
+			"When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.",
+			"The third command word causes the folding boat to fold back into a box, provided that no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so."
+		],
+		"cost": {
+			"quantity": 2000,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/356"
+	},
+	{
+		"index": 357,
+		"name": "Gauntlets of Ogre Power",
+		"equipment_category": "Magical Items",
+		"armor_category": "Gloves",
+		"worn": true,
+		"desc": [
+			"Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher."
+		],
+		"cost": {
+			"quantity": 280,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/357"
+	},
+	{
+		"index": 358,
+		"name": "Gloves of Missile Snaring",
+		"equipment_category": "Magical Items",
+		"armor_category": "Gloves",
+		"worn": true,
+		"desc": [
+			"These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand."
+		],
+		"cost": {
+			"quantity": 280,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/358"
+	},
+	{
+		"index": 359,
+		"name": "Gloves of Swimming and Climbing",
+		"equipment_category": "Magical Items",
+		"armor_category": "Gloves",
+		"worn": true,
+		"desc": [
+			"While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim."
+		],
+		"cost": {
+			"quantity": 350,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/359"
+	},
+	{
+		"index": 360,
+		"name": "Hat of Disguise",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"While wearing this hat, you can use an action to cast the disguise self spell from it at will. The spell ends if the hat is removed."
+		],
+		"cost": {
+			"quantity": 465,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/360"
+	},
+	{
+		"index": 361,
+		"name": "Headband of Intellect",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher."
+		],
+		"cost": {
+			"quantity": 340,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/361"
+	},
+	{
+		"index": 362,
+		"name": "Helm of Brilliance",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"This dazzling helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.",
+			"You gain the following benefits while wearing it:",
+			"You can use an action to cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component daylight (opal), fireball (fire opal), prismatic spray (diamond), or wall of fire (ruby). The gem is destroyed when the spell is cast and disappears from the helm.",
+			"As long as it has at least one diamond, the helm emits dim light in a 30-foot radius when at least one undead is within that area. Any undead that starts its turn in that area takes 1d6 radiant damage.",
+			"As long as the helm has at least one ruby, you have resistance to fire damage.",
+			"As long as the helm has at least one fire opal, you can use an action and speak a command word to cause one weapon you are holding to burst into flames. The flames emit bright light in a 10-foot radius and dim light for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra 1d6 fire damage. The flames last until you use a bonus action to speak the command word again or until you drop or stow the weapon.",
+			"Roll a d20 if you are wearing the helm and take fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems. Each creature within 60 feet of the helm other than you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking radiant damage equal to the number of gems in the helm. The helm and its gems are then destroyed."
+		],
+		"cost": {
+			"quantity": 40900,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/362"
+	},
+	{
+		"index": 363,
+		"name": "Helm of Comprehending Languages",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"While wearing this helm, you can use an action to cast the comprehend-languages spell from it at will."
+		],
+		"cost": {
+			"quantity": 70,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/363"
+	},
+	{
+		"index": 364,
+		"name": "Helm of Telepathy",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"While wearing this helm, you can use an action to cast the detect-thoughts spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply---using a bonus action to do so---while your focus on it continues.",
+			"While focusing on a creature with detect thoughts, you can use an action to cast the suggestion spell (save DC 13) from the helm on that creature. Once used, the suggestion property can't be used again until the next dawn."
+		],
+		"cost": {
+			"quantity": 90,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/364"
+	},
+	{
+		"index": 365,
+		"name": "Helm of Teleportation",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the teleport spell from it. The helm regains 1d3 expended charges daily at dawn."
+		],
+		"cost": {
+			"quantity": 2100,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/365"
+	},
+	{
+		"index": 366,
+		"name": "Helm of Teleportation",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"You can use an action to speak the horn's command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each creature in the cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes 5d6 thunder damage and is deafened for 1 minute. On a successful save, a creature takes half as much damage and isn't deafened. Creatures and objects made of glass or crystal have disadvantage on the saving throw and take 10d6 thunder damage instead of 5d6.",
+			"Each use of the horn's magic has a 20 percent chance of causing the horn to explode. The explosion deals 10d6 fire damage to the blower and destroys the horn."
+		],
+		"cost": {
+			"quantity": 2100,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/366"
+	},
+	{
+		"index": 367,
+		"name": "Immovable Rod",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success."
+		],
+		"cost": {
+			"quantity": 175,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/367"
+	},
+	{
+		"index": 368,
+		"name": "Ioun Stone (Absorption)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.",
+			"Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it."
+		],
+		"cost": {
+			"quantity": 42100,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/368"
+	},
+	{
+		"index": 369,
+		"name": "Ioun Stone (Agility)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"Your Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head."
+		],
+		"cost": {
+			"quantity": 13300,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/369"
+	},
+	{
+		"index": 370,
+		"name": "Ioun Stone (Awareness)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"You can't be surprised while this dark blue rhomboid orbits your head."
+		],
+		"cost": {
+			"quantity": 2400,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/370"
+	},
+	{
+		"index": 371,
+		"name": "Ioun Stone (Fortitude)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head."
+		],
+		"cost": {
+			"quantity": 29500,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/371"
+	},
+	{
+		"index": 372,
+		"name": "Ioun Stone (Greater Absorption)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"While this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th level or lower cast by a creature you can see and targeting only you.",
+			"Once the stone has canceled 50 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it."
+		],
+		"cost": {
+			"quantity": 102700,
+			"unit": "gp"
+		},
+		"rank": "Lengendary",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/372"
+	},
+	{
+		"index": 373,
+		"name": "Ioun Stone (Insight)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"Your Wisdom score increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head."
+		],
+		"cost": {
+			"quantity": 12700,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/373"
+	},
+	{
+		"index": 374,
+		"name": "Ioun Stone (Intellect)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"Your Intelligence score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head."
+		],
+		"cost": {
+			"quantity": 39000,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/374"
+	},
+	{
+		"index": 375,
+		"name": "Ioun Stone (Leadership)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"Your Charisma score increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head."
+		],
+		"cost": {
+			"quantity": 17500,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/375"
+	},
+	{
+		"index": 376,
+		"name": "Ioun Stone (Mastery)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"Your proficiency bonus increases by 1 while this pale green prism orbits your head."
+		],
+		"cost": {
+			"quantity": 74100,
+			"unit": "gp"
+		},
+		"rank": "Legendary",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/376"
+	},
+	{
+		"index": 377,
+		"name": "Ioun Stone (Protection)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"You gain a +1 bonus to AC while this dusty rose prism orbits your head."
+		],
+		"cost": {
+			"quantity": 1900,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/377"
+	},
+	{
+		"index": 378,
+		"name": "Ioun Stone (Regeneration)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"You regain 15 hit points at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 hit point."
+		],
+		"cost": {
+			"quantity": 125000,
+			"unit": "gp"
+		},
+		"rank": "Legendary",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/378"
+	},
+	{
+		"index": 379,
+		"name": "Ioun Stone (Reserve)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 levels worth of spells at a time. When found, it contains 1d4 âˆ’ 1 levels of stored spells chosen by the GM.",
+			"Any creature can cast a spell of 1st through 3rd level into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.",
+			"While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space."
+		],
+		"cost": {
+			"quantity": 2085,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/379"
+	},
+	{
+		"index": 380,
+		"name": "Ioun Stone (Strength)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"Your Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head."
+		],
+		"cost": {
+			"quantity": 30500,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/380"
+	},
+	{
+		"index": 381,
+		"name": "Ioun Stone (Sustenance)",
+		"equipment_category": "Magical Items",
+		"armor_category": "Helm",
+		"worn": true,
+		"desc": [
+			"You don't need to eat or drink while this clear spindle orbits your head."
+		],
+		"cost": {
+			"quantity": 630,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/381"
+	},
+	{
+		"index": 382,
+		"name": "Iron Bands of Binding",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, it opens into a tangle of metal bands.",
+			"Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the target is restrained until you take a bonus action to speak the command word again to release it. Doing so, or missing with the attack, causes the bands to contract and become a sphere once more.",
+			"A creature, including the one restrained, can use an action to make a DC 20 Strength check to break the iron bands. On a success, the item is destroyed, and the restrained creature is freed. If the check fails, any further attempts made by that creature automatically fail until 24 hours have elapsed.",
+			"Once the bands are used, they can't be used again until the next dawn."
+		],
+		"cost": {
+			"quantity": 2950,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/382"
+	},
+	{
+		"index": 383,
+		"name": "Lantern of Revealing",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius."
+		],
+		"cost": {
+			"quantity": 135,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/383"
+	},
+	{
+		"index": 384,
+		"name": "Mantle of Spell Resistance",
+		"equipment_category": "Magical Items",
+		"armor_category": "Cloak",
+		"worn": true,
+		"desc": [
+			"You have advantage on saving throws against spells while you wear this cloak."
+		],
+		"cost": {
+			"quantity": 2900,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/384"
+	},
+	{
+		"index": 385,
+		"name": "Mantle of Bodily Health",
+		"equipment_category": "Magical Items",
+		"armor_category": "Cloak",
+		"worn": true,
+		"desc": [
+			"This book contains health and diet tips, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Constitution score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century."
+		],
+		"cost": {
+			"quantity": 23550,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/385"
+	},
+	{
+		"index": 386,
+		"name": "Manual of Gainful Exercise",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Strength score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century."
+		],
+		"cost": {
+			"quantity": 23550,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/386"
+	},
+	{
+		"index": 387,
+		"name": "Manual of Quickness of Action",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This book contains coordination and balance exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Dexterity score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century."
+		],
+		"cost": {
+			"quantity": 20500,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/387"
+	},
+	{
+		"index": 388,
+		"name": "Madallion of Thoughts",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the detect-thoughts spell (save DC 13) from it. The medallion regains 1d3 expended charges daily at dawn."
+		],
+		"cost": {
+			"quantity": 450,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/388"
+	},
+	{
+		"index": 389,
+		"name": "Madallion of Thoughts",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.",
+			"If the mirror is hanging on a vertical surface and you are within 5 feet of it, you can use an action to speak its command word and activate it. It remains activated until you use an action to speak the command word again.",
+			"Any creature other than you that sees its reflection in the activated mirror while within 30 feet of it must succeed on a DC 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror's twelve extradimensional cells. This saving throw is made with advantage if the creature knows the mirror's nature, and constructs succeed on the saving throw automatically.",
+			"An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed.",
+			"If the mirror traps a creature but its twelve extradimensional cells are already occupied, the mirror frees one trapped creature at random to accommodate the new prisoner. A freed creature appears in an unoccupied space within sight of the mirror but facing away from it. If the mirror is shattered, all creatures it contains are freed and appear in unoccupied spaces near it.",
+			"While within 5 feet of the mirror, you can use an action to speak the name of one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror's surface. You and the creature can then communicate normally.",
+			"In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it."
+		],
+		"cost": {
+			"quantity": 42200,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/389"
+	},
+	{
+		"index": 390,
+		"name": "Mirror of Life Trapping",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.",
+			"If the mirror is hanging on a vertical surface and you are within 5 feet of it, you can use an action to speak its command word and activate it. It remains activated until you use an action to speak the command word again.",
+			"Any creature other than you that sees its reflection in the activated mirror while within 30 feet of it must succeed on a DC 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror's twelve extradimensional cells. This saving throw is made with advantage if the creature knows the mirror's nature, and constructs succeed on the saving throw automatically.",
+			"An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed.",
+			"If the mirror traps a creature but its twelve extradimensional cells are already occupied, the mirror frees one trapped creature at random to accommodate the new prisoner. A freed creature appears in an unoccupied space within sight of the mirror but facing away from it. If the mirror is shattered, all creatures it contains are freed and appear in unoccupied spaces near it.",
+			"While within 5 feet of the mirror, you can use an action to speak the name of one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror's surface. You and the creature can then communicate normally.",
+			"In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it."
+		],
+		"cost": {
+			"quantity": 27000,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/390"
+	},
+	{
+		"index": 391,
+		"name": "Necklace of Adaptation",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as Cloudkill and Stinking Cloud effects, inhaled poisons, and the breath weapons of some dragons)."
+		],
+		"cost": {
+			"quantity": 150,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/391"
+	},
+	{
+		"index": 392,
+		"name": "Necklace of Fireballs",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"This necklace has 1d6 + 3 beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level Fireball spell (save DC 15).",
+			"You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the Fireball by 1 for each bead beyond the first."
+		],
+		"cost": {
+			"quantity": 3100,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/392"
+	},
+	{
+		"index": 393,
+		"name": "Necklace of Prayer Beads",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"This necklace has 1d4 + 2 magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.",
+			"Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.",
+			"(1-6) - Bead of Blessing: Bless",
+			"(7-12) - Bead of Curing: Cure wounds (2nd level) or Lesser Restoration",
+			"(13-16) - Bead of Favor: Greater Restoration",
+			"(17-18) - Bead of Smiting: Branding Smite",
+			"(19) - Bead of Summons: Planar Ally",
+			"(20) - Bead of Wind Walking: Wind Walk"
+		],
+		"cost": {
+			"quantity": 4700,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/393"
+	},
+	{
+		"index": 394,
+		"name": "Pearl of Power",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can't be used again until the next dawn."
+		],
+		"cost": {
+			"quantity": 230,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/394"
+	},
+	{
+		"index": 395,
+		"name": "Periapt of Health",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed you while you wear the pendant."
+		],
+		"cost": {
+			"quantity": 420,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/395"
+	},
+	{
+		"index": 396,
+		"name": "Periapt of Proof against Poison",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the Poisoned condition and have immunity to poison damage."
+		],
+		"cost": {
+			"quantity": 1200,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/396"
+	},
+	{
+		"index": 397,
+		"name": "Periapt of Wound Closure",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores."
+		],
+		"cost": {
+			"quantity": 130,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/397"
+	},
+	{
+		"index": 398,
+		"name": "Portable Hole",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.",
+			"You can use an action to unfold a portable hole and place it on or against a solid surface, whereupon the portable hole creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane, so it can't be used to create open passages. Any creature inside an open portable hole can exit the hole by climbing out of it.",
+			"You can use an action to close a portable hole by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.",
+			"If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the portable hole or the creature carrying it. A breathing creature within a closed portable hole can survive for up to 10 minutes, after which time it begins to suffocate.",
+			"Placing a portable hole inside an extradimensional space created by a Bag of Holding, Handy Haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened."
+		],
+		"cost": {
+			"quantity": 4900,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/398"
+	},
+	{
+		"index": 399,
+		"name": "Rod of Alertness",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This rod has a flanged head and the following properties.",
+			"Alertness. While holding the rod, you have advantage on Wisdom (Perception) checks and on rolls for initiative.",
+			"Spells. While holding the rod, you can use an action to cast one of the following spells from it: Detect Evil and Good, Detect Magic, Detect Poison and Disease, or See Invisibility.",
+			"Protective Aura. As an action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds bright light in a 60-foot radius and dim light for an additional 60 feet. While in that bright light, you and any creature that is friendly to you gain a +1 bonus to AC and saving throws and can sense the location of any Invisible hostile creature that is also in the bright light.",
+			"The rod's head stops glowing and the effect ends after 10 minutes, or when a creature uses an action to pull the rod from the ground. This property can't be used again until the next dawn."
+		],
+		"cost": {
+			"quantity": 35500,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/399"
+	},
+	{
+		"index": 400,
+		"name": "Rod of Rulership",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be :ref:`srd:charmed` by you for 8 hours. While charmed in this way, the creature regards you as its trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can't be used again until the next dawn."
+		],
+		"cost": {
+			"quantity": 1300,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/400"
+	},
+	{
+		"index": 401,
+		"name": "Rod of Security",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"While holding this rod, you can use an action to activate it. The rod then instantly transports you and up to 199 other willing creatures you can see to a paradise that exists in an extraplanar space. You choose the form that the paradise takes. It could be a tranquil garden, lovely glade, cheery tavern, immense palace, tropical island, fantastic carnival, or whatever else you can imagine. Regardless of its nature, the paradise contains enough water and food to sustain its visitors. Everything else that can be interacted with inside the extraplanar space can exist only there. For example, a flower picked from a garden in the paradise disappears if it is taken outside the extraplanar space.",
+			"For each hour spent in the paradise, a visitor regains hit points as if it had spent 1 Hit Die. Also, creatures don't age while in the paradise, although time passes normally. Visitors can remain in the paradise for up to 200 days divided by the number of creatures present (round down).",
+			"When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can't be used again until ten days have passed."
+		],
+		"cost": {
+			"quantity": 40700,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/401"
+	},
+	{
+		"index": 402,
+		"name": "Talisman of Pure Good",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"This talisman is a mighty symbol of goodness. A creature that is neither good nor evil in alignment takes 6d6 radiant damage upon touching the talisman. An evil creature takes 8d6 radiant damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.",
+			"If you are a good cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.",
+			"The talisman has 7 charges. If you are wearing or holding it, you can use an action to expend 1 charge from it and choose one creature you can see on the ground within 120 feet of you. If the target is of evil alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman disperses into motes of golden light and is destroyed."
+		],
+		"cost": {
+			"quantity": 245000,
+			"unit": "gp"
+		},
+		"rank": "Legendary",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/402"
+	},
+	{
+		"index": 403,
+		"name": "Talisman of the Sphere",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"When you make an Intelligence (Arcana) check to control a sphere of annihilation while you are holding this talisman, you double your proficiency bonus on the check. In addition, when you start your turn with control over a sphere of annihilation, you can use an action to levitate it 10 feet plus a number of additional feet equal to 10 Ã— your Intelligence modifier."
+		],
+		"cost": {
+			"quantity": 130000,
+			"unit": "gp"
+		},
+		"rank": "Legendary",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/403"
+	},
+	{
+		"index": 404,
+		"name": "Talisman of Ultimate Evil",
+		"equipment_category": "Magical Items",
+		"armor_category": "Neck",
+		"worn": true,
+		"desc": [
+			"This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes 6d6 necrotic damage upon touching the talisman. A good creature takes 8d6 necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.",
+			"If you are an evil cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.",
+			"The talisman has 6 charges. If you are wearing or holding it, you can use an action to expend 1 charge from the talisman and choose one creature you can see on the ground within 120 feet of you. If the target is of good alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed."
+		],
+		"cost": {
+			"quantity": 130000,
+			"unit": "gp"
+		},
+		"rank": "Legendary",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/404"
+	},
+	{
+		"index": 405,
+		"name": "Wand of Binding",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.",
+			"Spells. While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): Hold Monster (5 charges) or Hold Person (2 charges).",
+			"Assisted Escape. While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being Paralyzed or Restrained, or you can expend 1 charge and gain advantage on any check you make to escape a grapple."
+		],
+		"cost": {
+			"quantity": 2250,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/405"
+	},
+	{
+		"index": 406,
+		"name": "Wand of Enemy Detection",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges. While holding it, you can use an action and expend 1 charge to speak its command word. For the next minute, you know the direction of the nearest creature hostile to you within 60 feet, but not its distance from you. The wand can sense the presence of hostile creatures that are ethereal, Invisible, disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.",
+			"The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+		],
+		"cost": {
+			"quantity": 1900,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/406"
+	},
+	{
+		"index": 407,
+		"name": "Wand of Fear",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.",
+			"Command. While holding the wand, you can use an action to expend 1 charge and command another creature to flee or grovel, as with the Command Spell (save DC 15).",
+			"Cone of Fear. While holding the wand, you can use an action to expend 2 charges, causing the wand's tip to emit a 60-foot cone of amber light. Each creature in the cone must succeed on a DC 15 Wisdom saving throw or become Frightened of you for 1 minute. While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success."
+		],
+		"cost": {
+			"quantity": 1350,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/407"
+	},
+	{
+		"index": 408,
+		"name": "Wand of Fear",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the Fireball spell (save DC 15) from it. For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.",
+			"The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+		],
+		"cost": {
+			"quantity": 4550,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/408"
+	},
+	{
+		"index": 409,
+		"name": "Wand of Lightning Bolts",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the Fireball spell (save DC 15) from it. For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.",
+			"The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+		],
+		"cost": {
+			"quantity": 1050,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/409"
+	},
+	{
+		"index": 410,
+		"name": "Wand of Magic Detection",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the detect magic spell from it. The wand regains 1d3 expended charges daily at dawn."
+		],
+		"cost": {
+			"quantity": 100,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/410"
+	},
+	{
+		"index": 411,
+		"name": "Wand of Magic Missiles",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the magic missile spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.",
+			"The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+		],
+		"cost": {
+			"quantity": 350,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/411"
+	},
+	{
+		"index": 412,
+		"name": "Wand of Magic Missiles",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of you. The target must succeed on a DC 15 Constitution saving throw or be Paralyzed for 1 minute. At the end of each of the target's turns, it can repeat the saving throw, ending the effect on itself on a success.",
+			"The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+		],
+		"cost": {
+			"quantity": 1750,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/412"
+	},
+	{
+		"index": 413,
+		"name": "Wand of Polymorph",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the Polymorph spell (save DC 15) from it.",
+			"The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+		],
+		"cost": {
+			"quantity": 9350,
+			"unit": "gp"
+		},
+		"rank": "Very Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/413"
+	},
+	{
+		"index": 414,
+		"name": "Wand of Secrets",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"The wand has 3 charges. While holding it, you can use an action to expend 1 of its charges, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand regains 1d3 expended charges daily at dawn."
+		],
+		"cost": {
+			"quantity": 150,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/414"
+	},
+	{
+		"index": 415,
+		"name": "Wand of Web",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the Web spell (save DC 15) from it.",
+			"The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+		],
+		"cost": {
+			"quantity": 380,
+			"unit": "gp"
+		},
+		"rank": "Uncommon",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/415"
+	},
+	{
+		"index": 416,
+		"name": "Wand of Wonder",
+		"equipment_category": "Magical Items",
+		"armor_category": "Item",
+		"worn": false,
+		"desc": [
+			"This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space. Roll d100 and consult the following table to discover what happens.",
+			"If the effect causes you to cast a spell from the wand, the spell's save DC is 15. If the spell normally has a range expressed in feet, its range becomes 120 feet if it isn't already.",
+			"If an effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the GM randomly determines which ones are affected.",
+			"The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.",
+			"The DM will decide the 1-100 roll table."
+		],
+		"cost": {
+			"quantity": 4200,
+			"unit": "gp"
+		},
+		"rank": "Rare",
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment/416"
 	}
 ]

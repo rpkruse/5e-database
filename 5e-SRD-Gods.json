@@ -1,200 +1,255 @@
 [
     {
         "index": 1,
-        "name": "Morgandra",
-        "alignment": "Lawful Good",
-        "god_of": "God of Virtue",
-        "boon": "",
-        "desc": [
-            "Morgandra is often revered as the goddess of all things good.", 
-            "She protects the weak, and her followers uphold a set of strict virtues.", 
-            "Morgandra is often followed by Aasimar and Humands."],
+        "name": "Abraxxes",
+        "alignment": "Lawful Evil",
+        "desc": "Abraxxes is the God of Conquest and is worshiped by barbarians and clerics, and is the Patron God of Dragonkin.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/1"
     },
     {
         "index": 2,
-        "name": "Beldmos",
-        "alignment": "Neutral Good",
-        "god_of": "God of Birth",
-        "boon": "",
-        "desc": [
-            "The god of creation, the morning, and the sun.",
-            "Beldmos is revered as a skilled smith and has a great following of Dwarves."
-        ],
+        "name": "Actaeon the Stag",
+        "alignment": "True Neutral",
+        "desc": "Actaeon the Stag is the Spirit of Swiftness and is worshiped by druids and shaman.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/2"
     },
     {
         "index": 3,
-        "name": "Helenis",
-        "alignment": "Chaotic Good",
-        "god_of": "God of Death",
-        "boon": "",
-        "desc": [
-            "A goddess of death, decay, and the night. Some would think Helenis to be an evil deity.",
-            "The Elves understand that these things are but a natural part of the world, and all thing must pass eventually."
-        ],
+        "name": "Banden",
+        "alignment": "True Neutral",
+        "desc": "Banden is the God of the Wild and is worshiped by druids.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/3"
     },
     {
         "index": 4,
-        "name": "Lenagos",
-        "alignment": "Lawful Neutral",
-        "god_of": "God of Order",
-        "boon": "",
-        "desc": [
-            "Initially a powerful spirit, Lenagos is now the god of order and law to fill the void left by Hotan.",
-            "Many humans of the greater cities are followers of Lenagos as they believe his ideals to be the strong fundations for a successful society."
-        ],
+        "name": "Beldmos",
+        "alignment": "Neutral Good",
+        "desc": "Beldmos is the God of Creation and is worshiped by artificiers, and is the patron God of Mountain Dwarves.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/4"
     },
     {
         "index": 5,
-        "name": "Banden",
+        "name": "Eldare",
         "alignment": "True Neutral",
-        "god_of": "God of Wild",
-        "boon": "",
-        "desc": [
-            "A nature spirit turned god, Banden represents all things wild and fey.",
-            "Revered by druids of all races as well as the Centaurs, Firbolgs, and even some Elves."
-        ],
+        "desc": "Eldare is the Goddess of Song and is worshiped by bards, and is the patron Goddess of High Elves.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/5"
     },
     {
         "index": 6,
-        "name": "Veia",
+        "name": "Gaeos",
         "alignment": "Chaotic Neutral",
-        "god_of": "God of Arcane",
-        "boon": "",
-        "desc": [
-            "Veia gifted mortals with the boon of magic, allowing them to experience the wonders of the arcane.",
-            "Wizards and sorcerers alike now look to Veia for guidance, though her intentions are not always for the greater good."
-        ],
+        "desc": "Gaeos is the Primal Spirit of the Elements and is worshiped by shaman.",
+        "boon": {
+            "name": "By the Elements Combined",
+            "desc": "As a bonus action, you may channel the power of Gaeos, granting you resistance to cold, fire and lightning damage until your next turn. Once you use this trait, you can’t use it again until after a rest."
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/6"
     },
     {
         "index": 7,
-        "name": "Stratuul",
-        "alignment": "Lawful Evil",
-        "god_of": "God of Strength",
-        "boon": "",
-        "desc": [
-            "Stratuul, god of strength and war, was once one of the most powerful gods on Mediterra until the Pantheon of Iteria banished him and Hotan to Sotoris.",
-            "Stratuul was once worshiped by the Hobgoblins, Minotaurs, and Orcs until the Great War ended."
-        ],
+        "name": "Helenis",
+        "alignment": "Chaotic Good",
+        "desc": "Helenis is the Goddess of Death and is worshiped by rogues and warlocks, and is the Patron Goddess of Dark Elves.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/7"
     },
     {
         "index": 8,
-        "name": "Ulshelak",
-        "alignment": "Neutral Evil",
-        "god_of": "God of Madness",
-        "boon": "",
-        "desc": [
-            "Ulshelak, god of madness, was born from the Churning Chaos at the edge of reality. Though not directly involved in the Second War,...eriq never finished this desc. WAY TO GO ERIQ"
-        ],
+        "name": "Hotan",
+        "alignment": "Chaotic Evil",
+        "desc": "Hotan is the God of Chaos and is worshiped by clerics and warlocks.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/8"
     },
     {
         "index": 9,
-        "name": "Hotan",
-        "alignment": "Chaotic Evil",
-        "god_of": "God of Chaos",
-        "boon": "",
-        "desc": [
-            "The Great War started when Hotan sought to betray his siblings, the Pantheon of Iteria, and seized control of Mediterra after forsaking his duties as a god of order.",
-            "Now Hotan sits trapped within the burning realm of Sotoris, clawing at his confinements while those few who still follow him await his return."
-        ],
+        "name": "Iloru",
+        "alignment": "True Neutral",
+        "desc": "Iloru is the God of Enlightenment and is worshiped by monks.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/9"
     },
     {
         "index": 10,
-        "name": "Lothien, the Fox",
+        "name": "Kolodian",
         "alignment": "True Neutral",
-        "god_of": "Spirit of Cunning",
-        "boon": "",
-        "desc": [
-            "ERIQ ADD ONE"
-        ],
+        "desc": "Kolodian is the God of the Hunt and is worshiped by rangers, and is the patron God of Wood Elves.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/10"
     },
     {
         "index": 11,
-        "name": "Kuro, the Owl",
-        "alignment": "True Neutral",
-        "god_of": "Spirit of Wisdom",
-        "boon": "",
-        "desc": [
-            "ERIQ ADD ONE"
-        ],
+        "name": "Kralkatorrik",
+        "alignment": "Chaotic Neutral",
+        "desc": "Kralkatorrik is the God of Storms and is worshiped by barbarians and shaman.",
+        "boon": {
+            "name": "By The Power Of Kralkatorrik",
+            "desc": "As a bonus action, you may channel the power of Kralkatorrik, granting you 1d4 lightning damage on your next attack. Once you use this trait, you can’t use it again until after a rest."
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/11"
     },
     {
         "index": 12,
-        "name": "Actaeon, the Stag",
+        "name": "Kuro the Owl",
         "alignment": "True Neutral",
-        "god_of": "Spirit of Strength",
-        "boon": "",
-        "desc": [
-            "ERIQ ADD ONE"
-        ],
+        "desc": "Kuro the Owl is the Spirit of Wisdom and is worshiped by druids and shaman.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/12"
     },
     {
         "index": 13,
-        "name": "Misha, the Bear",
-        "alignment": "True Neutral",
-        "god_of": "Spirit of Strength",
-        "boon": "You gain a +1 to disappointment rolls, enemies now shout 'MISSHAAAAA NOOOOOO!'",
-        "desc": [
-            "You were hoping for a 4,2 with charge, but sadly, you low rolled and had to settle for a bear."
-        ],
+        "name": "Lajozi",
+        "alignment": "Chaotic Neutral",
+        "desc": "Lajozi is the Spirit of Luck and is worshiped by bards and rogues.",
+        "boon": {
+            "name": "A Deal with Luck",
+            "desc": "As a bonus action, you may channel the power of Lajozi, granting you advantage on your next roll, then disadvantage on the roll after that. Once you use this trait, you can’t use it again until after a rest."
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/13"
     },
     {
         "index": 14,
-        "name": "Rhokaugh",
-        "alignment": "?",
-        "god_of": "?",
-        "boon": "",
-        "desc": ["?"],
+        "name": "Lenagos",
+        "alignment": "Lawful Neutral",
+        "desc": "Lenagos is the God of Order and is worshiped by clerics and paladins.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/14"
     },
     {
         "index": 15,
-        "name": "Kolodian the Huntmaster",
-        "alignment": "?",
-        "god_of": "?",
-        "boon": "?",
-        "desc": [
-            "Summon a 1,1 doggo with charge for each enemy"
-        ],
+        "name": "Lothien the Fox",
+        "alignment": "True Neutral",
+        "desc": "Lothien the Fox is the Spirit of Cunning and is worshiped by druids and shaman.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/15"
     },
     {
         "index": 16,
-        "name": "Aldtorkin",
-        "alignment": "?",
-        "god_of": "?",
-        "boon": "?",
-        "desc": ["?"],
+        "name": "Misha the Bear",
+        "alignment": "True Neutral",
+        "desc": "Misha the Bear is the Spirit of Strength and is worshiped by druids and shaman.",
+        "boon": {
+            "name": "Mother’s Embrace",
+            "desc": "As a bonus action, you may channel the power of Misha, granting you advantage on your next check to grapple. Once you use this trait, you can’t use it again until after a rest."
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/16"
     },
     {
         "index": 17,
-        "name": "Yith, Father of Serpents",
-        "alignment": "?",
-        "god_of": "?",
-        "boon": "?",
-        "desc": ["?"],
+        "name": "Morgandra",
+        "alignment": "Morgandra is the Goddess of Virtue and is worshiped by paladins, and is the Patron Goddess of Humans.",
+        "desc": "Lawful Good",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/17"
     },
     {
         "index": 18,
-        "name": "Abraxes",
-        "alignment": "?",
-        "god_of": "?",
-        "boon": "?",
-        "desc": ["?"],
+        "name": "Ovara",
+        "alignment": "Neutral Good",
+        "desc": "Ovara is the Goddess of Healing and is worshiped by clerics.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
         "url": "https://dnd-5e-api.herokuapp.com/api/gods/18"
+    },
+    {
+        "index": 19,
+        "name": "Rhokaugh",
+        "alignment": "Neutral Good",
+        "desc": "Rhokaugh is the God of Courage and is worshiped by fighters.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/19"
+    },
+    {
+        "index": 20,
+        "name": "Stratuul",
+        "alignment": "Lawful Evil",
+        "desc": "Stratuul is the God of Strength and is worshiped by barbarians, and is the Patron God of Orcs.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/20"
+    },
+    {
+        "index": 21,
+        "name": "Ulshelak",
+        "alignment": "Neutral Evil",
+        "desc": "Ulshelak is the God of Madness and is worshiped by warlocks.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/21"
+    },
+    {
+        "index": 22,
+        "name": "Veia",
+        "alignment": "Chaotic Neutral",
+        "desc": "Veia is the Goddess of the Arcane and is worshiped by sorcerers and wizards.",
+        "boon": {
+            "name": "",
+            "desc": ""
+        },
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/22"
+    },
+    {
+        "index": 23,
+        "name": "Yith",
+        "alignment": "Chaotic Neutral",
+        "desc": "Yith is the God of Secrets and is worshiped by rogues.",
+        "boon": {
+            "name": "Serpent’s Tongue",
+            "desc": "As a bonus action, you may channel the power of Yith, granting you advantage on your next Deception check. Once you use this trait, you can’t use it again until after a rest."
+        },
+        "url": "https://dnd-5e-api.herokuapp.com/api/gods/23"
     }
 ]

@@ -523,6 +523,376 @@
 	},
 	{
 		"index": 7,
+		"name": "Magical Items",
+		"equipment": [
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/326",
+				"name": "Amulet of Health"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/327",
+				"name": "Amulet of Proof against Detection and Location"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/328",
+				"name": "Amulet of the Planes"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/329",
+				"name": "Amulet of the Planes"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/330",
+				"name": "Bag of Beans"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/331",
+				"name": "Bag of Devouring"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/332",
+				"name": "Bag of Holding"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/333",
+				"name": "Bag of Tricks"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/334",
+				"name": "Bag of Holding"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/335",
+				"name": "Bead of Force"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/336",
+				"name": "Belt of Dwarvenkind"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/337",
+				"name": "Belt of Giant Strength"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/338",
+				"name": "Boots of Elvenkind"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/339",
+				"name": "Boots of Levitation"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/340",
+				"name": "Boots of Speed"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/341",
+				"name": "Boots of Striding and Springing"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/342",
+				"name": "Boots of the Winterlands"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/343",
+				"name": "Cape of the Mountebank"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/344",
+				"name": "Cloak of Arachnida"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/345",
+				"name": "Cloak of Displacement"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/346",
+				"name": "Cloak of Elvenkind"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/347",
+				"name": "Cloak of Protection"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/348",
+				"name": "Cloak of the Bat"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/349",
+				"name": "Cloak of the Manta Ray"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/350",
+				"name": "Crystal Ball"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/351",
+				"name": "Cubic Gate"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/352",
+				"name": "Eversmoking Bottle"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/353",
+				"name": "Eyes of Charming"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/354",
+				"name": "Eyes of Minute Seeing"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/355",
+				"name": "Eyes of the Eagle"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/356",
+				"name": "Folding Boat"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/357",
+				"name": "Gauntlets of Ogre Power"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/358",
+				"name": "Gloves of Missile Snaring"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/359",
+				"name": "Gloves of Swimming and Climbing"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/360",
+				"name": "Hat of Disguise"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/361",
+				"name": "Headband of Intellect"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/362",
+				"name": "Helm of Brilliance"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/363",
+				"name": "Helm of Comprehending Languages"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/364",
+				"name": "Helm of Telepathy"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/365",
+				"name": "Helm of Teleportation"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/366",
+				"name": "Helm of Teleportation"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/367",
+				"name": "Immovable Rod"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/368",
+				"name": "Ioun Stone (Absorption)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/369",
+				"name": "Ioun Stone (Agility)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/370",
+				"name": "Ioun Stone (Awareness)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/371",
+				"name": "Ioun Stone (Fortitude)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/372",
+				"name": "Ioun Stone (Greater Absorption)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/373",
+				"name": "Ioun Stone (Insight)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/374",
+				"name": "Ioun Stone (Intellect)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/375",
+				"name": "Ioun Stone (Leadership)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/376",
+				"name": "Ioun Stone (Mastery)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/377",
+				"name": "Ioun Stone (Protection)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/378",
+				"name": "Ioun Stone (Regeneration)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/379",
+				"name": "Ioun Stone (Reserve)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/380",
+				"name": "Ioun Stone (Strength)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/381",
+				"name": "Ioun Stone (Sustenance)"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/382",
+				"name": "Iron Bands of Binding"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/383",
+				"name": "Lantern of Revealing"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/384",
+				"name": "Mantle of Spell Resistance"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/385",
+				"name": "Mantle of Bodily Health"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/386",
+				"name": "Manual of Gainful Exercise"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/387",
+				"name": "Manual of Quickness of Action"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/388",
+				"name": "Madallion of Thoughts"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/389",
+				"name": "Madallion of Thoughts"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/390",
+				"name": "Mirror of Life Trapping"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/391",
+				"name": "Necklace of Adaptation"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/392",
+				"name": "Necklace of Fireballs"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/393",
+				"name": "Necklace of Prayer Beads"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/394",
+				"name": "Pearl of Power"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/395",
+				"name": "Periapt of Health"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/396",
+				"name": "Periapt of Proof against Poison"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/397",
+				"name": "Periapt of Wound Closure"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/398",
+				"name": "Portable Hole"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/399",
+				"name": "Rod of Alertness"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/400",
+				"name": "Rod of Rulership"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/401",
+				"name": "Rod of Security"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/402",
+				"name": "Talisman of Pure Good"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/403",
+				"name": "Talisman of the Sphere"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/404",
+				"name": "Talisman of Ultimate Evil"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/405",
+				"name": "Wand of Binding"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/406",
+				"name": "Wand of Enemy Detection"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/407",
+				"name": "Wand of Fear"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/408",
+				"name": "Wand of Fear"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/409",
+				"name": "Wand of Lightning Bolts"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/410",
+				"name": "Wand of Magic Detection"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/411",
+				"name": "Wand of Magic Missiles"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/412",
+				"name": "Wand of Magic Missiles"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/413",
+				"name": "Wand of Polymorph"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/414",
+				"name": "Wand of Secrets"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/415",
+				"name": "Wand of Web"
+			},
+			{
+				"url": "https://dnd-5e-api.herokuapp.com/api/equipment/416",
+				"name": "Wand of Wonder"
+			}
+		]
+	},
+	{
+		"index": 8,
 		"name": "Adventuring Gear",
 		"equipment": [
 			{
@@ -982,10 +1352,10 @@
 				"name": "Scholar's Pack"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/7"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/8"
 	},
 	{
-		"index": 8,
+		"index": 9,
 		"name": "Tools",
 		"equipment": [
 			{
@@ -1113,10 +1483,10 @@
 				"name": "Thieves’ tools"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/8"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/9"
 	},
 	{
-		"index": 9,
+		"index": 10,
 		"name": "Mounts and Vehicles",
 		"equipment": [
 			{
@@ -1372,10 +1742,10 @@
 				"name": "Warship"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/9"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/10"
 	},
 	{
-		"index": 10,
+		"index": 11,
 		"name": "Standard Gear",
 		"equipment": [
 			{
@@ -1779,10 +2149,10 @@
 				"name": "Whetstone"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/10"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/11"
 	},
 	{
-		"index": 11,
+		"index": 12,
 		"name": "Kits",
 		"equipment": [
 			{
@@ -1814,10 +2184,10 @@
 				"name": "Poisoner’s Kit"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/11"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/12"
 	},
 	{
-		"index": 12,
+		"index": 13,
 		"name": "Equipment Packs",
 		"equipment": [
 			{
@@ -1849,10 +2219,10 @@
 				"name": "Scholar's Pack"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/12"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/13"
 	},
 	{
-		"index": 13,
+		"index": 14,
 		"name": "Artisan's Tools",
 		"equipment": [
 			{
@@ -1924,10 +2294,10 @@
 				"name": "Woodcarver’s tools"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/13"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/14"
 	},
 	{
-		"index": 14,
+		"index": 15,
 		"name": "Gaming Sets",
 		"equipment": [
 			{
@@ -1939,10 +2309,10 @@
 				"name": "Playing card set"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/14"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/15"
 	},
 	{
-		"index": 15,
+		"index": 16,
 		"name": "Musical Instruments",
 		"equipment": [
 			{
@@ -1986,10 +2356,10 @@
 				"name": "Viol"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/15"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/16"
 	},
 	{
-		"index": 16,
+		"index": 17,
 		"name": "Other Tools",
 		"equipment": [
 			{
@@ -2001,10 +2371,10 @@
 				"name": "Thieves’ tools"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/16"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/17"
 	},
 	{
-		"index": 17,
+		"index": 18,
 		"name": "Mounts and Other Anumals",
 		"equipment": [
 			{
@@ -2036,10 +2406,10 @@
 				"name": "Warhorse"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/17"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/18"
 	},
 	{
-		"index": 18,
+		"index": 19,
 		"name": "Tack, Harness, and Drawn Vehicles",
 		"equipment": [
 			{
@@ -2143,10 +2513,10 @@
 				"name": "Wagon"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/18"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/19"
 	},
 	{
-		"index": 19,
+		"index": 20,
 		"name": "Waterborne Vehicles",
 		"equipment": [
 			{
@@ -2174,6 +2544,6 @@
 				"name": "Warship"
 			}
 		],
-		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/19"
+		"url": "https://dnd-5e-api.herokuapp.com/api/equipment-categories/20"
 	}
 ]
